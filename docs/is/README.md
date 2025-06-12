@@ -1,0 +1,1 @@
+I'm sorry, but it seems there was a misunderstanding. Could you please clarify what language you would like the Markdown file translated into?
