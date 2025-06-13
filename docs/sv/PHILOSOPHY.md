@@ -1,29 +1,30 @@
+-----
+# Nulliandoms filosofi
 
-# Filosofi om Nullianism
+## Den högsta värderingen — Att förstå världen
 
-## Det högsta värdet — Kunskap om Världen
+Vårt högsta värde är att förstå världen. Ju bättre vi förstår den omgivande världen, desto effektivare kan vi uppnå våra mål, vilka de än må vara. Ur detta värde följer även humanismen: människans liv är det främsta värdet, eftersom döden berövar henne möjligheten att förstå.
 
-Vårt högsta värde är kunskap om världen. Ju bättre vi förstår den omgivande världen, desto effektivare kan vi nå våra mål, oavsett vad de är. Från detta värde kommer också humanism: människolivet är det främsta värdet, eftersom döden berövar en person möjligheten att lära känna.
+## Grunden — Den vetenskapliga metoden
 
-## Grunden — Vetenskaplig Metod
+Till skillnad från traditionella religioner, som bygger på tro, bygger Nulliandom på tvivel, kritiskt tänkande och vetenskaplig metod. Vi accepterar inga påståenden utan bevis.
 
-Till skillnad från traditionella religioner, som bygger på tro, bygger nullianism på tvivel, kritiskt tänkande och vetenskaplig metod. Vi accepterar inte påståenden utan bevis.
+## Förhållningssätt till Gud och det övernaturliga
 
-## Förhållande till Gud och det övernaturliga
-
-Inom nullianism finns ingen Gud, eftersom vetenskapen inte har upptäckt någon. Det är en funktionellt ateistisk religion. Vi hävdar inte att Gud definitivt inte finns, men vi agerar utifrån bristen på övertygande bevis för hans existens. Om existensen av en gudom vetenskapligt bevisas, kommer nullianism att acceptera detta faktum.
+I Nulliandom finns ingen Gud därför att vetenskapen inte har funnit någon. Det är en funktionellt ateistisk religion. Vi hävdar inte att Gud definitivt inte finns, men vi agerar utifrån avsaknaden av övertygande bevis för hans existens. Om en gudoms existens skulle bevisas vetenskapligt, skulle Nulliandom acceptera detta faktum.
 
 ## Liv efter döden: Immortalism
 
-Istället för tro på ett liv efter döden erbjuder nullianism idén om **immortalism** — strävan att förhindra eller maximalt skjuta upp fysisk död med hjälp av vetenskap och teknik. Vi förbereder oss inte för döden, utan försöker undvika den. En nullian ger som standard sitt samtycke till teknologisk odödlighet och återuppståndelse, om en sådan möjlighet uppstår i framtiden.
+I stället för tro på ett liv efter döden erbjuder Nulliandom idén om **immortalism** — strävan att förhindra eller skjuta upp den fysiska döden så långt som möjligt med hjälp av vetenskap och teknik. Vi förbereder oss inte för döden utan försöker undvika den. En Nulliand ger som standard sitt samtycke till teknologisk odödlighet och återuppståndelse, om en sådan möjlighet skulle uppstå i framtiden.
 
-## Nullianismens Fiender
+## Nulliandoms fiender
 
-Den främsta antagonisten till nullianism är **antiargumentation**:
+Den främsta antagonisten till Nulliandom är **antiargumentation**:
 
-- Avsiktlig spridning av desinformation.
-- Föraktfull inställning till vetenskap och fakta.
-- Lösning av tvister med våld istället för logik och argument.
-- Påverkan på känslor istället för att vädja till förnuftet.
+- Avsiktlig spridning av desinformation.  
+- Föraktfull inställning till vetenskap och fakta.  
+- Att lösa tvister med våld i stället för logik och argument.  
+- Att vädja till känslor i stället för att tilltala förnuftet.
 
-Vi kämpar inte mot människor, utan mot skadliga idéer.
+Vi kämpar inte mot människor utan mot skadliga idéer.
+-----

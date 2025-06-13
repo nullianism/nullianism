@@ -1,17 +1,18 @@
-
+-----
 # Cum să contribui
 
-Nullianismul este o religie open-source. Oricine poate contribui la dezvoltarea sa.
+Nullianism este o religie open-source. Oricine poate contribui la dezvoltarea ei.
 
 ## Cum să faci asta?
 
-1. **Propune idei prin Issues:** Dacă ai o propunere pentru o nouă poruncă, ritual, clarificare a filosofiei sau doar un gând pentru discuție, creează un nou Issue în acest depozit.
-2. **Fă modificări prin Pull Requests:** Dacă vrei să corectezi o greșeală de tipar, să îmbunătățești formularea sau să adaugi ceva concret în fișierele existente, fă un fork al depozitului, efectuează modificările și trimite un Pull Request.
+1. **Propuneți idei prin Issues:** Dacă aveți o propunere pentru o nouă poruncă, un ritual, o clarificare filozofică sau pur și simplu un gând de discutat, creați un nou Issue în acest depozit.  
+2. **Efectuați modificări prin Pull Requests:** Dacă doriți să corectați o greșeală de tipar, să îmbunătățiți o formulare sau să adăugați ceva concret în fișierele existente, faceți fork la depozit, efectuați modificările și trimiteți un Pull Request.
 
 ## Principii de bază
 
-- **Conformitate cu filosofia:** Toate propunerile trebuie să fie în conformitate cu valorile cheie ale nullianismului: curiozitate, abordare științifică, gândire critică și umanism.
-- **Constructivitate:** Discuțiile trebuie să fie respectuoase. Criticăm ideile, nu oamenii.
-- **Lipsa dogmelor:** Nullianismul este un sistem viu, în dezvoltare. Fii pregătit ca ideile tale să fie contestate și fii deschis să le schimbi în lumina noilor fapte și argumente.
+- **Aliniere la filozofie:** Toate propunerile trebuie să fie conforme cu valorile-cheie ale Nullianismului: curiozitate, abordare științifică, gândire critică și umanism.  
+- **Constructivitate:** Discuțiile trebuie să fie respectuoase. Criticăm ideile, nu oamenii.  
+- **Fără dogme:** Nullianismul este un sistem viu, în evoluție. Fiți pregătiți ca ideile voastre să fie contestate și fiți deschiși să le modificați în lumina noilor fapte și argumente.
 
-Să creăm împreună religia viitorului!
+Haideți să creăm împreună religia viitorului! 
+-----

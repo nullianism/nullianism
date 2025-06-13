@@ -1,26 +1,27 @@
+-----
+# Buyruqlar
 
-# Васиятлар
+1. **O'LMA.**
+    *Chunki sening o'liming dunyoni anglash imkoniyatidan mahrum qiladi. A bilish — Nullianlikning eng muhim qadriyatidir.*
 
-1. **ЎЛМА.**
-    *Чунки сенинг ўлишиң дунёни англаш имкониятидан маҳрум қилади. Англаш — нуллианизмнинг асосий қадрияти.*
+2. **O'LDIRMA.**
+    *Chunki u holda boshqa kishi ham ilmga intila olmaydi.*
 
-2. **ЎЛДИРМА.**
-    *Чунки бошқа инсон билимга интилиш имкониятидан маҳрум бўлади.*
+3. **YALGAN AXBOROT TARQATMA.**
+    *Bugun sen yolg'on e'tiqodlarni tarqatyapsan, ertaga esa o'zing ularning qurboniga aylanasan.*
 
-3. **ДЕЗИНФОРМАЦИЯ ҚИЛМА.**
-    *Бугун сен ёлғон эътиқодларни тарқатасан, эртага эса ўзинг уларнинг қурбони бўласан.*
+4. **O'Z QARASHLARINGNING RAD ETILISHIDAN QOCHMA.**
+    *Xatolaringni tan ol va shu tariqa boshqalarga namuna bo'l.*
 
-4. **ЎЗ ҚАРАШЛАРИНГНИ ИНКОР ҚИЛИШДАН ҚОЧМА.**
-    *Хатоларингни тан олиб, бошқаларга намуна бўл.*
+5. **SHARTSIZ AVTORITETLAR YARATMA.**
+    *Har kim adashishi mumkin.*
 
-5. **МУТЛАҚО БЎЙСУНУВЧИ АВТОРИТЕТЛАРНИ ЯРАТМА.**
-    *Ҳар ким хатога йўл қўйиши мумкин.*
+6. **O'ZINGDAN TALAB QILMAGANINGNI BOSHQALARDAN TALAB QILMA.**
+    *O'zing fikrlash tarzingdagi ikki xil standartlarni aniqlab, yanada yaxshilan.*
 
-6. **ЎЗИНГДАН ТАЛАБ ҚИЛМАГАН НАРСАНИ БОШҚАЛАРДАН ТАЛАБ ҚИЛМА.**
-    *Фикрлашингдаги икки хил стандартларни аниқлаб, яхшироқ бўлишга интилиш.*
+7. **BOSHQALAR BILIM OLISHIGA QARSHILIK QILMA.**
+    *Kimdir o'zi nimanidir o'rgangan bo'lsa, ehtimol seni ham o'rgatar.*
 
-7. **БИРОВНИНГ БИЛИМИГА ТЎСҚИНЛИК ҚИЛМА.**
-    *Кимки ўзи ниманидир ўрганган бўлса, эҳтимол, сени ҳам ўргатиши мумкин.*
-
-8. **АЙЛАНМА ДАЛИЛЛАРНИ ЯРАТМА.**
-    *«Инжил доимо ҳақ, чунки Инжилда шундай дейилган, ва Инжил доимо ҳақ». Буни бошқа динларга қолдир.*
+8. **HALQALI DALIL KELTIRMA.**
+    *«Injil har doim toʻgʻri, chunki Injilda shunday yozilgan, demak Injil har doim toʻgʻri». Buni boshqa dinlarga qoldir.*
+-----

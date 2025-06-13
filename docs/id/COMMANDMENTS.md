@@ -1,26 +1,25 @@
-
 # Perintah
 
 1. **JANGAN MATI.**
-    *Karena kematianmu menghalangimu untuk memahami dunia. Dan pemahaman adalah nilai utama nullianisme.*
+    *Sebab kematianmu menghilangkan kesempatanmu untuk memahami dunia. Dan pengetahuan — nilai utama Agama Nullian.*
 
 2. **JANGAN MEMBUNUH.**
-    *Karena orang lain tidak akan bisa meraih pengetahuan.*
+    *Sebab jika tidak, orang lain takkan dapat meraih pengetahuan.*
 
-3. **JANGAN MENYEBARKAN INFORMASI YANG SALAH.**
-    *Hari ini kamu menyebarkan keyakinan palsu, dan besok kamu sendiri akan menjadi korbannya.*
+3. **JANGAN MENYEBAR DISINFORMASI.**
+    *Hari ini engkau menyebarkan keyakinan palsu, besok engkau sendiri menjadi korbannya.*
 
-4. **JANGAN MENGHINDARI PEMBANTAHAN PANDANGANMU.**
-    *Akui kesalahanmu dan dengan demikian berikan contoh kepada orang lain.*
+4. **JANGAN MENGHINDARI PEMBANTAHAN TERHADAP PANDANGANMU.**
+    *Akuilah kesalahanmu dan dengan demikian berilah teladan kepada yang lain.*
 
 5. **JANGAN MENCIPTAKAN OTORITAS YANG TAK TERBANTAHKAN.**
-    *Setiap orang bisa salah.*
+    *Setiap orang bisa keliru.*
 
-6. **JANGAN MEMINTA DARI ORANG LAIN APA YANG TIDAK KAMU MINTA DARI DIRIMU SENDIRI.**
-    *Identifikasi standar ganda dalam pemikiranmu untuk menjadi lebih baik.*
+6. **JANGAN MENUNTUT DARI ORANG LAIN APA YANG TIDAK KAU TUNTUT DARI DIRIMU.**
+    *Singkapkan standar ganda dalam pikiranmu agar menjadi lebih baik.*
 
-7. **JANGAN MENGHALANGI PEMAHAMAN ORANG LAIN.**
-    *Siapa yang telah belajar sesuatu, mungkin akan mengajarimu juga.*
+7. **JANGAN MENGHALANGI PENGETAHUAN ORANG LAIN.**
+    *Siapa yang telah belajar sesuatu mungkin bisa mengajarkanmu juga.*
 
-8. **JANGAN MENCIPTAKAN ARGUMENTASI MELINGKAR.**
-    *"Alkitab selalu benar karena dikatakan demikian dalam Alkitab, dan Alkitab selalu benar." Biarkan ini untuk agama lain.*
+8. **JANGAN MEMBUAT ARGUMENTASI SIRKULAR.**
+    *«Alkitab selalu benar karena demikian tertulis dalam Alkitab, dan Alkitab selalu benar». Tinggalkan hal itu untuk agama-agama lain.*

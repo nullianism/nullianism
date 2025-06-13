@@ -1,26 +1,27 @@
-
+-----
 # Baušļi
 
-1. **NE MIRSTI.**
-    *Jo tava nāve atņem tev iespēju iepazīt pasauli. Un zināšanas ir nulliānisma galvenā vērtība.*
+1. **NEMIRSTI.**
+    *Jo tava nāve atņem tev iespēju iepazīt pasauli. Bet zināšanu ieguve — Nullianietības galvenā vērtība.*
 
-2. **NE NOGALINI.**
-    *Jo tad cits cilvēks nevarēs tiekties pēc zināšanām.*
+2. **NENOGALINI.**
+    *Jo tad citam cilvēkam nebūs iespējas tiekties pēc zināšanām.*
 
-3. **NE DEZINFORMĒ.**
-    *Šodien tu izplati nepatiesus uzskatus, bet rīt pats kļūsi par to upuri.*
+3. **NEDEZINFORMĒ.**
+    *Šodien tu izplati maldīgus uzskatus, bet rīt pats kļūsi to upuris.*
 
 4. **NEIZVAIRIES NO SAVU UZSKATU ATSPĒKOŠANAS.**
-    *Atzīsti savas kļūdas un tādējādi rādi piemēru citiem.*
+    *Atzīsti savas kļūdas un tā rādi piemēru citiem.*
 
-5. **NEVEIDO NEAPSTRĪDAMAS AUTORITĀTES.**
+5. **NEVEIDO NEAPSTRĪDĀMAS AUTORITĀTES.**
     *Kļūdīties var ikviens.*
 
 6. **NEPRASI NO CITIEM TO, KO NEPRASI NO SEVIS.**
-    *Atklāj sava domāšanas dubultstandartus, lai kļūtu labāks.*
+    *Atmasko savas domāšanas dubultos standartus, lai kļūtu labāks.*
 
-7. **NETRAUCĒ CITAM IEGŪT ZINĀŠANAS.**
-    *Kas pats kaut ko iemācījies, iespējams, iemācīs arī tevi.*
+7. **NETRAUCĒ CITU IZZINAI.**
+    *Tas, kurš pats ko iemācījies, varbūt iemācīs arī tevi.*
 
-8. **NEVEIDO APĻVEIDA ARGUMENTĀCIJU.**
+8. **NEVEIDO CIRKULĀRU ARGUMENTĀCIJU.**
     *«Bībele vienmēr ir pareiza, jo tā teikts Bībelē, un Bībele vienmēr ir pareiza». Atstāj to citām reliģijām.*
+-----

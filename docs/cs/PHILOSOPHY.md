@@ -1,29 +1,30 @@
-
-# Filosofie Nullianismu
+-----
+# Filozofie Nullianství
 
 ## Nejvyšší hodnota — Poznání Světa
 
-Naší nejvyšší hodnotou je poznání světa. Čím lépe chápeme okolní svět, tím efektivněji můžeme dosahovat svých cílů, ať už jsou jakékoliv. Z této hodnoty vyplývá i humanismus: život člověka je hlavní hodnotou, protože smrt zbavuje člověka možnosti poznávat.
+Naší nejvyšší hodnotou je poznání světa. Čím lépe chápeme okolní svět, tím účinněji můžeme dosahovat svých cílů, ať už jsou jakékoli. Z této hodnoty vyplývá i humanismus: lidský život je hlavní hodnotou, protože smrt člověka zbavuje možnosti poznávat.
 
 ## Základ — Vědecký Přístup
 
-Na rozdíl od tradičních náboženství, založených na víře, je nullianismus založen na pochybnostech, kritickém myšlení a vědecké metodě. Nepřijímáme tvrzení bez důkazů.
+Na rozdíl od tradičních náboženství založených na víře je Nullianství založeno na pochybování, kritickém myšlení a vědecké metodě. Nepřijímáme tvrzení bez důkazů.
 
-## Postoj k Bohu a nadpřirozenému
+## Postoj k Bohu a nadpřirozenu
 
-V nullianismu není Bůh, protože věda ho neodhalila. Je to funkčně ateistické náboženství. Netvrdíme, že Bůh určitě neexistuje, ale jednáme na základě absence přesvědčivých důkazů o jeho existenci. Pokud bude existence božstva vědecky prokázána, nullianismus tento fakt přijme.
+V Nullianství není Bůh, protože jej věda neobjevila. Jde o funkčně ateistické náboženství. Netvrdíme, že Bůh určitě neexistuje, ale jednáme na základě absence přesvědčivých důkazů jeho existence. Pokud bude existence božstva vědecky prokázána, Nullianství tento fakt přijme.
 
-## Život po smrti: Immortalismus
+## Život po smrti: Imortalismus
 
-Místo víry v posmrtný život nabízí nullianismus myšlenku **immortalismu** — snahu zabránit nebo maximálně oddálit fyzickou smrt pomocí vědy a technologií. Nepřipravujeme se na smrt, ale snažíme se jí vyhnout. Nullianista implicitně dává souhlas k technologické nesmrtelnosti a vzkříšení, pokud se taková možnost v budoucnu objeví.
+Místo víry v posmrtný život Nullianství nabízí myšlenku **imortalismu** — snahu zabránit fyzické smrti nebo ji co nejvíce oddálit pomocí vědy a technologií. Nepřipravujeme se na smrt, nýbrž se jí snažíme vyhnout. Nullianec standardně dává souhlas s technologickou nesmrtelností a vzkříšením, pokud se taková možnost v budoucnu objeví.
 
-## Nepřátelé Nullianismu
+## Nepřátelé Nullianství
 
-Hlavním antagonistou nullianismu je **antiargumentace**:
+Hlavním antagonistou Nullianství je **antiargumentace**:
 
-- Záměrné šíření dezinformací.
+- Úmyslné šíření dezinformací.
 - Pohrdavý postoj k vědě a faktům.
-- Řešení sporů silou, nikoliv logikou a argumenty.
-- Působení na emoce místo oslovování rozumu.
+- Řešení sporů silou, nikoli logikou a argumenty.
+- Působení na emoce místo apelování na rozum.
 
-Nebojujeme s lidmi, ale se škodlivými myšlenkami.
+Bojujeme nikoli s lidmi, ale se škodlivými myšlenkami.
+-----

@@ -1,36 +1,35 @@
-
-# Nullianismus 
+# Nullianentum 
 
 > Die erste wissenschaftliche Open-Source-Religion der Welt.
 
-Willkommen im Nullianismus-Repository — einer wissenschaftlichen Religion, die von Alexander Panchin geschaffen wurde. Dies ist kein Scherz und kein Clickbait, sondern ein soziales Experiment und der Versuch, ein Wertesystem zu schaffen, das nicht auf Dogmen und Glauben, sondern auf Neugier, kritischem Denken und einem wissenschaftlichen Ansatz basiert.
+Willkommen im Repository des Nullianentums – einer wissenschaftlichen Religion, die von Alexander Pantschin geschaffen wurde. Dies ist kein Scherz und kein Clickbait, sondern ein soziales Experiment und der Versuch, ein Wertesystem zu schaffen, das nicht auf Dogmen und Glauben basiert, sondern auf Neugier, kritischem Denken und einem wissenschaftlichen Ansatz.
 
-## Hauptidee
+## Grundidee
 
-Nullianismus ist eine Religion, die Menschen nicht um eine Gottheit oder Gottheiten vereinen soll, sondern um die menschliche Neugier. Wir nutzen die „Hülle“ der Religion — ihren mächtigen Mechanismus zur Verbreitung von Ideen und zur Schaffung von Gemeinschaften — und füllen sie mit rationalem und humanistischem Inhalt.
+Das Nullianentum ist eine Religion, die Menschen nicht um eine Gottheit oder mehrere Gottheiten versammelt, sondern um die menschliche Neugier. Wir nutzen die „Hülle“ der Religion – ihren mächtigen Mechanismus zur Verbreitung von Ideen und zum Aufbau von Gemeinschaften – füllen sie jedoch mit rationalem und humanistischem Inhalt.
 
-**Unser Symbol ist die Null (0)**. Sie symbolisiert:
+**Unser Symbol ist die Null (0).** Sie symbolisiert:
 
 - Das Fehlen von Dogmen und Vorurteilen.
-- Den Ausgangspunkt des Wissens.
-- Die Gleichheit aller Teilnehmer, das Fehlen von Hierarchie.
-- Den Ring der Vernunft, der Menschen vereint.
+- Den Ausgangspunkt der Erkenntnis.
+- Gleichen Abstand aller Teilnehmenden vom Zentrum, keine Hierarchie.
+- Einen Ring des Verstandes, der Menschen vereint.
 
-## Struktur des Repositories
+## Repository-Struktur
 
-- [**Manifest der Neugier (`MANIFESTO.md`)**](./MANIFESTO.md) — der Hauptprogrammentext unserer Religion, generiert durch künstliche Intelligenz.
-- [**Gebote (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 Schlüsselprinzipien, die einen Nullianer leiten.
-- [**Rituale (`RITUALS.md`)**](./RITUALS.md) — Praktiken, die helfen, die Ideen des Nullianismus zu stärken und zu verbreiten.
-- [**Philosophie (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — eine detaillierte Darstellung der Hauptwerte, der Weltsicht, der Ethik und der Gegner des Nullianismus.
-- [**Wie man beiträgt (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — Regeln für diejenigen, die zur Entwicklung dieser Religion beitragen möchten.
+- [**Neugier-Manifest (`MANIFESTO.md`)**](./MANIFESTO.md) — der zentrale programmatische Text unserer Religion, erzeugt von künstlicher Intelligenz.  
+- [**Gebote (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 Schlüsselprinzipien, nach denen sich ein Nullianer richtet.  
+- [**Rituale (`RITUALS.md`)**](./RITUALS.md) — Praktiken, die helfen, die Ideen des Nullianentums zu festigen und zu verbreiten.  
+- [**Philosophie (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — eine detaillierte Darstellung der Grundwerte, des Weltbilds, der Ethik und der Feinde des Nullianentums.  
+- [**Wie man beiträgt (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — Regeln für alle, die an der Weiterentwicklung dieser Religion mitwirken möchten.
 
 ## Wie wird man Nullianer?
 
-Wenn Sie die hier dargelegten Ideen teilen, betrachten Sie sich bereits als Nullianer. Es sind keine formalen Verfahren erforderlich. Unsere Religion ist dezentralisiert.
+Wenn Sie die hier dargestellten Ideen teilen, sind Sie bereits Nullianer. Es sind keine formalen Verfahren erforderlich. Unsere Religion ist dezentralisiert.
 
-## Wie kann man dem Projekt helfen?
+## Wie kann man das Projekt unterstützen?
 
-1. **Teilen Sie dieses [Video](https://www.youtube.com/watch?v=mCErecXWGCc) und das Repository mit Freunden.**
-2. **Liken und kommentieren Sie.**
+1. **Teilen Sie dieses [Video](https://www.youtube.com/watch?v=mCErecXWGCc) und das Repository mit Ihren Freunden.**
+2. **Geben Sie Likes und hinterlassen Sie Kommentare.**
 3. **Schlagen Sie Ihre Ideen** für Gebote und Rituale über Issues und Pull Requests in diesem Repository vor.
-4. **Korrigieren** Sie die Website des Projekts hier: https://github.com/nullianism/nullianism.github.io
+4. **Korrigieren oder verbessern** Sie die Projekt-Website hier: https://github.com/nullianism/nullianism.github.io

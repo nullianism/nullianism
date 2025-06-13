@@ -1,26 +1,27 @@
-
+-----
 # Amri
 
 1. **USIFE.**
-    *Kwa maana kifo chako kinakunyima fursa ya kujifunza ulimwengu. Na maarifa — ndiyo thamani kuu ya nullianism.*
+    *Kwa kuwa kifo chako kinakunyima uwezo wa kujifunza kuhusu ulimwengu. Na maarifa ndiyo thamani kuu ya Unulliani.*
 
 2. **USIUE.**
-    *Kwa maana basi mtu mwingine hatakuwa na uwezo wa kufikia maarifa.*
+    *Kwa kuwa hapo mtu mwingine hataweza kutamani kupata maarifa.*
 
-3. **USISAMBAZE TAARIFA POTOFU.**
-    *Leo unasambaza imani za uongo, na kesho utakuwa mwathirika wao mwenyewe.*
+3. **USIPOTOSHE.**
+    *Leo unasambaza imani za uongo, kesho utakuwa mhanga wake mwenyewe.*
 
-4. **USIEPUKE KUKOSOLEWA KWA MAWAZO YAKO.**
-    *Kubali makosa yako na hivyo uwe mfano kwa wengine.*
+4. **USIKIMBIE KUKANUSHWA KWA MITAZAMO YAKO.**
+    *Kiri makosa yako na hivyo utoe mfano kwa wengine.*
 
-5. **USIUMBE MAMLAKA ISIYOHOJIWA.**
+5. **USIUNDE MAMLAKA ISIYOHOJIWA.**
     *Kila mtu anaweza kukosea.*
 
-6. **USIWAAMBIE WENGINE WAFANYE KILE AMBACHO WEWE MWENYEWE HUFANYI.**
-    *Tambua viwango viwili vya fikra zako ili uwe bora zaidi.*
+6. **USIDAI KUTOKA KWA WENGINE KILE AMBACHO HUDAI KUTOKA KWAKO MWENYEWE.**
+    *Tambua viwango viwili katika fikra zako ili uwe bora.*
 
-7. **USIZUIE UFAHAMU WA WENGINE.**
-    *Yeyote aliyejifunza kitu, huenda akakufundisha pia.*
+7. **USIZUIE UJIFUNZAJI WA WENGINE.**
+    *Aliyejifunza kitu anaweza pia kukufundisha.*
 
-8. **USIUMBE HOJA ZA KIZUNGUKA.**
-    *"Biblia daima ni sahihi kwa sababu imeandikwa hivyo kwenye Biblia, na Biblia daima ni sahihi". Acha haya kwa dini nyingine.*
+8. **USITUMIE HOJA YA MDUARA.**
+    *“Biblia iko sahihi daima kwa sababu imeandikwa hivyo kwenye Biblia, na Biblia iko sahihi daima.” Acha haya kwa dini nyingine.*
+-----

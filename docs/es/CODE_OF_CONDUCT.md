@@ -1,16 +1,17 @@
-
+-----
 # Código de conducta de los participantes v2.1
 
 ## Nuestro compromiso
-Nosotros, como participantes, contribuyentes y líderes, nos comprometemos a hacer que la participación en nuestra comunidad esté libre de acoso para todos, independientemente de la edad, el tipo de cuerpo, la discapacidad visible o invisible, la pertenencia étnica, las características sexuales, la identidad y expresión de género, el nivel de experiencia, la educación, el estatus socioeconómico, la nacionalidad, la apariencia, la raza, la casta, el color de piel, la religión o la identidad y orientación sexual.
+Nosotros, como participantes, colaboradores y líderes, nos comprometemos a garantizar que la participación en nuestra comunidad esté libre de acoso para todas las personas, independientemente de la edad, complexión física, discapacidad visible o invisible, origen étnico, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia, raza, casta, color de piel, religión o identidad y orientación sexual.
 
 ## Nuestros estándares
-Ejemplos de comportamientos que contribuyen a crear un ambiente positivo incluyen:
+Ejemplos de conductas que contribuyen a crear un ambiente positivo incluyen:
 - Mostrar empatía y amabilidad hacia otras personas
 - Respetar diferentes opiniones, puntos de vista y experiencias
-- Proporcionar y aceptar retroalimentación constructiva de manera digna
+- Ofrecer y aceptar de manera digna retroalimentación constructiva
 
 ## Aplicación
-Los casos de comportamiento abusivo, acosador o de otro tipo inaceptable pueden ser reportados contactando al equipo del proyecto a través de GitHub Issues con la etiqueta `coc`. Todas las quejas serán revisadas e investigadas de manera rápida y justa.
+Los casos de comportamiento abusivo, acosador o de otro modo inaceptable pueden informarse contactando al equipo del proyecto a través de GitHub Issues con la etiqueta `coc`. Todas las quejas serán revisadas e investigadas de manera rápida y justa.
 
 > Texto completo: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+-----

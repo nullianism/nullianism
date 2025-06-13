@@ -1,26 +1,27 @@
+-----
+# Mga Ritwal ng Nullianismo
 
-# Ritwal ng Nullianismo
+Ang mga ritwal sa Nullianismo ay mga gawain na naglalayong patatagin ang mga pagpapahalaga ng kaalaman, kritikal na pag-iisip, at pagbubuo ng komunidad.
 
-Ang mga ritwal sa nullianismo ay mga gawain na naglalayong palakasin ang mga halaga ng kaalaman, kritikal na pag-iisip, at pagbuo ng komunidad.
+1.  ### Kwest (galing sa Eng. *Question*)
+    Simulan ang umaga sa isang tanong. Sa buong araw, subukan mong makahanap ng tapat na sagot. Huwag mahiyang magtanong sa iba — sa mga mas bihasa kaysa sa iyo sa paksang iyon.
 
-1.  ### Kwest (mula sa Ingles na *Question*)
-    Simulan ang umaga sa isang tanong. Sa buong araw, subukan mong makahanap ng tapat na sagot dito. Huwag mag-atubiling magtanong sa iba — sa mga mas nakakaalam tungkol sa tanong kaysa sa iyo.
+2.  ### Beyzcheking, o Ritwal ng dobleng fact-checking
+    Kung nagsusulat ka ng makahulugang komento o post, dalawang beses na suriin ang katumpakan ng impormasyong ilalahad, mas mabuti kung sa magkaibang sanggunian. Bilang tanda na ginawa mo ito, maglagay ng sagradong simbolong **0** sa simula ng iyong mensahe. Ito ang iyong panandang sagisag ng pananagutan sa sarili mong mga salita.
 
-2.  ### Base-checking, o Ritwal ng dobleng pag-check ng katotohanan
-    Kung nagsusulat ka ng makabuluhang komento o post, dalawang beses mong suriin ang katotohanan ng impormasyong inilatag, mas mabuti mula sa iba't ibang mapagkukunan. Bilang tanda na ginawa mo ito, ilagay sa simula ng iyong mensahe ang sagradong simbolo **0**. Ito ang iyong tanda ng responsibilidad para sa iyong mga salita.
-
-3.  ### Gawa ng dalisay na hangarin
-    Kung sa personal na pakikipag-usap ay nais mong magtanong mula sa tapat na kuryusidad, at hindi para sa pagtatalo, maaari mong iguhit sa hangin gamit ang daliri ang isang zero (0). Ipapakita nito sa kausap ang kadalisayan ng iyong hangarin. Ang taong tinatanong ay magpapakita ng espesyal na paggalang dito.
+3.  ### Galaw ng dalisay na layunin
+    Kapag nais mong magtanong nang harapan dahil sa taos-pusong pag-usisa at hindi para makipagtalo, maaari mong iguhit sa hangin gamit ang daliri ang serong (0). Ipinapakita nito sa kausap ang kadalisayan ng iyong hangarin. Ang taong tinatanong ay magpapakita ng natatanging paggalang sa tanong.
 
 4.  ### Nullipikasyon
-    Isang mental na ehersisyo para suriin ang tibay ng iyong mga argumento. Tanungin ang sarili: "Kung may gumagamit ng aking mga argumento para patunayan ang isang bagay na itinuturing kong kalokohan, babaguhin ko ba ang aking pananaw tungkol sa kalokohang iyon?". Nakakatulong ito upang matukoy ang mga dobleng pamantayan sa iyong pag-iisip.
+    Isang mental na ehersisyo para subukin ang tibay ng sariling mga argumento. Tanungin ang sarili: «Kung may gumamit ng kaparehong mga argumento upang patunayan ang isang bagay na itinuturing kong walang-kwenta, mababago kaya ang pananaw ko tungkol sa kabaliwang iyon?». Nakakatulong ito upang matuklasan ang doble-karang pamantayan sa sariling pag-iisip.
 
-5.  ### Bilog ng Isip
-    Ang mga nullian ay nag-iimbita ng mga kaibigan at kakilala sa bahay para sa intelektwal na libangan: sabay-sabay na panonood ng mga pelikula, talakayan ng mga libro, mga larong pambahay. Ito ay nagtataguyod ng pagbuo ng komunidad at pagpapalaganap ng mga ideya ng nullianismo sa pamamagitan ng sama-samang gawain. Partikular na pinahahalagahan ang laro na *Fallacymania*, na nagtuturo kung paano makilala ang mga sofismo sa talakayan.
+5.  ### Bilog ng Isipan
+    Ang mga Nullianista ay nag-iimbita ng mga kaibigan at kakilala sa bahay para sa intelektuwal na paglilibang: sabayang panonood ng pelikula, talakayan ng mga aklat, at mga larong pambisita. Nagpapalakas ito ng komunidad at nagpapalaganap ng mga ideya ng Nullianismo sa pamamagitan ng sama-samang gawain. Partikular na pinahahalagahan ang larong *Fallacymania*, na nagtuturo kung paano tukuyin ang mga sofismo sa isang diskusyon.
 
-6.  ### Antipanalangin
-    Sa halip na humingi ng tulong sa mga abstraktong mas mataas na kapangyarihan, hinihikayat ng nullianismo ang paghahanap ng solusyon sa mga problema sa pamamagitan ng praktikal na mga hakbang. Ang antipanalangin ay isang proseso:
-    1.  Malinaw na ilarawan ang problema.
-    2.  Isipin kung ano ang partikular na magagawa mo para sa solusyon nito.
-    3.  Suriin kung sapat ba ang iyong kaalaman.
-    4.  Kung hindi — alamin kung saan ito makukuha, o humingi ng tulong sa mga eksperto.
+6.  ### Antimolitva
+    Sa halip na manawagan sa abstraktong nakatataas na puwersa, hinihikayat ng Nullianismo ang paghahanap ng solusyon sa mga problema sa pamamagitan ng praktikal na hakbang. Ang antimolitva ay proseso:
+    1.  Tiyak na ipormula ang problema.
+    2.  Pag-isipan kung ano ang kongkreto mong magagawa upang lutasin ito.
+    3.  Tantiyaing sapat ba ang iyong kaalaman.
+    4.  Kung hindi pa sapat, alamin kung saan ito makukuha o humanap ng tulong mula sa mga espesyalista.
+-----

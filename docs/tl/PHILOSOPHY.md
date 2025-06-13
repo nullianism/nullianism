@@ -1,29 +1,31 @@
-
+-----
 # Pilosopiya ng Nullianismo
 
 ## Pinakamataas na Halaga — Pag-unawa sa Mundo
 
-Ang aming pinakamataas na halaga ay ang pag-unawa sa mundo. Kapag mas nauunawaan natin ang nakapaligid na mundo, mas epektibo nating maaabot ang ating mga layunin, anuman ang mga ito. Mula sa halagang ito ay lumalabas ang humanismo: ang buhay ng tao ang pangunahing halaga, sapagkat ang kamatayan ay nag-aalis sa tao ng pagkakataong makaunawa.
+Ang pinakamataas naming halaga ay ang pag-unawa sa mundo. Kung mas mahusay nating nauunawaan ang nakapaligid na daigdig, mas epektibo nating maaabot ang ating mga layunin, ano man ang mga ito. Mula sa halagang ito ay sumusunod din ang humanismo: ang buhay ng tao ang pangunahing halaga sapagkat inaalisan ng kamatayan ang tao ng pagkakataong makaalam.
 
-## Batayan — Siyentipikong Pamamaraan
+## Batayan — Siyentipikong Lapit
 
-Hindi tulad ng mga tradisyonal na relihiyon na nakabatay sa pananampalataya, ang nullianismo ay nakabatay sa pagdududa, kritikal na pag-iisip, at siyentipikong pamamaraan. Hindi namin tinatanggap ang mga pahayag na walang ebidensya.
+Di-tulad ng mga tradisyunal na relihiyon na nakabatay sa pananampalataya, ang Nullianismo ay nakabatay sa pagdududa, kritikal na pag-iisip at sa siyentipikong metodo. Hindi kami tumatanggap ng mga pahayag nang walang ebidensya.
 
-## Pagtingin sa Diyos at supernatural
+## Pagtingin sa Diyos at sa Supernatural
 
-Sa nullianismo, walang Diyos dahil hindi ito natuklasan ng agham. Ito ay isang functional na ateistikong relihiyon. Hindi namin sinasabi na tiyak na walang Diyos, ngunit kumikilos kami batay sa kawalan ng mapanghikayat na ebidensya ng kanyang pag-iral. Kung ang pag-iral ng diyos ay siyentipikong mapapatunayan, tatanggapin ng nullianismo ang katotohanang ito.
+Sa Nullianismo, walang Diyos sapagkat hindi pa ito natutuklasan ng agham. Isa itong relihiyong gumaganang ateista. Hindi namin ipinapahayag na tiyak na walang Diyos, subalit kumikilos kami batay sa kawalan ng mapanghikayat na ebidensya ng pag-iral nito. Kung mapatutunayang siyentipiko ang pag-iral ng isang diyos, tatanggapin ito ng Nullianismo.
 
-## Buhay pagkatapos ng kamatayan: Immortalismo
+## Buhay Pagkatapos ng Kamatayan: Imortalismo
 
-Sa halip na pananampalataya sa buhay pagkatapos ng kamatayan, ang nullianismo ay nagmumungkahi ng ideya ng **immortalismo** — ang pagsusumikap na pigilan o lubos na ipagpaliban ang pisikal na kamatayan sa pamamagitan ng agham at teknolohiya. Hindi kami naghahanda para sa kamatayan, kundi sinusubukan naming iwasan ito. Ang isang nullianista ay awtomatikong nagbibigay ng pahintulot para sa teknolohikal na imortalidad at muling pagkabuhay, kung sakaling magkaroon ng ganitong pagkakataon sa hinaharap.
+Sa halip na paniniwala sa buhay-sa-kabilang-buhay, iniaalok ng Nullianismo ang ideya ng **imortalismo** — ang hangaring pigilan o lalong ipagpaliban ang pisikal na kamatayan sa tulong ng agham at teknolohiya. Hindi kami naghahanda para sa kamatayan; sa halip ay iniiwasan namin ito. Ang isang Nullianista ay default na nagbibigay ng pahintulot sa teknolohikal na imortalidad at muling pagkabuhay kung magkakaroon ng gayong posibilidad sa hinaharap.
 
 ## Mga Kaaway ng Nullianismo
 
-Ang pangunahing kalaban ng nullianismo ay ang **antiargumentasyon**:
+Ang pangunahing antagonista ng Nullianismo ay ang **anti-argumentasyon**:
 
-- Sinasadyang pagpapalaganap ng maling impormasyon.
-- Pagwawalang-bahala sa agham at mga katotohanan.
-- Pagsasaayos ng mga alitan sa pamamagitan ng lakas, hindi sa pamamagitan ng lohika at mga argumento.
-- Pag-apekto sa emosyon sa halip na pag-apila sa katuwiran.
+- Sinasadyang pagpapalaganap ng disimpormasyon.  
+- Mapang-maliit na pagtingin sa agham at sa mga katotohanan.  
+- Pagsasanggalang ng mga alitan sa pamamagitan ng dahas sa halip na lohika at mga argumento.  
+- Pag-aapela sa emosyon sa halip na sa katwiran.  
 
 Hindi kami nakikipaglaban sa mga tao, kundi sa mga mapaminsalang ideya.
+
+-----

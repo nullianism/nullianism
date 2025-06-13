@@ -1,17 +1,18 @@
+-----
+# Yadda ake bayar da gudunmawa
 
-# Yadda Ake Ba da Gudunmawa
+Nulliyanci — addini ne mai open-source. Kowa zai iya bayar da gudunmawarsa ga ci gaban sa.
 
-Nullianism addini ne na bude-tushen. Kowa na iya ba da gudunmawa ga ci gabansa.
+## Ta yaya za a yi?
 
-## Yadda Zaka Yi Wannan?
+1. **Ku gabatar da ra'ayoyi ta Issues:** Idan kuna da shawara game da sabuwar doka, al'ada, karin bayani a falsafa ko kuma wata ɗan shawara don tattaunawa, ku ƙirƙiri sabon Issue a cikin wannan rumbun ajiyar.
+2. **Ku kawo gyare-gyare ta Pull Requests:** Idan kuna son gyara kuskuren rubutu, inganta lafazi ko ƙara wani abu a cikin fayilolin da ke akwai, ku yi fork na rumbun, ku yi canje-canje sannan ku tura Pull Request.
 
-1. **Bayar da ra'ayoyi ta hanyar Issues:** Idan kana da shawara kan sabon umarni, al'ada, karin bayani kan falsafa ko kuma tunani don tattaunawa, ka ƙirƙiri sabon Issue a wannan rumbun.
-2. **Yi gyare-gyare ta hanyar Pull Requests:** Idan kana son gyara kuskure, inganta rubutu ko ƙara wani abu a cikin fayilolin da ke akwai, yi fork na rumbun, yi canje-canje kuma aika da Pull Request.
+## Ka'idojin asali
 
-## Ka'idojin Asali
+- **Daidaituwa da falsafa:** Duk shawarwari su dace da manyan ƙimomin Nulliyanci: son sani, hanyar kimiyya, tunani mai tsauri (critical thinking) da humanism.
+- **Gina juna cikin girmamawa:** Tattaunawa su kasance cikin mutunta juna. Muna suka kan ra'ayoyi, ba mutane ba.
+- **Rashin ƙuntatawa da dogma:** Nulliyanci tsari ne mai rai, yana ci gaba. Ku kasance a shirye ra'ayoyinku su fuskanci kalubale, kuma ku buɗe su canza su a kan sabbin hujjoji da dalilai.
 
-- **Daidaituwa da falsafa:** Duk shawarwari dole ne su dace da muhimman ƙimar nullianism: son sani, hanyar kimiyya, tunani mai mahimmanci da humanism.
-- **Gina juna:** Tattaunawa dole ne su kasance da girmamawa. Muna sukar ra'ayoyi, ba mutane ba.
-- **Rashin dogma:** Nullianism tsari ne mai rai, mai ci gaba. Ka kasance a shirye don ra'ayoyinka su kasance cikin jayayya, kuma ka kasance a bude don canza su bisa sabbin gaskiya da hujjoji.
-
-Mu gina addinin nan gaba tare!
+Mu gina addinin gaba tare! 
+-----

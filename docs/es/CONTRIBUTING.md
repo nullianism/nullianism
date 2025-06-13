@@ -1,17 +1,18 @@
-
+-----
 # Cómo contribuir
 
-Nullianismo es una religión de código abierto. Cualquiera puede contribuir a su desarrollo.
+Nullianismo — es una religión de código abierto. Cualquiera puede contribuir a su desarrollo.
 
 ## ¿Cómo hacerlo?
 
-1. **Propón ideas a través de Issues:** Si tienes una propuesta para un nuevo mandamiento, ritual, aclaración de la filosofía o simplemente una idea para discutir, crea un nuevo Issue en este repositorio.
-2. **Realiza modificaciones a través de Pull Requests:** Si deseas corregir un error tipográfico, mejorar una redacción o agregar algo específico a los archivos existentes, haz un fork del repositorio, realiza los cambios y envía un Pull Request.
+1. **Propón ideas a través de Issues:** Si tienes una propuesta para un nuevo mandamiento, un ritual, una aclaración filosófica o simplemente un pensamiento para debatir, crea un nuevo Issue en este repositorio.  
+2. **Realiza correcciones mediante Pull Requests:** Si quieres corregir una errata, mejorar una formulación o añadir algo concreto a los archivos existentes, haz un fork del repositorio, introduce tus cambios y envía un Pull Request.
 
 ## Principios básicos
 
-- **Conformidad con la filosofía:** Todas las propuestas deben alinearse con los valores clave del nullianismo: curiosidad, enfoque científico, pensamiento crítico y humanismo.
-- **Constructividad:** Las discusiones deben ser respetuosas. Criticamos ideas, no personas.
-- **Ausencia de dogmas:** El nullianismo es un sistema vivo y en desarrollo. Esté preparado para que sus ideas sean cuestionadas y esté abierto a modificarlas a la luz de nuevos hechos y argumentos.
+- **Coherencia filosófica:** Todas las propuestas deben alinearse con los valores clave del Nullianismo: curiosidad, método científico, pensamiento crítico y humanismo.  
+- **Constructividad:** Las discusiones deben ser respetuosas. Criticamos ideas, no personas.  
+- **Ausencia de dogmas:** El Nullianismo es un sistema vivo y en evolución. Prepárate para que tus ideas sean cuestionadas y mantente abierto a modificarlas a la luz de nuevos hechos y argumentos.
 
-¡Construyamos juntos la religión del futuro!
+¡Construyamos juntos la religión del futuro! 
+-----

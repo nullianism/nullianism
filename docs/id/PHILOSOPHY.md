@@ -1,29 +1,30 @@
+-----
+# Filsafat Agama Nullian
 
-# Filsafat Nullianisme
+## Nilai Tertinggi — Pengetahuan tentang Dunia
 
-## Nilai Tertinggi — Pemahaman Dunia
-
-Nilai tertinggi kami adalah pemahaman dunia. Semakin baik kita memahami dunia sekitar, semakin efektif kita dapat mencapai tujuan kita, apapun itu. Dari nilai ini muncul humanisme: kehidupan manusia adalah nilai utama, karena kematian menghilangkan kesempatan manusia untuk memahami.
+Nilai tertinggi kami adalah pengetahuan tentang dunia. Semakin baik kami memahami dunia di sekitar kami, semakin efektif kami dapat mencapai tujuan kami, apa pun itu. Dari nilai ini lahirlah humanisme: kehidupan manusia adalah nilai utama, karena kematian merampas seseorang dari kemampuan untuk mengetahui.
 
 ## Dasar — Pendekatan Ilmiah
 
-Berbeda dengan agama tradisional yang didasarkan pada iman, nullianisme didasarkan pada keraguan, pemikiran kritis, dan metode ilmiah. Kami tidak menerima pernyataan tanpa bukti.
+Berbeda dengan agama-agama tradisional yang didasarkan pada iman, Agama Nullian didasarkan pada keraguan, pemikiran kritis, dan metode ilmiah. Kami tidak menerima pernyataan tanpa bukti.
 
-## Sikap terhadap Tuhan dan yang supernatural
+## Sikap terhadap Tuhan dan hal-hal supranatural
 
-Dalam nullianisme tidak ada Tuhan, karena sains belum menemukannya. Ini adalah agama yang secara fungsional ateis. Kami tidak menyatakan bahwa Tuhan pasti tidak ada, tetapi bertindak berdasarkan tidak adanya bukti yang meyakinkan tentang keberadaannya. Jika keberadaan dewa terbukti secara ilmiah, nullianisme akan menerima fakta ini.
+Dalam Agama Nullian tidak ada Tuhan, karena sains belum menemukannya. Ini adalah agama yang secara fungsional ateistik. Kami tidak menegaskan bahwa Tuhan pasti tidak ada, tetapi kami bertindak berdasarkan tidak adanya bukti meyakinkan atas keberadaan-Nya. Jika keberadaan suatu dewa terbukti secara ilmiah, Agama Nullian akan menerima fakta tersebut.
 
-## Kehidupan setelah kematian: Immortalisme
+## Kehidupan Setelah Kematian: Im­mor­talisme
 
-Alih-alih percaya pada kehidupan setelah mati, nullianisme menawarkan ide **immortalisme** — upaya untuk mencegah atau menunda kematian fisik sejauh mungkin dengan bantuan sains dan teknologi. Kami tidak mempersiapkan diri untuk mati, tetapi berusaha menghindarinya. Seorang nullianis secara default memberikan persetujuan untuk keabadian dan kebangkitan teknologi, jika kemungkinan tersebut muncul di masa depan.
+Alih-alih beriman kepada kehidupan setelah mati, Agama Nullian menawarkan gagasan **immortalisme** — upaya mencegah atau sejauh mungkin menunda kematian fisik dengan bantuan sains dan teknologi. Kami tidak mempersiapkan diri untuk mati, melainkan berusaha menghindarinya. Seorang Nullian secara bawaan memberikan persetujuan untuk keabadian dan kebangkitan teknologi apabila kemungkinan itu muncul di masa depan.
 
-## Musuh Nullianisme
+## Musuh Agama Nullian
 
-Antagonis utama nullianisme adalah **anti-argumentasi**:
+Antagonis utama Agama Nullian adalah **antiargumentasi**:
 
-- Penyebaran disinformasi dengan sengaja.
-- Sikap meremehkan terhadap sains dan fakta.
-- Penyelesaian perselisihan dengan kekuatan, bukan dengan logika dan argumen.
-- Memengaruhi emosi daripada mengedepankan akal.
+- Penyebaran disinformasi secara sengaja.
+- Sikap meremehkan sains dan fakta.
+- Menyelesaikan perselisihan dengan kekuatan, bukan logika dan argumen.
+- Memengaruhi emosi alih-alih merujuk pada akal.
 
-Kami tidak melawan orang, tetapi melawan ide-ide berbahaya.
+Kami melawan bukan manusia, melainkan ide-ide yang merugikan.
+-----
