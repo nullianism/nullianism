@@ -1,16 +1,17 @@
-
+-----
 # Katılımcı Davranış Kuralları v2.1
 
 ## Taahhüdümüz
-Biz, katılımcılar, katkıda bulunanlar ve liderler olarak, yaş, beden yapısı, görünen veya görünmeyen engellilik, etnik köken, cinsiyet özellikleri, cinsiyet kimliği ve ifadesi, deneyim seviyesi, eğitim, sosyo-ekonomik durum, milliyet, görünüm, ırk, kast, ten rengi, din veya cinsel kimlik ve yönelimden bağımsız olarak, topluluğumuzda katılımı herkes için tacizden uzak hale getirmeyi taahhüt ediyoruz.
+Biz, katılımcılar, katkıda bulunanlar ve liderler olarak, topluluğumuzdaki katılımı yaş, beden ölçüleri, görünür veya görünmez engellilik, etnik köken, cinsiyet özellikleri, toplumsal cinsiyet kimliği ve ifadesi, deneyim düzeyi, eğitim, sosyo-ekonomik statü, milliyet, dış görünüş, ırk, kast, ten rengi, din ya da cinsel kimlik ve yönelim fark etmeksizin herkes için baskıdan uzak kılmayı taahhüt ederiz.
 
 ## Standartlarımız
-Pozitif bir ortam yaratmaya katkıda bulunan davranış örnekleri şunları içerir:
-- Diğer insanlara empati ve nezaket göstermek
-- Farklı görüşlere, bakış açılarına ve deneyimlere saygı göstermek
-- Yapıcı geri bildirimi sağlamak ve onurlu bir şekilde kabul etmek
+Olumlu bir ortam oluşturulmasına katkıda bulunan davranış örnekleri şunlardır:
+- Başkalarına empati ve nezaket göstermek
+- Farklı görüş, bakış açısı ve deneyimlere saygı göstermek
+- Yapıcı geri bildirim vermek ve bunu olgunlukla kabul etmek
 
 ## Uygulama
-Saldırgan, taciz edici veya başka bir şekilde kabul edilemez davranış vakaları, `coc` etiketiyle GitHub Issues üzerinden proje ekibiyle iletişime geçilerek bildirilebilir. Tüm şikayetler hızlı ve adil bir şekilde incelenecek ve araştırılacaktır.
+Saldırgan, taciz edici veya başka şekilde kabul edilemez davranış vakaları, GitHub Issues üzerinden `coc` etiketiyle proje ekibiyle iletişime geçilerek bildirilebilir. Tüm şikayetler hızlı ve adil bir şekilde değerlendirilecek ve soruşturulacaktır.
 
-> Tam metin: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+> Tam metin: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+-----

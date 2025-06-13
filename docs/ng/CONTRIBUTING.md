@@ -1,18 +1,16 @@
------
-# How to Contribute
+# How you fit add your own contribution
 
-Nullianism na open-source religion. Anybody fit contribute to di development.
+Nullianity na open-source religion. Anybody fit add im own quota make am grow.
 
 ## How you fit do am?
 
-1. **Suggest ideas through Issues:** If you get suggestion for new commandment, ritual, clarification of philosophy or just idea for discussion, create new Issue for dis repository.
-2. **Make corrections through Pull Requests:** If you wan correct typo, improve wording or add something specific to di existing files, make fork of di repository, make changes and send Pull Request.
+1. **Drop your ideas through Issues:** If you get proposal for new commandment, ritual, touch-light the philosophy or just one idea to talk about, create new Issue for this repository.  
+2. **Make corrections through Pull Requests:** If you wan fix typo, make the wording better or add something specific inside the files wey dey already, do fork of the repository, put your changes and send Pull Request.
 
 ## Main Principles
 
-- **Match philosophy:** All suggestions must match di key values of nullianism: curiosity, scientific approach, critical thinking and humanism.
-- **Constructiveness:** Discussions must be respectful. We dey criticize ideas, no be people.
-- **No dogma:** Nullianism na living, developing system. Be ready say your ideas go dey challenged, and be open to change dem in light of new facts and arguments.
+- **Fit with the philosophy:** All proposals gatz match the key values of Nullianity: curiosity, scientific approach, critical thinking and humanism.  
+- **Constructiveness:** Talk-talk suppose dey respectful. We dey criticise ideas, no be people.  
+- **No Dogma:** Nullianity na living, dey-evolve system. Make you ready say your ideas fit dey challenged, and open make you adjust dem when new facts and arguments show.
 
-Make we create di religion of di future together!
------
+Make we build the religion of tomorrow together!

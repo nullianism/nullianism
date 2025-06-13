@@ -1,25 +1,24 @@
+# Manifisto na Sha’awar Sani
 
-# Manufesto na Son Sanin Abubuwa
+Tsawon lokaci bil’adama ta kasance ana rarrabe ta da dogma, ra’ayoyi marasa tantancewa sun makantar da mu kuma gado-gadon «gaskiya» ya takure mu. Amma a cikin kowane tunanin mutum akwai wuta — ƙwazo na yin tambayoyi, bincike da neman gaskiya bayan iyakon al’ada.
 
-Tsawon lokaci, an raba ɗan adam da dogma, an makantar da su da imani marasa tantancewa, kuma an hana su da "gaskiya" da aka gada. Amma a cikin kowanne tunanin ɗan adam akwai wuta — sha'awar tambaya, bincike, neman gaskiya bayan al'adu.
+Mu ne magada ga babbar tafiyar masu tunani — tun daga taurari-guruwa na farko da suka zana taswirar taurari har zuwa masana kimiyya na zamani da ke buɗe asirin halitta.
 
-Mu ne magada babbar hanyar masu tunani — daga farkon masanan taurari, waɗanda suka tsara taurari, zuwa masana kimiyya na zamani, waɗanda ke bayyana asirin halitta.
+Muna tsaye a bakin kofar wani sabon zamani. Duniya ba ta ƙara buƙatar dogaro da abin da ba za a iya gane ba — tana buƙatar jajircewa ga abin da za a iya fahimta, tabbatarwa da cimmawa. Lokaci ya yi mu shimfiɗa sabon hanya, inda sha’awar sani za ta zama mai tsarki, hankali a girmama shi, ilimi kuma ya zama tauraron jagora.
 
-Muna tsaye a gaban sabon zamani. Duniya ba ta ƙara buƙatar imani da abin da ba za a iya fahimta ba — tana buƙatar sadaukarwa ga abin da za a iya fahimta, abin da za a iya tabbatarwa da abin da zai yiwu. Lokaci ya yi da za a shimfiɗa sabuwar hanya, inda son sanin abubuwa zai zama mai tsarki, hankali — mai daraja, kuma ilimi — tauraron jagora.
+- **Ilimi — nauyin ɗabi’a ne.** Koyo yana nufin ’yantar da kanka, koyarwa kuma yana nufin ’yantar da wasu.
+- **Yada ilimi — mafi girman aikin ladabi ne.**
+- **Shakku — mai tsarki ne.** Tambayoyi ba sa raunata mu, sai dai suna ƙarfafa mu. Idan wani ra’ayi ya kasa jure gwaji, bai cancanci a riƙe shi ba.
+- **Dukkan sararin samaniya — majami’armu ce.** Muna jin rawar jiki ba saboda abin da ya wuce halitta ba, sai dai saboda girman sararin sama da rikitarwa ta halitta.
+- **Ci gaba ya fi al’ada daraja.** Abin da ya gabata na iya zama jagora, ba sarkoki ba. Idan sabbin ilimi sun karyata tsoffin ra’ayoyi, muna rungumar sabo.
+- **Mu ƙungiyar Masu Nema ne.** Ba wanda ke tafiya wannan hanya shi kaɗai. Mun ɗauki alwashi mu tallafa wa juna wajen neman gaskiya, ta hanyar musayar ra’ayoyi, muhawara da inganta su.
+- **Wannan ba falsafa kawai ba ce — motsi ne.** Muna ƙoƙari ba kawai mu yi tunani dabam ba, har ma mu sauya duniya.
 
-- **Ilimi — wajibi ne na ɗabi'a.** Koyo yana nufin 'yantar da kanka, koyarwa yana nufin 'yantar da wasu.
-- **Yada ilimi — mafi girman aikin ɗabi'a.**
-- **Shakka — mai tsarki ne.** Tambayoyi ba sa raunana mu, suna ƙarfafa mu. Idan imani bai jure gwaji ba, bai cancanci a riƙe shi ba.
-- **Duniya — haikalinmu ne.** Muna jin tsoro ba ga abin da ya wuce hankali ba, amma ga girman sararin samaniya da rikitarwa na yanayi.
-- **Ci gaba ya fi al'ada.** Abin da ya gabata na iya zama jagora, amma ba sarƙoƙi ba. Idan sabbin ilimi sun karyata tsoffin imani, muna karɓar sabo.
-- **Mu ne al'ummar Masu Neman Gaskiya.** Babu wanda ke tafiya a hanya shi kaɗai. Mun yi alƙawarin tallafawa juna a cikin neman gaskiya, ta hanyar raba ra'ayoyi, jayayya da inganta su.
-- **Wannan ba kawai falsafa ba ce — motsi ne.** Muna ƙoƙarin ba kawai tunani daban ba, har ma da canza duniya.
+Makomar ta na masu nema ce, ba na masu bin umarni kawai ba.  
+Zamanin imanin makaho ya ƙare.  
+Zamanin Sha’awar Sani ya fara yanzu.
 
-Makoma na masu nema ce, ba masu biyayya ba.
-Zamanin imani marar gani ya ƙare.
-Zamanin Son Sanin Abubuwa yana farawa yanzu.
+Ka shiga cikin Motsin.  
+Ba ka bukatar baftisma, albarka ko izini. Abin da ake bukata kawai shi ne jarumtar tambaya: Me kuma zan iya ƙaruwa da sani?
 
-Shiga Motsin.
-Ba ka buƙatar baftisma, albarka ko izini. Abin da ake buƙata kawai shi ne ƙarfin zuciya don tambaya: Me zan iya ƙarin sani?
-
-*(Rubutun an ƙirƙira shi ta ChatGPT 4o bisa buƙatar marubucin addini)*
+*(Rubutun ya samar da ChatGPT 4o ne a kan buƙatar marubucin addinin)*

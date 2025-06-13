@@ -1,26 +1,27 @@
+-----
+# Nullianybė ritualai
 
-# Ritualai Nulianizme
+Nullianybė ritualai – tai praktikos, skirtos pažinimo, kritinio mąstymo vertybėms stiprinti ir bendruomenės kūrimui.
 
-Ritualai nulianizme – tai praktikos, skirtos stiprinti pažinimo vertybes, kritinį mąstymą ir bendruomenės kūrimą.
-
-1.  ### Kvestas (angl. *Question*)
-    Pradėkite rytą klausimu. Dienos metu stenkitės rasti į jį sąžiningą atsakymą. Nedvejokite klausti kitų – tų, kurie geriau išmano šį klausimą nei jūs.
+1.  ### Kvestas (iš angl. *Question*)
+    Pradėkite rytą nuo klausimo. Per dieną pasistenkite rasti jam nuoširdų atsakymą. Nedvejokite klausti kitų – tų, kurie geriau išmano klausimą nei jūs.
 
 2.  ### Beizčekingas, arba Dvigubo faktų tikrinimo ritualas
-    Jei rašote turiningą komentarą ar įrašą, du kartus patikrinkite pateiktos informacijos patikimumą, geriausia iš skirtingų šaltinių. Norėdami parodyti, kad tai padarėte, savo pranešimo pradžioje įdėkite sakralinį simbolį **0**. Tai jūsų atsakomybės už savo žodžius ženklas.
+    Jei rašote turiningą komentarą ar įrašą, du kartus patikrinkite pateiktos informacijos tikrumą, pageidautina skirtinguose šaltiniuose. Kaip ženklą, kad tai padarėte, žinutės pradžioje įdėkite sakralų simbolį **0**. Tai jūsų atsakomybės už savo žodžius ženklas.
 
 3.  ### Tyro ketinimo gestas
-    Jei gyvo bendravimo metu norite užduoti klausimą iš nuoširdaus smalsumo, o ne ginčui, galite ore pirštu nubrėžti nulį (0). Tai parodys pašnekovui jūsų ketinimų tyrumą. Tas, kuriam adresuotas klausimas, parodys ypatingą pagarbą.
+    Jei gyvo pokalbio metu norite užduoti klausimą iš nuoširdaus smalsumo, o ne ginčo labui, galite pirštu ore nupiešti nulį (0). Tai parodys pašnekovui jūsų ketinimų tyrumą. Tas, kuriam skirtas klausimas, parodys jam ypatingą pagarbą.
 
-4.  ### Nulifikacija
-    Mentalinis pratimas savo argumentų tvirtumui patikrinti. Paklauskite savęs: „Jei kas nors mano argumentais įrodinėtų kažką, ką laikau visiška nesąmone, ar pakeisčiau savo nuomonę apie tą nesąmonę?“. Tai padeda atskleisti dvigubus standartus savo mąstyme.
+4.  ### Nullifikacija
+    Mentalinis pratimas, skirtas patikrinti savo argumentų tvirtumą. Užduokite sau klausimą: „Jei kas nors tais pačiais mano argumentais įrodinėtų tai, ką aš laikau visiška nesąmone, ar pakeisčiau savo požiūrį į tą nesąmonę?“. Tai padeda atskleisti dvigubus standartus savo mąstyme.
 
-5.  ### Proto Ratas
-    Nulianai kviečia draugus ir pažįstamus į namus intelektualiam laisvalaikiui: bendram filmų žiūrėjimui, knygų aptarimui, stalo žaidimams. Tai skatina bendruomenės kūrimą ir nulianizmo idėjų sklaidą per bendrą veiklą. Ypač vertinamas žaidimas *Fallacymania*, mokantis atpažinti sofizmus diskusijoje.
+5.  ### Proto ratas
+    Nullianybė sekėjai kviečia draugus ir pažįstamus į namus intelektualiam laisvalaikiui: bendrai žiūrėti filmus, aptarti knygas, stalo žaidimus. Tai padeda kurti bendruomenę ir plėsti Nullianybė idėjas per bendrą veiklą. Ypač vertinamas žaidimas *Fallacymania*, mokantis atpažinti sofizmus diskusijoje.
 
 6.  ### Antimalda
-    Vietoj to, kad kreiptumėtės pagalbos į abstrakčias aukštesnes jėgas, nulianizmas ragina ieškoti problemų sprendimų per praktinius žingsnius. Antimalda – tai procesas:
+    Užuot kreipęsis pagalbos į abstrakčias aukštesnes jėgas, Nullianybė ragina ieškoti problemų sprendimo praktiškais žingsniais.
     1.  Aiškiai suformuluoti problemą.
-    2.  Pagalvoti, ką konkrečiai galite padaryti jos sprendimui.
+    2.  Pagalvoti, ką konkrečiai galite padaryti, kad ją išspręstumėte.
     3.  Įvertinti, ar turite pakankamai žinių.
-    4.  Jei ne – surasti, kur jų galima gauti, arba kreiptis pagalbos į specialistus.
+    4.  Jei ne – rasti, kur jų galite gauti, arba kreiptis pagalbos į specialistus.
+-----

@@ -1,29 +1,31 @@
-
-# Filosofia Nullianismului
+-----
+# Filosofia Nullianism
 
 ## Valoarea supremă — Cunoașterea Lumii
 
-Cea mai înaltă valoare a noastră este cunoașterea lumii. Cu cât înțelegem mai bine lumea înconjurătoare, cu atât mai eficient putem atinge obiectivele noastre, oricare ar fi acestea. Din această valoare derivă și umanismul: viața umană este valoarea principală, deoarece moartea privează omul de posibilitatea de a cunoaște.
+Cea mai înaltă valoare a noastră este cunoașterea lumii. Cu cât înțelegem mai bine lumea din jur, cu atât ne putem atinge mai eficient scopurile, indiferent care ar fi acestea. Din această valoare derivă și umanismul: viața omului este valoarea principală, deoarece moartea îl privează pe om de posibilitatea de a cunoaște.
 
-## Fundamentul — Abordarea Științifică
+## Baza — Abordarea Științifică
 
-Spre deosebire de religiile tradiționale, bazate pe credință, nullianismul se bazează pe îndoială, gândire critică și metoda științifică. Nu acceptăm afirmații fără dovezi.
+Spre deosebire de religiile tradiționale, întemeiate pe credință, Nullianism se bazează pe îndoială, gândire critică și metoda științifică. Nu acceptăm afirmații fără dovezi.
 
 ## Relația cu Dumnezeu și supranaturalul
 
-În nullianism nu există Dumnezeu, deoarece știința nu l-a descoperit. Este o religie funcțional ateistă. Nu afirmăm că Dumnezeu nu există cu siguranță, dar acționăm pe baza lipsei de dovezi convingătoare ale existenței sale. Dacă existența unei divinități va fi dovedită științific, nullianismul va accepta acest fapt.
+În Nullianism nu există Dumnezeu, deoarece știința nu L-a descoperit. Este o religie funcțional ateistă. Nu afirmăm că Dumnezeu nu există cu certitudine, însă acționăm plecând de la lipsa unor dovezi convingătoare privind existența Sa. Dacă existența unei divinități va fi demonstrată științific, Nullianism va accepta acest fapt.
 
-## Viața după moarte: Immortalismul
+## Viața după moarte: Immortalism
 
-În locul credinței în viața de apoi, nullianismul propune ideea de **immortalism** — dorința de a preveni sau de a amâna cât mai mult moartea fizică prin știință și tehnologie. Nu ne pregătim pentru moarte, ci încercăm să o evităm. Un nullianist își dă implicit consimțământul pentru nemurirea tehnologică și înviere, dacă o astfel de posibilitate va apărea în viitor.
+În locul credinței într-o viață de apoi, Nullianism propune ideea de **immortalism** — dorința de a preveni sau de a amâna cât mai mult moartea fizică prin știință și tehnologie. Nu ne pregătim pentru moarte, ci încercăm să o evităm. Un Nullianist își dă implicit consimțământul pentru nemurirea tehnologică și pentru înviere, dacă o asemenea posibilitate va apărea în viitor.
 
-## Dușmanii Nullianismului
+## Dușmanii Nullianism
 
-Principalul antagonist al nullianismului este **antiargumentarea**:
+Principalul antagonist al Nullianism este **antiargumentarea**:
 
 - Răspândirea intenționată a dezinformării.
-- Atitudinea de dispreț față de știință și fapte.
+- Atitudinea disprețuitoare față de știință și fapte.
 - Rezolvarea disputelor prin forță, nu prin logică și argumente.
 - Influențarea emoțiilor în locul apelului la rațiune.
 
-Nu luptăm împotriva oamenilor, ci împotriva ideilor dăunătoare.
+Ne luptăm nu cu oamenii, ci cu ideile dăunătoare.
+
+-----

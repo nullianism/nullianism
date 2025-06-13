@@ -1,25 +1,28 @@
-
+-----
 # Manifestum Curiositatis
 
-Nimis diu humanitas dogmatibus divisa est, caecis persuasionibus obstricta, et hereditatis "veritatibus" cohibita. Sed in omni mente humana ignis est — studium quaerendi, investigandi, veritatem extra traditiones quaerendi.
+Nimis diu humanitas dogmatibus divisa, opinionibus indiscretis excaecata, atque praeiudicatis «veritatibus» hereditariis cohibita est.  
+Sed in omni mente humana ignis est — studium quaestiones ponendi, explorandi, veritatem extra traditiones quaerendi.
 
-Heredes sumus magni itineris cogitatorum — ab primis astronomis, qui stellas descripserunt, ad modernos scientias, qui mysteria universi revelant.
+Hereditarii sumus magni itineris cogitatorum — ab primis astronomis qui stellas depingebant usque ad científicos hodiernos arcana universi revelantes.
 
-In limine novae aetatis stamus. Mundo non amplius opus est fide in incognitum — ei opus est dedicatione ad cognoscendum, probandum et possibile. Tempus est novam viam sternere, ubi curiositas sacra erit, ratio veneranda, et scientia stella dux.
+In limine novae aetatis stamus. Mundo fides in incomprehensibile non iam necessaria est — illi opus est adhaesio cognoscibili, probabili et possibilī.  
+Tempus est viam novam sternere, ubi Curiositas sacra erit, ratio venerabitur, et scientia stella dux fiet.
 
-- **Scientia — officium morale.** Discere — se liberare est, docere — alios liberare.
-- **Scientiae disseminatio — summus actus ethicus.**
-- **Dubitatio — sancta est.** Quaestiones nos non debilitant, sed fortiores faciunt. Si persuasio probationem non sustinet, non digna est retinendi.
-- **Universum — templum nostrum.** Non coram supernaturali, sed coram magnitudine cosmos et complexitate naturae trepidamus.
-- **Progressus supra traditionem.** Praeteritum potest esse dux, sed non catenae. Si nova scientia veteres opiniones refellit, novum accipimus.
-- **Communitas Quaerentium sumus.** Nemo solus iter facit. Nos invicem sustinere in veritatis investigatione, ideis communicandis, disputandis et perficiendis obligamus.
-- **Non solum philosophia — motus est.** Non solum aliter cogitare, sed etiam mundum mutare contendimus.
+- **Scientia — officium morale.** Discere est seipsum liberare, docere est alios liberare.  
+- **Disseminatio scientiae — maximus actus ethicus.**  
+- **Dubitatio — sacra est.** Quaestiones nos non debilitant, sed corroborant. Si opinio probationem non sustinet, retinenda non est.  
+- **Universum — templum nostrum.** Tremorem sentimus non coram supernaturali, sed coram maiestate cosmi et complexitate naturae.  
+- **Progressus praevalet traditioni.** Praeteritum dux esse potest, non vincula. Si nova scientia veteres opiniones refellit, novum amplectimur.  
+- **Communitas Investigatorum sumus.** Nemo solus iter peragit. Nos nos obligamus invicem sustinere in quaesitione veritatis, ideas communicando, disputando easque perficiendo.  
+- **Hoc non solum philosophia est — sed motus.** Non tantum aliter cogitare contendimus, sed etiam mundum mutare.  
 
-Futurum quaerentibus, non obtemperantibus, pertinet.
-Aetas caecae fidei finita est.
-Aetas Curiositatis nunc incipit.
+Futurum ad quaerentes pertinet, non ad obsequentes.  
+Aetas fidei caecae finita est.  
+Aetas Curiositatis incipit nunc.
 
-Ad Motum adiunge.
-Non opus est tibi baptismate, benedictione aut permissione. Omnia quae requiruntur, audacia est quaerendi: Quid aliud discere possum?
+Iunge te Motui.  
+Tibi non opus est baptismo, benedictione aut licentia. Omne quod requiritur est audacia rogandi: Quid adhuc discere possum?
 
-*(Textus generatus est a ChatGPT 4o rogatu auctoris religionis)*
+*(Textus a ChatGPT 4o generatus, postulante auctore religionis)*
+-----

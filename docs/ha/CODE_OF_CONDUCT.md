@@ -1,16 +1,17 @@
-
-# Dokar Halayyar Masu Halarta v2.1
+-----  
+# Kodin Halayyar Masu Halarta v2.1
 
 ## Alkawarinmu
-Mu, a matsayin masu halarta, masu ba da gudummawa da shugabanni, mun kuduri aniyar tabbatar da cewa halartar mu a cikin al'ummarmu ba tare da tsangwama ba ga kowa, ba tare da la'akari da shekaru, yanayin jiki, nakasa mai gani ko marar gani, kabilanci, halayen jima'i, asalin jinsi da bayyana kai, matakin kwarewa, ilimi, matsayi na zamantakewa da tattalin arziki, ƙasa, kamanni, launin fata, kabila, launin fata, addini ko asalin jima'i da yanayin jima'i.
+Mu, a matsayin mambobi, masu ba da gudummawa da shugabanni, mun kuduri aniyar tabbatar da cewa shiga cikin al’ummarmu zai kasance babu wata kafa ta zalunci ko nuna wariya ga kowa da kowa, ba tare da la’akari da shekaru, kamannin jiki, nakasa da ake iya gani ko wadda ba a iya gani ba, asalin ƙabila, siffofin halittar jima’i, ainihin jinsi da yadda ake bayyana kai, matakin ƙwarewa, ilimi, matsayin zamantakewa-tattalin arziƙi, ƙasar asali, kamanni, launin fata, kabila, launin fata, addini ko kuma gano da kuma tsayuwar ɗabi’ar sha’awar jima’i ba.
 
-## Ka'idojinmu
-Misalan halayen da ke taimakawa wajen ƙirƙirar yanayi mai kyau sun haɗa da:
-- Nuna tausayi da kirki ga wasu mutane
-- Girmama ra'ayoyi daban-daban, fahimta da gogewa
-- Bayarwa da karɓar amsa mai gina jiki cikin mutunci
+## Ma’auninmu
+Misalan ɗabi’u da ke haifar da kyakkyawan yanayi sun haɗa da:  
+- Nuna tausayi da alheri ga sauran mutane  
+- Girmama ra’ayoyi, hangen-nesa da gogewa daban-daban  
+- Bayar da, da kuma karɓar, ra’ayi na gina wa cikin mutunci  
 
 ## Aiwatarwa
-Ana iya bayar da rahoton lokuta na halayen da ba su dace ba, na cin zarafi ko na tsangwama ta hanyar tuntuɓar ƙungiyar aikin ta GitHub Issues tare da alamar `coc`. Za a duba duk korafe-korafe kuma a bincika su cikin sauri da adalci.
+Ana iya sanar da duk wani hali na cin zarafi, tsangwama ko wani abin da bai dace ba ta hanyar tuntuɓar ƙungiyar aikin ta GitHub Issues da tambari `coc`. Za a duba duk korafe-korafe, a bincika su da sauri kuma da adalci.
 
-> Cikakken rubutu: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+> Cikakken rubutu: https://www.contributor-covenant.org/version/2/1/code_of_conduct/  
+-----

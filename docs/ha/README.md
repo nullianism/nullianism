@@ -1,36 +1,35 @@
+# Nulliyanci 
 
-# Nullianism 
+> Addinin kimiyya na farko a duniya mai Open-Source.
 
-> Addinin Open-Source na kimiyya na farko a duniya.
+Barka da zuwa ma'ajiyar Nulliyanci — addinin kimiyya da Aleksandr Pançin ya ƙirƙira. Wannan ba barkwanci ba ne kuma ba “kilikbejt” ba ne, sai dai gwaji na zamantakewa da ƙoƙarin gina tsarin ƙima da ba a dogara da ƙa'idodin riko da imani ba, amma a kan son sani, tunani mai mahanga da hanyar kimiyya.
 
-Barka da zuwa ma'ajiyar Nullianism — addinin kimiyya wanda Alexander Panchin ya kirkira. Wannan ba wasa ba ne kuma ba kiran hankalin jama'a ba ne, amma gwajin zamantakewa ne da kuma yunƙurin ƙirƙirar tsarin dabi'u wanda ba ya dogara da ƙa'idodi da imani, amma a kan son sani, tunani mai zurfi da kuma hanyar kimiyya.
+## Babban ra'ayi
 
-## Babban Ra'ayi
+Nulliyanci — addini ne da aka ƙaddamar don haɗa mutane ba a kan wani abin bautawa ba, amma a kan son sani na ɗan-adam. Muna amfani da “siyayyar” addini — wato ƙarfi wajen yaɗa ra'ayoyi da gina al'umma — amma muna cikawa da abin da ya dace da hankali da kishin bil-adama.
 
-Nullianism — addini ne wanda aka yi niyya don haɗa mutane ba a kusa da wani allah ko alloli ba, amma a kusa da son sani na ɗan adam. Muna amfani da "kwalliyar" addini — ingantaccen tsarin yada ra'ayoyi da ƙirƙirar al'ummomi — amma muna cike shi da abun ciki mai hankali da na ɗan adam.
+**Alamar mu — Siffar Sifili (0)**. Ita ce ke nuni da:
 
-**Alamar mu — Sifili (0)**. Yana wakiltar:
+- Rashin dogma da son zuciya.
+- Matsayin farawa na gano ilimi.
+- Daidaiton tazara tsakanin kowane mai halarta da cibiyar, babu matsayi.
+- Zoben hankali da ke haɗa mutane.
 
-- Rashin ƙa'idodi da son zuciya.
-- Farko na fahimta.
-- Nisan kowa daga tsakiya, rashin tsarin mulki.
-- Zoben hankali, haɗa mutane.
+## Tsarin ma'ajiya
 
-## Tsarin Ma'ajiya
+- [**Manufestar Son Sani (`MANIFESTO.md`)**](./MANIFESTO.md) — babban rubutun shirin addininmu, da basirar wucin-gadi ta haifa.
+- [**Dokoki (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — muhimman ka'idoji 8 da ɗan-Nulliyanci ke bi.
+- [**Ritualoli (`RITUALS.md`)**](./RITUALS.md) — hanyoyi da ke taimakawa wajen ƙarfafa da yaɗa ra’ayoyin Nulliyanci.
+- [**Falsafa (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — bayani dalla-dalla kan muhimman ƙimomi, hangen duniya, ɗabi'a da abokan hamayyar Nulliyanci.
+- [**Yadda za a bayar da gudunmawa (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — ƙa'idoji ga masu son shiga ci gaban wannan addini.
 
-- [**Manufar Son Sani (`MANIFESTO.md`)**](./MANIFESTO.md) — babban rubutun shirin addininmu, wanda hankali na wucin gadi ya haifar.
-- [**Dokoki (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — ka'idoji 8 na asali da nulianci ke bi.
-- [**Ritaye (`RITUALS.md`)**](./RITUALS.md) — ayyuka da ke taimakawa wajen ƙarfafa da yada ra'ayoyin nullianism.
-- [**Falsafa (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — cikakken bayani na manyan dabi'u, hangen duniya, ɗabi'a da abokan gaba na nullianism.
-- [**Yadda za a bada gudummawa (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — ƙa'idoji ga waɗanda suke son shiga cikin cigaban wannan addini.
+## Yadda za ka zama ɗan Nulliyanci?
 
-## Yadda za a zama nulianci?
-
-Idan kuna goyon bayan ra'ayoyin da aka bayyana a nan, ku yi la'akari da cewa kun riga kun zama nulianci. Babu wani tsari na hukuma da ake buƙata. Addininmu ba shi da tsari na tsakiya.
+Idan ka yarda da ra’ayoyin da ke nan, to ka riga ka zama ɗan Nulliyanci. Babu wani tsari na hukuma. Addininmu babu tsakiyar iko — ya fantsama.
 
 ## Yadda za a taimaka wa aikin?
 
-1. **Raba wannan [bidiyo](https://www.youtube.com/watch?v=mCErecXWGCc) da ma'ajiyar tare da abokai.**
-2. **Yi liking da barin sharhi.**
-3. **Bayar da ra'ayoyinku** don dokoki da ritaye ta hanyar Issues da Pull Requests a wannan ma'ajiyar.
-4. **Gyara** shafin aikin a nan: https://github.com/nullianism/nullianism.github.io
+1. **Raba wannan [bidiyo](https://www.youtube.com/watch?v=mCErecXWGCc) da ma'ajiyar nan da abokai.**
+2. **Danna “like” ku bar sharhi.**
+3. **Ba da ra’ayoyinku** don dokoki da ritualoli ta Issues da Pull Requests a cikin wannan ma’ajiya.
+4. **Gyaran** rukunin yanar gizon aikin za a iya yi a nan: https://github.com/nullianism/nullianism.github.io

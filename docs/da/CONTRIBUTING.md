@@ -1,17 +1,18 @@
+-----
+# Sådan kan du bidrage
 
-# Hvordan bidrage
+Nulliandom — er en open-source religion. Alle kan bidrage til dens udvikling.
 
-Nullianisme er en open-source religion. Alle kan bidrage til dens udvikling.
+## Hvordan gør man?
 
-## Hvordan gør man det?
+1. **Foreslå idéer via Issues:** Hvis du har et forslag til et nyt bud, et ritual, en præcisering af filosofien eller blot en tanke til diskussion, så opret et nyt Issue i dette repository.  
+2. **Indsend rettelser via Pull Requests:** Hvis du vil rette en slåfejl, forbedre en formulering eller tilføje noget konkret til de eksisterende filer, så lav en fork af repositoryet, foretag ændringerne og send en Pull Request.
 
-1. **Foreslå idéer via Issues:** Hvis du har et forslag til en ny befaling, ritual, præcisering af filosofien eller blot en tanke til diskussion, opret en ny Issue i dette repository.
-2. **Foretag ændringer via Pull Requests:** Hvis du vil rette en stavefejl, forbedre en formulering eller tilføje noget specifikt til eksisterende filer, lav en fork af repositoryet, foretag ændringerne og send en Pull Request.
+## Grundprincipper
 
-## Grundlæggende principper
+- **Overensstemmelse med filosofien:** Alle forslag skal være i overensstemmelse med Nulliandoms kerneværdier: nysgerrighed, videnskabelig tilgang, kritisk tænkning og humanisme.  
+- **Konstruktivitet:** Diskussioner skal være respektfulde. Vi kritiserer ideer, ikke mennesker.  
+- **Fravær af dogmer:** Nulliandom — er et levende, udviklende system. Vær parat til, at dine idéer kan blive anfægtet, og vær åben for at ændre dem i lyset af nye fakta og argumenter.
 
-- **Overensstemmelse med filosofien:** Alle forslag skal være i overensstemmelse med nullianismens kerneværdier: nysgerrighed, videnskabelig tilgang, kritisk tænkning og humanisme.
-- **Konstruktivitet:** Diskussioner skal være respektfulde. Vi kritiserer idéer, ikke mennesker.
-- **Fravær af dogmer:** Nullianisme er et levende, udviklende system. Vær forberedt på, at dine idéer kan blive udfordret, og vær åben for at ændre dem i lyset af nye fakta og argumenter.
-
-Lad os skabe fremtidens religion sammen!
+Lad os skabe fremtidens religion sammen! 
+-----

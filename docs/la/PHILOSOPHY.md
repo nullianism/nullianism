@@ -1,29 +1,31 @@
+-----
+# Philosophia Nullianitas
 
-# Philosophia Nullianismi
+## Summa Pretii — Cognitio Mundi
 
-## Summa Pretium — Cognitio Mundi
+Pretiosissimum nobis est cognoscere mundum. Quo melius mundum circumstantem intellegimus, eo efficacius metas nostras, qualescumque sint, consequi possumus. Ex hoc pretio etiam humanismus manat: vita hominis principalissimum est bonum, quia mors hominem facultate cognoscendi privat.
 
-Nostra summa pretium est cognitio mundi. Quanto melius mundum circumstantem intellegimus, tanto efficacius metas nostras assequi possumus, qualescumque illae sint. Ex hac pretio humanismus quoque oritur: vita hominis est praecipuum pretium, quoniam mors hominem cognitionis facultate privat.
+## Fundamentum — Methodus Scientifica
 
-## Fundamentum — Appropriatio Scientifica
-
-Dissimile a religionibus traditis, quae in fide fundantur, nullianismus in dubitatione, cogitatione critica et methodo scientifica fundatur. Non accipimus assertiones sine probationibus.
+Dissimile a religionibus traditionalibus fide innixis, Nullianitas dubitationi, cogitationi criticae et methodo scientifico innititur. Affirmationes sine probationibus non accipimus.
 
 ## Relatio ad Deum et Supernaturale
 
-In nullianismo Deus non est, quia scientia eum non revelavit. Haec est religio functionaliter atheistica. Non affirmamus Deum certe non esse, sed agimus ex absentia probationum persuasivarum eius existentiae. Si existentia numinis scientifico modo probabitur, nullianismus hunc factum accipiet.
+In Nullianitas Deus non est, quia scientia eum non detexit. Religio haec functionaliter atheistica est. Non asseveramus Deum certe non esse, sed ex absentia probationum sufficientium eius existentiae agimus. Si existentia numinis scientifice comprobabitur, Nullianitas hunc factum accipiet.
 
 ## Vita post mortem: Immortalismus
 
-Pro fide in vitam post mortem, nullianismus ideam **immortalismi** proponit — studium mortem physicam impedire vel quam maxime differre ope scientiae et technologiae. Non ad mortem nos paramus, sed eam vitare conamur. Nullianista per defaltam consensum dat ad immortalitatem technologicam et resurrectionem, si talis facultas in futuro apparebit.
+Pro fide in vitam post mortem Nullianitas notionem **immortalismi** proponit — studium mortem physicam arte et technologia prevenire vel quam longissime differre. Ad mortem nos non praeparamus, sed eam vitare conamur. Sectator Nullianitas per se consensum praebet immortalitati technologiaeque resurrectionis, si talis facultas in futurum apparebit.
 
-## Inimici Nullianismi
+## Inimici Nullianitas
 
-Praecipuus antagonista nullianismi est **antiargumentatio**:
+Praecipuus Nullianitas adversarius est **antiargumentatio**:
 
-- Voluntaria disseminatio disinformationis.
+- Deliberata disseminatio misinformationis.
 - Contemptus scientiae et factorum.
-- Solutio controversiarum vi, non logica et argumentis.
-- Affectus potius quam rationem appellare.
+- Lis vi, non logica rationibusque dirimenda.
+- Affectibus potius quam rationi appellare.
 
-Non cum hominibus pugnamus, sed cum ideis nocivis.
+Nos cum hominibus non pugnamus, sed cum ideis nocivis.
+
+-----

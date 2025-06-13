@@ -1,36 +1,38 @@
+-----  
+# Nullian giáo 
 
-# Chủ nghĩa Nullian 
+> Tôn giáo khoa học mã nguồn mở đầu tiên trên thế giới.
 
-> Tôn giáo mã nguồn mở khoa học đầu tiên trên thế giới.
-
-Chào mừng đến với kho lưu trữ Chủ nghĩa Nullian — một tôn giáo khoa học được tạo ra bởi Alexander Panchin. Đây không phải là trò đùa hay mồi nhử, mà là một thí nghiệm xã hội và nỗ lực tạo ra một hệ thống giá trị không dựa trên giáo điều và niềm tin, mà dựa trên sự tò mò, tư duy phản biện và phương pháp khoa học.
+Chào mừng bạn đến với kho lưu trữ của Nullian giáo — một tôn giáo khoa học do Aleksandr Panchin tạo ra. Đây không phải là trò đùa hay clickbait, mà là một thí nghiệm xã hội và nỗ lực xây dựng một hệ thống giá trị dựa không phải trên giáo điều và niềm tin, mà trên tính hiếu kỳ, tư duy phản biện và phương pháp khoa học.
 
 ## Ý tưởng chính
 
-Chủ nghĩa Nullian là một tôn giáo nhằm mục đích kết nối con người không phải xung quanh một vị thần hay các vị thần, mà là xung quanh sự tò mò của con người. Chúng tôi sử dụng "vỏ bọc" của tôn giáo — cơ chế mạnh mẽ của nó để lan truyền ý tưởng và tạo ra cộng đồng — nhưng chúng tôi lấp đầy nó bằng nội dung hợp lý và nhân văn.
+Nullian giáo là một tôn giáo nhằm gắn kết mọi người không phải xung quanh một hay nhiều vị thần, mà xung quanh sự hiếu kỳ của con người. Chúng tôi sử dụng “vỏ bọc” của tôn giáo — cơ chế mạnh mẽ của nó trong việc lan truyền ý tưởng và tạo lập cộng đồng — nhưng lấp đầy vỏ bọc đó bằng nội dung mang tính duy lý và nhân văn.
 
-**Biểu tượng của chúng tôi là Số Không (0)**. Nó tượng trưng cho:
+**Biểu tượng của chúng tôi — Số Không (0)**. Nó tượng trưng cho:
 
-- Sự thiếu vắng giáo điều và định kiến.
-- Điểm khởi đầu của sự nhận thức.
-- Khoảng cách bằng nhau của tất cả các thành viên từ trung tâm, không có sự phân cấp.
-- Vòng tròn lý trí, kết nối con người.
+- Sự vắng mặt của giáo điều và định kiến.  
+- Điểm khởi đầu của tri thức.  
+- Mọi thành viên đều cách đều tâm, không có thứ bậc.  
+- Vòng tròn lý trí kết nối mọi người.  
 
 ## Cấu trúc kho lưu trữ
 
-- [**Tuyên ngôn Sự Tò Mò (`MANIFESTO.md`)**](./MANIFESTO.md) — văn bản chương trình chính của tôn giáo chúng tôi, được tạo ra bởi trí tuệ nhân tạo.
-- [**Giới luật (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 nguyên tắc chính mà người theo chủ nghĩa Nullian tuân theo.
-- [**Nghi lễ (`RITUALS.md`)**](./RITUALS.md) — các thực hành giúp củng cố và lan truyền ý tưởng của chủ nghĩa Nullian.
-- [**Triết lý (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — trình bày chi tiết các giá trị chính, quan điểm về thế giới, đạo đức và kẻ thù của chủ nghĩa Nullian.
-- [**Cách đóng góp (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — quy tắc cho những ai muốn tham gia phát triển tôn giáo này.
+- [**Tuyên ngôn về Tính Hiếu Kỳ (`MANIFESTO.md`)**](./MANIFESTO.md) — văn bản chương trình chủ đạo của tôn giáo chúng ta, được sinh ra bởi trí tuệ nhân tạo.  
+- [**Giới luật (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 nguyên tắc then chốt mà một Nullian giáo tuân theo.  
+- [**Nghi lễ (`RITUALS.md`)**](./RITUALS.md) — các thực hành giúp củng cố và lan toả các ý tưởng của Nullian giáo.  
+- [**Triết lý (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — trình bày chi tiết các giá trị cốt lõi, thế giới quan, đạo đức và kẻ thù của Nullian giáo.  
+- [**Cách đóng góp (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — quy tắc dành cho những ai muốn tham gia phát triển tôn giáo này.  
 
-## Làm thế nào để trở thành người theo chủ nghĩa Nullian?
+## Làm sao để trở thành Nullian giáo?
 
-Nếu bạn chia sẻ những ý tưởng được trình bày ở đây, hãy coi rằng bạn đã là người theo chủ nghĩa Nullian. Không cần bất kỳ thủ tục chính thức nào. Tôn giáo của chúng tôi là phi tập trung.
+Nếu bạn đồng ý với những ý tưởng được trình bày ở đây, hãy xem như bạn đã là Nullian giáo. Không cần bất kỳ thủ tục chính thức nào. Tôn giáo của chúng tôi phi tập trung.
 
-## Làm thế nào để giúp đỡ dự án?
+## Làm thế nào để giúp dự án?
 
-1. **Chia sẻ [video này](https://www.youtube.com/watch?v=mCErecXWGCc) và kho lưu trữ với bạn bè.**
-2. **Thích và để lại bình luận.**
-3. **Đề xuất ý tưởng của bạn** cho các giới luật và nghi lễ thông qua Issues và Pull Requests trong kho lưu trữ này.
-4. **Chỉnh sửa** trang web của dự án tại đây: https://github.com/nullianism/nullianism.github.io
+1. **Hãy chia sẻ [video](https://www.youtube.com/watch?v=mCErecXWGCc) này và kho lưu trữ với bạn bè.**  
+2. **Hãy nhấn thích và để lại bình luận.**  
+3. **Đề xuất ý tưởng của bạn** cho các giới luật và nghi lễ thông qua Issues và Pull Requests trong kho lưu trữ này.  
+4. **Chỉnh sửa** trang web của dự án tại đây: https://github.com/nullianism/nullianism.github.io  
+
+-----

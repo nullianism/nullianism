@@ -1,26 +1,25 @@
+# Ritus Agama Nullian
 
-# Ritus Nullianisme
+Ritus ing Agama Nullian — iki praktik-praktik sing ditujokaké kanggo nguwataké nilai pangerten, pamikiran kritis lan pambentukan komunitas.
 
-Ritus ing nullianisme yaiku praktik-praktik sing ditujokake kanggo nguatake nilai-nilai kawruh, pamikiran kritis lan nggawe komunitas.
+1.  ### Quest (saka bhs. *Question*)
+    Wiwiti ésuk nganggo pitakon. Sajeroning dina, coba goleki jawaban sing jujur. Aja isin takon marang wong liya — sing luwih paham babagan pitakon kasebut tinimbang kowe.
 
-1.  ### Kuis (saka basa Inggris *Question*)
-    Wiwiti esuk karo pitakonan. Sajrone dina, coba goleki jawaban sing jujur kanggo pitakonan iku. Aja isin takon marang wong liya — sing luwih paham babagan pitakonan iku tinimbang sampeyan.
+2.  ### Base-checking, utawa Ritus pengecekan fakta kaping pindho
+    Yèn kowe nulis komentar utawa kiriman sing duwé isi, priksa kaping pindho kabeneran informasi sing ditulis, beciké saka rong sumber béda. Minangka pratandha yèn kowe wis nindakake iki, pasang simbol suci **0** ing wiwitan pesenmu. Iki tandha tanggung jawabmu marang tembungmu dhéwé.
 
-2.  ### Bèyzcheking, utawa Ritus pengecekan fakta kaping pindho
-    Yen sampeyan nulis komentar sing isi utawa kiriman, priksa kaping pindho keabsahan informasi sing disajikake, luwih becik saka sumber sing beda. Minangka tandha yen sampeyan wis nindakake iku, pasang simbol sakral **0** ing wiwitan pesen sampeyan. Iki minangka tandha tanggung jawab sampeyan marang tembung sampeyan.
-
-3.  ### Gèst niat murni
-    Yen nalika komunikasi langsung sampeyan pengin takon pitakonan saka rasa penasaran sing tulus, lan dudu kanggo debat, sampeyan bisa nggambarake angka nol (0) ing udhara nganggo driji. Iki bakal nuduhake marang lawan bicara kemurnian niat sampeyan. Wong sing ditakoni bakal menehi rasa hormat khusus marang pitakonan kasebut.
+3.  ### Gestur niyat murni
+    Yèn nalika komunikasi langsung kowe péngin takon amarga rasa kepéngin weruh sing tulus, ora kanggo padu, kowe bisa nggambar angka nol (0) ing udhara nganggo drijimu. Iki bakal nuduhaké marang lawan guneman kemurnian niyatmu. Sing ditakoni bakal nuduhaké rasa hormat khusus marang pitakon kasebut.
 
 4.  ### Nullifikasi
-    Latihan mental kanggo mriksa kekuwatan argumen sampeyan. Takon marang dhiri: "Yen ana wong nggunakake argumenku kanggo mbuktekake sesuatu sing aku anggep omong kosong, apa aku bakal ngganti pandanganku babagan omong kosong iku?". Iki mbantu ngenali standar ganda ing pamikiran sampeyan.
+    Latihan mental kanggo mriksa kekuwatan argumenmu. Takona marang awakmu dhéwé: «Yèn ana wong sing nganggo argumenku dhéwé kanggo mbuktèkaké bab sing tak anggep omong kosong, apa aku bakal ngganti pandanganku marang omong kosong kuwi?» Iki mbantu nemokaké standar ganda ing pamikiranmu.
 
-5.  ### Lingkaran Akal
-    Nullian ngajak kanca lan kenalan menyang omah kanggo ngisi wektu kanthi intelektual: nonton film bareng, diskusi buku, dolanan game papan. Iki ndhukung nggawe komunitas lan nyebarake ide nullianisme liwat kegiatan bebarengan. Utamane dihargai game *Fallacymania*, sing mulang ngenali sofisme ing diskusi.
+5.  ### Bunderan Akal
+    Para Nullian ngajak kanca lan kenalan menyang omah kanggo ngisi wektu intelektual: nonton film bareng, rembugan buku, dolanan papan. Iki ndhukung pambentukan komunitas lan panyebaran gagasan Agama Nullian liwat kegiyatan bebarengan. Sing paling diajèni yaiku dolanan *Fallacymania*, sing mulang ngenali sofisme ing debat.
 
 6.  ### Antidoa
-    Tinimbang njaluk bantuan marang kekuwatan sing abstrak, nullianisme ngajak golek solusi masalah liwat langkah praktis. Antidoa yaiku proses:
-    1.  Rumusake masalah kanthi cetha.
-    2.  Pikirake, apa sing bisa sampeyan lakoni kanggo ngrampungake masalah iku.
-    3.  Taksir, apa kawruh sampeyan cukup.
-    4.  Yen ora — goleki ngendi bisa entuk kawruh iku, utawa njaluk bantuan marang ahli.
+    Tinimbang njaluk pitulungan marang kekuwatan dhuwur sing abstrak, Agama Nullian ngajak nggoleki solusi masalah liwat langkah praktis. Antidoa — iki proses:
+    1.  Rumusna masalah kanthi cetha.
+    2.  Pikirna apa sing nyata-nyata bisa kowe tindakaké kanggo ngrampungaké.
+    3.  Évaluasia, apa kawruhmu wis cukup.
+    4.  Yèn durung — goleka ing ngendi kowe bisa entuk kawruh kuwi, utawa njaluk bantuan marang spesialis.

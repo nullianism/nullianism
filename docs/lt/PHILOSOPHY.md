@@ -1,29 +1,31 @@
+-----
+# Nullianybės filosofija
 
-# Filosofija Nullianizmo
+## Aukščiausia vertybė — pasaulio pažinimas
 
-## Aukščiausia vertybė — Pasaulio Pažinimas
+Mūsų aukščiausia vertybė — pasaulio pažinimas. Kuo geriau suprantame mus supantį pasaulį, tuo veiksmingiau galime siekti savo tikslų, kad ir kokie jie būtų. Iš šios vertybės kyla ir humanizmas: žmogaus gyvybė yra pagrindinė vertybė, nes mirtis atima žmogui galimybę pažinti.
 
-Mūsų aukščiausia vertybė — pasaulio pažinimas. Kuo geriau suprantame mus supantį pasaulį, tuo efektyviau galime pasiekti savo tikslus, kad ir kokie jie būtų. Iš šios vertybės kyla ir humanizmas: žmogaus gyvenimas yra pagrindinė vertybė, nes mirtis atima iš žmogaus galimybę pažinti.
+## Pagrindas — mokslinis požiūris
 
-## Pagrindas — Mokslinis Požiūris
+Skirtingai nei tradicinės religijos, grindžiamos tikėjimu, Nullianybė remiasi abejonėmis, kritiniu mąstymu ir moksliniu metodu. Mes nepriimame teiginių be įrodymų.
 
-Skirtingai nuo tradicinių religijų, pagrįstų tikėjimu, nullianizmas remiasi abejonėmis, kritiniu mąstymu ir moksliniu metodu. Mes nepriimame teiginių be įrodymų.
+## Požiūris į Dievą ir antgamtinius dalykus
 
-## Požiūris į Dievą ir antgamtinį
+Nullianybėje nėra Dievo, nes mokslas jo neatrado. Tai funkciškai ateistinė religija. Mes neteigiame, kad Dievo tikrai nėra, bet veikiame remdamiesi tuo, kad nėra įtikinamų jo egzistavimo įrodymų. Jei dievybės egzistavimas būtų moksliškai įrodytas, Nullianybė priimtų šį faktą.
 
-Nullianizme nėra Dievo, nes mokslas jo neatrado. Tai funkciškai ateistinė religija. Mes neteigiame, kad Dievo tikrai nėra, bet veikiame remdamiesi įtikinamų jo egzistavimo įrodymų nebuvimu. Jei dievybės egzistavimas bus moksliškai įrodytas, nullianizmas priims šį faktą.
+## Gyvenimas po mirties: immortalizmas
 
-## Gyvenimas po mirties: Immortalizmas
+Užuot tikėję pomirtiniu gyvenimu, Nullianybė siūlo **immortalizmo** idėją — siekį užkirsti kelią fizinei mirčiai arba kiek įmanoma ją atitolinti pasitelkiant mokslą ir technologijas. Mes nesiruošiame mirčiai, o stengiamės jos išvengti. Nullianietis pagal nutylėjimą sutinka su technologiniu nemirtingumu ir prisikėlimu, jei tokia galimybė ateityje atsiras.
 
-Vietoj tikėjimo pomirtiniu gyvenimu nullianizmas siūlo **immortalizmo** idėją — siekį užkirsti kelią arba maksimaliai atitolinti fizinę mirtį pasitelkiant mokslą ir technologijas. Mes nesiruošiame mirčiai, o stengiamės jos išvengti. Nullianistas pagal nutylėjimą sutinka su technologiniu nemirtingumu ir prisikėlimu, jei tokia galimybė atsiras ateityje.
+## Nullianybės priešai
 
-## Nullianizmo Priešai
-
-Pagrindinis nullianizmo antagonistas yra **antiargumentacija**:
+Pagrindinis Nullianybės antagonistas yra **antiargumentacija**:
 
 - Tyčinis dezinformacijos platinimas.
 - Nepagarbus požiūris į mokslą ir faktus.
 - Ginčų sprendimas jėga, o ne logika ir argumentais.
-- Emocijų veikimas vietoj kreipimosi į protą.
+- Apeliavimas į emocijas užuot kreipusis į protą.
 
 Mes kovojame ne su žmonėmis, o su žalingomis idėjomis.
+
+-----

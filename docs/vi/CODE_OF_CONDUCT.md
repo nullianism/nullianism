@@ -1,16 +1,17 @@
-
-# Quy tắc ứng xử của người tham gia v2.1
+-----
+# Bộ Quy Tắc Ứng Xử của Người Tham Gia v2.1
 
 ## Cam kết của chúng tôi
-Chúng tôi, với tư cách là những người tham gia, người đóng góp và lãnh đạo, cam kết làm cho việc tham gia vào cộng đồng của chúng tôi không có sự quấy rối đối với tất cả mọi người, bất kể tuổi tác, hình dáng cơ thể, khuyết tật có thể nhìn thấy hoặc không thể nhìn thấy, dân tộc, đặc điểm giới tính, nhận dạng và thể hiện giới tính, mức độ kinh nghiệm, giáo dục, tình trạng kinh tế xã hội, quốc tịch, ngoại hình, chủng tộc, đẳng cấp, màu da, tôn giáo hoặc nhận dạng và định hướng tình dục.
+Chúng tôi — với tư cách là các thành viên, cộng tác viên và lãnh đạo — cam kết đảm bảo việc tham gia vào cộng đồng của mình không có bất kỳ hành vi quấy rối nào đối với mọi người, bất kể tuổi tác, hình thể, khuyết tật hữu hình hay vô hình, dân tộc, đặc điểm giới, bản dạng và thể hiện giới, mức độ kinh nghiệm, học vấn, tình trạng kinh tế-xã hội, quốc tịch, ngoại hình, chủng tộc, đẳng cấp, màu da, tôn giáo hoặc bản dạng và xu hướng tình dục.
 
 ## Tiêu chuẩn của chúng tôi
-Các ví dụ về hành vi góp phần tạo ra môi trường tích cực bao gồm:
-- Thể hiện sự đồng cảm và tử tế đối với người khác
-- Tôn trọng các ý kiến, quan điểm và kinh nghiệm khác nhau
-- Cung cấp và đón nhận phản hồi mang tính xây dựng một cách xứng đáng
+Các ví dụ về hành vi góp phần tạo nên một môi trường tích cực bao gồm:
+- Thể hiện sự đồng cảm và tử tế với người khác
+- Tôn trọng các ý kiến, quan điểm và kinh nghiệm đa dạng
+- Cung cấp và tiếp nhận phản hồi mang tính xây dựng một cách lịch thiệp
 
 ## Thực thi
-Các trường hợp hành vi xúc phạm, quấy rối hoặc hành vi không chấp nhận khác có thể được báo cáo bằng cách liên hệ với nhóm dự án thông qua GitHub Issues với nhãn `coc`. Tất cả các khiếu nại sẽ được xem xét và điều tra một cách nhanh chóng và công bằng.
+Các trường hợp có hành vi lăng mạ, quấy rối hoặc không thể chấp nhận được khác có thể được báo cáo bằng cách liên hệ với nhóm dự án thông qua GitHub Issues với nhãn `coc`. Tất cả các khiếu nại sẽ được xem xét và điều tra kịp thời và công bằng.
 
-> Toàn văn: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+> Toàn văn: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+-----

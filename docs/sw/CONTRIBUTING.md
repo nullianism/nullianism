@@ -1,17 +1,18 @@
+-----
+# Jinsi ya kuchangia
 
-# Jinsi ya Kuchangia
+Unulliani — ni dini ya chanzo-wazi. Kila mtu anaweza kuchangia katika maendeleo yake.
 
-Nullianism ni dini ya chanzo huria. Kila mtu anaweza kuchangia katika maendeleo yake.
+## Jinsi ya kufanya hivyo?
 
-## Jinsi ya Kufanya Hivyo?
+1. **Toa mawazo kupitia Issues:** Ikiwa una pendekezo kuhusu amri mpya, ibada, ufafanuzi wa falsafa au wazo la kujadili, tengeneza Issue mpya katika jalada hili.  
+2. **Fanya marekebisho kupitia Pull Requests:** Ikiwa unataka kurekebisha hitilafu ya tahajia, kuboresha uundaji sentensi au kuongeza kitu mahususi kwenye faili zilizopo, fanya fork ya jalada, fanya mabadiliko yako na utume Pull Request.
 
-1. **Pendekeza mawazo kupitia Issues:** Ikiwa una pendekezo la amri mpya, ibada, ufafanuzi wa falsafa au wazo la kujadili, unda Issue mpya katika hazina hii.
-2. **Fanya marekebisho kupitia Pull Requests:** Ikiwa unataka kusahihisha makosa ya herufi, kuboresha uandishi au kuongeza kitu maalum kwenye faili zilizopo, fanya fork ya hazina, fanya mabadiliko na tuma Pull Request.
+## Kanuni kuu
 
-## Kanuni za Msingi
+- **Ulinganifu na falsafa:** Mapendekezo yote yanapaswa kuendana na maadili kuu ya Unulliani: udadisi, mbinu za kisayansi, fikra kinzani na ubinadamu.  
+- **Ujenzi:** Majadiliano yanapaswa kuwa ya heshima. Tunakosoa mawazo, si watu.  
+- **Kutokuwepo kwa mafundisho yasiyobadilika:** Unulliani ni mfumo hai unaokua. Uwe tayari kwamba mawazo yako yatapingwa, na uwe wazi kuyabadilisha mbele ya ukweli na hoja mpya.
 
-- **Kulingana na falsafa:** Mapendekezo yote yanapaswa kuendana na maadili muhimu ya nullianism: udadisi, mbinu ya kisayansi, fikra za kina na ubinadamu.
-- **Ujenzi:** Majadiliano yanapaswa kuwa ya heshima. Tunakosoa mawazo, si watu.
-- **Kutokuwepo kwa dogma:** Nullianism ni mfumo hai unaoendelea. Kuwa tayari kwa mawazo yako kupingwa, na uwe wazi kuyabadilisha kutokana na ukweli na hoja mpya.
-
-Hebu tuunde dini ya siku zijazo pamoja!
+Hebu tuunde dini ya baadaye pamoja! 
+-----

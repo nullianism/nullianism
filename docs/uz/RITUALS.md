@@ -1,26 +1,27 @@
+-----
+# Nullianlik rituallari
 
-# Nullianizm Rituallari
+Nullianlikdagi rituallar — bu bilish, tanqidiy fikrlash qadriyatlarini mustahkamlash va hamjamiyat yaratishga qaratilgan amaliyotlardir.
 
-Nullianizmda rituallar — bu bilim, tanqidiy fikrlash qadriyatlarini mustahkamlash va hamjamiyat yaratishga qaratilgan amaliyotlardir.
+1.  ### Kvest (inglizcha *Question* so‘zidan)
+    Ertani savol bilan boshlang. Kun davomida unga halol javob topishga harakat qiling. Mavzuni sizdan ko‘ra yaxshiroq tushunadiganlardan so‘rashdan uyalmang.
 
-1.  ### Kvest (inglizcha *Question* so'zidan)
-    Tongni savol bilan boshlang. Kun davomida unga halol javob topishga harakat qiling. Savolni sizdan yaxshiroq tushunadiganlardan so'rashdan uyalmang.
+2.  ### Beyzcheking, yoki ikki karra faktcheking marosimi
+    Agar mazmunli sharh yoki post yozayotgan bo‘lsangiz, bayon etilgan ma’lumotning ishonchliligini, iloji bo‘lsa, turli manbalarda ikki marta tekshiring. Buni qilganingizni bildiruvchi ramz sifatida xabaringiz boshiga muqaddas **0** belgisi qo‘ying. Bu — so‘zlaringiz uchun javobgarligingiz ramzi.
 
-2.  ### Beyzcheking yoki Ikki marta faktcheking rituallari
-    Agar siz mazmunli izoh yoki post yozayotgan bo'lsangiz, keltirilgan ma'lumotlarning ishonchliligini ikki marta, iloji bo'lsa, turli manbalarda tekshiring. Buni qilganingizni ko'rsatish uchun xabaringiz boshida muqaddas **0** belgisini qo'ying. Bu sizning so'zlaringiz uchun javobgarlik belgisidir.
-
-3.  ### Sof niyat ishorasi
-    Agar jonli muloqotda siz chin dildan qiziqish bilan savol bermoqchi bo'lsangiz, bahslashish uchun emas, havoda barmog'ingiz bilan nol (0) chizishingiz mumkin. Bu suhbatdoshga sizning niyatlaringizning pokligini ko'rsatadi. Savol qaratilgan kishi unga alohida hurmat bilan qaraydi.
+3.  ### Pok niyat ishorasi
+    Jonli muloqotda savolni bahslashish uchun emas, chin qiziqishdan so‘ramoqchi bo‘lsangiz, barmog‘ingiz bilan havoda nol (0) chizing. Bu suhbatdoshga niyatingizning pokligini ko‘rsatadi. Savol yo‘naltirilgan kishi unga alohida hurmat bilan yondashadi.
 
 4.  ### Nullifikatsiya
-    O'z argumentlaringizni mustahkamligini tekshirish uchun aqliy mashq. O'zingizga savol bering: «Agar kimdir mening o'sha argumentlarim bilan men to'liq bema'nilik deb hisoblaydigan narsani isbotlamoqchi bo'lsa, men bu bema'nilik haqidagi fikrimni o'zgartirarmidim?». Bu o'z fikrlashdagi ikkiyuzlamachilikni aniqlashga yordam beradi.
+    O‘z dalillaringiz mustahkamligini sinovdan o‘tkazish uchun aqliy mashq. O‘zingizga shunday savol bering: «Agar kimdir mening o‘sha dalillarim bilan men mutlaqo bema’nilik deb biladigan narsani isbotlayotganida, men o‘sha bema’nilik haqidagi fikrimni o‘zgartirarmidim?» Bu fikrlashdagi ikki xil standartlarni aniqlashga yordam beradi.
 
-5.  ### Aql Doirasi
-    Nullianlar do'stlar va tanishlarni intellektual vaqt o'tkazish uchun uylariga taklif qilishadi: birgalikda filmlar tomosha qilish, kitoblarni muhokama qilish, stol o'yinlari. Bu hamjamiyat yaratishga va nullianizm g'oyalarini birgalikdagi faoliyat orqali tarqatishga yordam beradi. Ayniqsa, munozaralarda sofizmlarni aniqlashni o'rgatuvchi *Fallacymania* o'yini qadrlanadi.
+5.  ### Aql davrasi
+    Nullianlik tarafdorlari do‘stlar va tanishlarni uylariga taklif qilib, aql-zakovatga boy hordiq uchun film tomosha qilish, kitob muhokamasi, stol o‘yinlari kabi tadbirlar o‘tkazadilar. Bu hamjamiyatni shakllantirish va Nullianlik g‘oyalarini qo‘shma faoliyat orqali tarqatishga xizmat qiladi. Ayniqsa, munozaralarda so‘fizmni aniqlashga o‘rgatuvchi *Fallacymania* o‘yini yuqori baholanadi.
 
 6.  ### Antidua
-    Mavhum oliy kuchlardan yordam so'rash o'rniga, nullianizm muammolarni amaliy qadamlar orqali hal qilishni targ'ib qiladi. Antidua — bu jarayon:
-    1.  Muammoni aniq shakllantirish.
-    2.  Uning yechimi uchun aniq nima qilishingiz mumkinligini o'ylab ko'rish.
-    3.  Bilimingiz yetarlimi, baholash.
-    4.  Agar yo'q bo'lsa — uni qayerdan olish mumkinligini topish yoki mutaxassislardan yordam so'rash.
+    Mavhum oliy kuchlardan yordam so‘rash o‘rniga, Nullianlik muammolarni amaliy qadamlar orqali hal etishga chorlaydi. Antidua — bu jarayon:
+    1.  Muammoni aniq ifodalash.
+    2.  Uni hal etish uchun konkret nima qila olishingizni o‘ylab ko‘rish.
+    3.  Bilimingiz yetarliligi yoki yetarli emasligini baholash.
+    4.  Agar yetarli bo‘lmasa — uni qayerdan olishingiz mumkinligini aniqlash yoki mutaxassislarga murojaat qilish.
+-----

@@ -1,29 +1,28 @@
+# Nullianlık Felsefesi
 
-# Nullianizm Felsefesi
+## En Yüce Değer — Dünyayı Anlama
 
-## En Yüksek Değer — Dünyayı Anlama
-
-En yüksek değerimiz dünyayı anlamaktır. Çevremizdeki dünyayı ne kadar iyi anlarsak, hedeflerimize, ne olursa olsun, o kadar etkili bir şekilde ulaşabiliriz. Bu değerden hümanizm de doğar: İnsan hayatı en önemli değerdir, çünkü ölüm, insanı anlama imkanından mahrum bırakır.
+En yüce değerimiz — dünyayı tanımaktır. Çevremizdeki dünyayı ne kadar iyi anlarsak, hedeflerimize — her ne olursa olsun — o kadar etkili bir şekilde ulaşabiliriz. Bu değerden hümanizm de doğar: insan hayatı başlıca değerdir, çünkü ölüm insanı anlama olanağından mahrum bırakır.
 
 ## Temel — Bilimsel Yaklaşım
 
-İnanca dayalı geleneksel dinlerin aksine, nullianizm şüphe, eleştirel düşünce ve bilimsel yönteme dayanır. Kanıt olmadan iddiaları kabul etmeyiz.
+İnanca dayalı geleneksel dinlerin aksine, Nullianlık şüpheye, eleştirel düşünceye ve bilimsel yönteme dayanır. Kanıtsız iddiaları kabul etmeyiz.
 
-## Tanrı ve Doğaüstü Olanla İlişki
+## Tanrıya ve Doğaüstüne Yaklaşım
 
-Nullianizmde Tanrı yoktur, çünkü bilim onu keşfetmemiştir. Bu, işlevsel olarak ateist bir dindir. Tanrı'nın kesinlikle olmadığını iddia etmiyoruz, ancak varlığının ikna edici kanıtlarının yokluğundan hareket ediyoruz. Bir tanrının varlığı bilimsel olarak kanıtlanırsa, nullianizm bu gerçeği kabul edecektir.
+Nullianlık'ta Tanrı yoktur, çünkü bilim onu keşfetmemiştir. Bu, işlevsel olarak ateist bir dindir. Tanrı’nın kesinlikle olmadığını iddia etmiyoruz, ancak varlığına dair ikna edici kanıt olmadığı varsayımıyla hareket ederiz. Bir tanrının varlığı bilimsel olarak kanıtlanırsa, Nullianlık bu gerçeği kabul edecektir.
 
-## Ölümden Sonra Hayat: İmmortalizm
+## Ölümden Sonra Yaşam: İmmortalizm
 
-Ahiret inancı yerine nullianizm, fiziksel ölümü bilim ve teknoloji yardımıyla önlemeye veya mümkün olduğunca geciktirmeye yönelik **immortalizm** fikrini önerir. Ölüme hazırlanmıyoruz, ondan kaçınmaya çalışıyoruz. Nullianist, gelecekte böyle bir imkan ortaya çıkarsa, teknolojik ölümsüzlük ve diriliğe varsayılan olarak onay verir.
+Ahiret inancı yerine Nullianlık, **immortalizm** fikrini sunar — bilimin ve teknolojinin yardımıyla fiziksel ölümü önleme ya da olabildiğince geciktirme çabası. Ölüme hazırlanmıyoruz, onu önlemeye çalışıyoruz. Bir Nullianlık üyesi, gelecekte böyle bir imkân doğarsa, teknolojik ölümsüzlük ve diriltilmeye varsayılan olarak onay verir.
 
-## Nullianizmin Düşmanları
+## Nullianlık'ın Düşmanları
 
-Nullianizmin başlıca düşmanı **anti-argümantasyon**dur:
+Nullianlık'ın başlıca karşıtı **anti-argümantasyon**dur:
 
-- Kasıtlı olarak yanlış bilgi yayma.
-- Bilim ve gerçeklere karşı kayıtsızlık.
-- Tartışmaları mantık ve delillerle değil, güçle çözme.
-- Akla hitap etmek yerine duygulara etki etme.
+- Bilerek yanlış bilgi yaymak.
+- Bilime ve olgulara küçümseyici yaklaşım.
+- Tartışmaları mantık ve kanıt yerine güç kullanarak çözmek.
+- Akla başvurmak yerine duygulara hitap etmek.
 
-Biz insanlarla değil, zararlı fikirlerle mücadele ediyoruz.
+Biz insanlarla değil, zararlı fikirlerle mücadele ederiz.
