@@ -1,16 +1,17 @@
-
+-----
 # Dalībnieku uzvedības kodekss v2.1
 
-## Mūsu saistības
-Mēs, kā dalībnieki, ieguldītāji un līderi, apņemamies nodrošināt, ka dalība mūsu kopienā ir brīva no aizspriedumiem visiem, neatkarīgi no vecuma, ķermeņa uzbūves, redzamas vai neredzamas invaliditātes, etniskās piederības, dzimuma īpašībām, dzimuma identitātes un pašizpausmes, pieredzes līmeņa, izglītības, sociālekonomiskā statusa, tautības, izskata, rases, kastas, ādas krāsas, reliģijas vai seksuālās identitātes un orientācijas.
+## Mūsu apņemšanās
+Mēs, kā dalībnieki, līdzveidotāji un līderi, apņemamies padarīt līdzdalību mūsu kopienā brīvu no jebkādas diskriminācijas ikvienam, neatkarīgi no vecuma, ķermeņa uzbūves, redzamās vai neredzamās invaliditātes, etniskās piederības, dzimuma pazīmēm, dzimumidentitātes un pašizpausmes, pieredzes līmeņa, izglītības, sociālekonomiskā stāvokļa, nacionalitātes, izskata, rases, kastas, ādas krāsas, reliģijas vai seksuālās identitātes un orientācijas.
 
 ## Mūsu standarti
-Uzvedības piemēri, kas veicina pozitīvas vides radīšanu, ietver:
-- Empātijas un laipnības izrādīšana pret citiem cilvēkiem
+Piemēri uzvedībai, kas veicina pozitīvu vidi, ietver:
+- Empātijas un laipnības izrādīšana pret citiem
 - Cieņa pret dažādiem viedokļiem, skatījumiem un pieredzi
-- Konstrukcīvas atgriezeniskās saites sniegšana un cienīga pieņemšana
+- Konstruktīvas atgriezeniskās saites sniegšana un pienācīga pieņemšana
 
-## Piemērošana
-Par aizvainojošu, vajājošu vai citu nepieņemamu uzvedību var ziņot, sazinoties ar projekta komandu caur GitHub Issues ar birku `coc`. Visas sūdzības tiks izskatītas un izmeklētas operatīvi un taisnīgi.
+## Izpilde
+Par aizskarošas, vajājošas vai citādi nepieņemamas uzvedības gadījumiem var ziņot, sazinoties ar projekta komandu, izmantojot GitHub Issues ar birku `coc`. Visas sūdzības tiks izskatītas un izmeklētas operatīvi un taisnīgi.
 
 > Pilns teksts: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+-----

@@ -1,6 +1,6 @@
-# Translation Guide for Nullianism
+# Translation Guide for Nullianity
 
-This guide will help you translate Nullianism documents to your language.
+This guide will help you translate Nullianity documents to your language.
 
 ## Quick Start
 
@@ -12,7 +12,7 @@ This guide will help you translate Nullianism documents to your language.
 
    # Option B: Create empty template files if you want to translate manually
    ./translation-helpers/new-language.sh <your_language_code>
-   ```
+   gi
 
    Examples:
 
@@ -21,6 +21,8 @@ This guide will help you translate Nullianism documents to your language.
    • `./translation-helpers/new-language.sh it` — create Italian directory with template placeholders for manual work.
 
    The automatic translator needs an OpenAI API key. See "Generate a Translation with OpenAI" below for details.
+
+   ```
 
 2. **Translate the template files** in your new language directory
 
@@ -142,8 +144,10 @@ Before submitting:
 
 1. Update the root `README.md` to include your language:
 
-   ```markdown
    <a href="docs/es/README.md">Español</a> ·
+
+   ```
+
    ```
 
 2. Create a Pull Request with:
@@ -162,12 +166,12 @@ Before submitting:
 
 | Rank | ISO | Language (English)      | Native name      | Total speakers (M) |
 | ---- | --- | ----------------------- | ---------------- | ------------------ |
-| 1    | en  | English                 | English          | 1 548              |
-| 2    | zh  | Mandarin Chinese        | 中文             | 1 184              |
+| 1    | en  | English                 | English          | 1548               |
+| 2    | zh  | Mandarin Chinese        | 中文             | 1184               |
 | 3    | hi  | Hindi                   | हिन्दी           | 610                |
 | 4    | es  | Spanish                 | Español          | 559                |
-| 5    | fr  | French                  | Français         | 309                |
-| 6    | ar  | Arabic (MSA)            | العربية          | 335                |
+| 5    | ar  | Arabic (MSA)            | العربية          | 335                |
+| 6    | fr  | French                  | Français         | 309                |
 | 7    | bn  | Bengali                 | বাংলা            | 284                |
 | 8    | pt  | Portuguese              | Português        | 267                |
 | 9    | ru  | Russian                 | Русский          | 253                |
@@ -195,17 +199,26 @@ Before submitting:
 | 31   | it  | Italian                 | Italiano         | 68                 |
 | 32   | pl  | Polish                  | Polski           | 50                 |
 | 33   | uk  | Ukrainian               | Українська       | 45                 |
-| 34   | ro  | Romanian                | Română           | 34                 |
-| 35   | nl  | Dutch                   | Nederlands       | 30                 |
-| 36   | el  | Greek                   | Ελληνικά         | 25                 |
-| 37   | sv  | Swedish                 | Svenska          | 20                 |
-| 38   | cs  | Czech                   | Čeština          | 17                 |
-| 39   | sr  | Serbian                 | Српски           | 12                 |
-| 40   | he  | Hebrew                  | עברית            | 10                 |
-| 41   | da  | Danish                  | Dansk            | 6                  |
-| 42   | no  | Norwegian               | Norsk            | 5                  |
-| 43   | lt  | Lithuanian              | Lietuvių         | 3                  |
-| 44   | lv  | Latvian                 | Latviešu         | 2                  |
-| 45   | mk  | Macedonian              | Македонски       | 2                  |
-| 46   | et  | Estonian                | Eesti            | 1                  |
-| 47   | be  | Belarusian              | Беларуская       | 1                  |
+| 34   | uz  | Uzbek                   | Oʻzbekcha        | 40                 |
+| 35   | ro  | Romanian                | Română           | 34                 |
+| 36   | nl  | Dutch                   | Nederlands       | 30                 |
+| 37   | az  | Azerbaijani             | Azərbaycan dili  | 30                 |
+| 38   | el  | Greek                   | Ελληνικά         | 25                 |
+| 39   | sv  | Swedish                 | Svenska          | 20                 |
+| 40   | cs  | Czech                   | Čeština          | 17                 |
+| 41   | kk  | Kazakh                  | Қазақ тілі       | 13                 |
+| 42   | sr  | Serbian                 | Српски           | 12                 |
+| 43   | ug  | Uyghur                  | ئۇيغۇرچە         | 12                 |
+| 44   | he  | Hebrew                  | עברית            | 10                 |
+| 45   | tt  | Tatar                   | Татар теле       | 7                  |
+| 46   | da  | Danish                  | Dansk            | 6                  |
+| 47   | tg  | Tajik                   | Тоҷикӣ           | 5.3                |
+| 48   | ky  | Kyrgyz                  | Кыргыз тили      | 5.1                |
+| 49   | no  | Norwegian               | Norsk            | 5                  |
+| 50   | lt  | Lithuanian              | Lietuvių         | 3                  |
+| 51   | lv  | Latvian                 | Latviešu         | 2                  |
+| 52   | mk  | Macedonian              | Македонски       | 2                  |
+| 53   | et  | Estonian                | Eesti            | 1                  |
+| 54   | be  | Belarusian              | Беларуская       | 1                  |
+| 55   | la  | Latin                   | Latina           | 0.5                |
+| 56   | is  | Icelandic               | Íslenska         | 0.33               |

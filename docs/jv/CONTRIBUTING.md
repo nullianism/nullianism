@@ -1,18 +1,16 @@
------
-# Cara Nyumbang
+# Kepiye Carane Mènèhi Andil
 
-Nulianisme iku agama open-source. Saben wong bisa nyumbang kanggo pangembangane.
+Agama Nullian iku agama open-source. Sapa waé bisa menehi andil kanggo pangembangané.
 
 ## Kepiye Carane?
 
-1. **Ajokna gagasan liwat Issues:** Yen sampeyan duwe usulan kanggo piwulang anyar, ritual, penjelasan filosofi utawa mung pikiran kanggo diskusi, gawe Issue anyar ing repositori iki.
-2. **Nyumbang suntingan liwat Pull Requests:** Yen sampeyan pengin mbenerake kesalahan ketik, ningkatake rumusan utawa nambahake soko sing spesifik ing file sing wis ana, gawe fork repositori, gawe owah-owahan lan kirim Pull Request.
+1. **Usulna gagasan liwat Issues:** Yèn sampeyan nduwèni usulan babagan paugeran anyar, ritual, penjelasan filosofi, utawa mung gagasan kanggo dirembug, gawea Issue anyar ing repositori iki.  
+2. **Lebokake owahan liwat Pull Requests:** Yèn sampeyan pengin mbeneraké salah tulis, nambahaké formulasi, utawa nambah kontèn tartamtu ing berkas sing wis ana, fork dhisik repositoriné, lebokna owahané banjur kirim Pull Request.
 
-## Prinsip Utama
+## Prinsip Dhasar
 
-- **Kesesuaian karo filosofi:** Kabeh usulan kudu cocog karo nilai-nilai kunci nulianisme: rasa penasaran, pendekatan ilmiah, pemikiran kritis lan humanisme.
-- **Konstruktif:** Diskusi kudu kanthi hormat. Kita ngkritik gagasan, dudu wong.
-- **Tanpa dogma:** Nulianisme iku sistem sing urip lan berkembang. Siap-siap yen gagasan sampeyan bakal ditantang, lan mbukak kanggo ngowahi ing cahya fakta lan argumen anyar.
+- **Kesesuaian karo filsafat:** Kabeh usulan kudu selaras karo nilai-nilai kunci Agama Nullian: rasa penasaran, pendekatan ilmiah, pamikiran kritis, lan humanisme.  
+- **Konstruktifitas:** Diskusi kudu dilakoni kanthi ngajèni. Kita ngkritik gagasané, dudu wongé.  
+- **Tanpa Dogma:** Agama Nullian iku sistem sing urip lan terus thukul. Sia-sia manawa gagasanmu bakal ditantang, lan mbukakna ati kanggo ngganti gagasan kasebut miturut fakta lan argumentasi anyar.  
 
-Ayo nggawe agama masa depan bareng-bareng! 
------
+Ayo padha mbangun agama masa depan bebarengan!

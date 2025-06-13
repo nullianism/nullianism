@@ -1,29 +1,28 @@
-
-# Falsafar Nullianism
+# Falsafar Nulliyanci
 
 ## Babban Daraja — Fahimtar Duniya
 
-Babban darajarmu ita ce fahimtar duniya. Mafi kyau fahimtar da muke da ita game da duniya da ke kewaye da mu, mafi inganci za mu iya cimma burinmu, duk yadda suke. Daga wannan darajar ne kuma ake samun humanism: rayuwar mutum ita ce babban daraja, domin mutuwa tana hana mutum damar fahimta.
+Babbar darajar mu — fahimtar duniya. Yadda muka fi fahimtar duniya da ke kewaye da mu, haka muke ƙara inganta cimma burinmu, komai su ne. Daga wannan darajar ne ake samun dan-adamtaka: rayuwar ɗan Adam ita ce babbar daraja, domin mutuwa tana hana mutum damar fahimta.
 
-## Asali — Hanyar Kimiyya
+## Tushen — Hanyar Kimiyya
 
-Sabanin addinan gargajiya da ke dogara da imani, nullianism yana dogara ne akan shakku, tunani mai zurfi da hanyar kimiyya. Ba ma karɓar ikirari ba tare da shaidu ba.
+Sabanin addinan gargajiya da suka dogara ga imani, Nulliyanci yana ginuwa ne a kan shakka, tunani mai zurfi da hanyar kimiyya. Ba ma karɓar kowace da’awa ba tare da shaidar gaskiya ba.
 
-## Dangantaka da Allah da Abubuwan Al'ajabi
+## Dangantaka da Allah da Abubuwan da Suka Wuce Halitta
 
-A cikin nullianism babu Allah, domin kimiyya ba ta gano shi ba. Wannan addini ne mai aiki da rashin imani da Allah. Ba mu da'awar cewa Allah ba ya nan tabbas, amma muna aiki bisa rashin shaidun gamsassu na kasancewarsa. Idan an tabbatar da kasancewar Allah ta hanyar kimiyya, nullianism zai karɓi wannan gaskiyar.
+A cikin Nulliyanci babu Allah, domin kimiyya ba ta gano shi ba. Wannan addini ne mai aiki a matsayin na ba-Allah (atheistic). Ba mu cewa tabbas Allah ba ya wanzu, amma muna aiki bisa rashin hujjojin da suka gamsar da mu game da wanzuwarsa. Idan aka tabbatar da wanzuwar wani abin bauta ta hanyar kimiyya, Nulliyanci zai karɓi wannan gaskiyar.
 
 ## Rayuwa Bayan Mutuwa: Immortalism
 
-Maimakon imani da rayuwa bayan mutuwa, nullianism yana ba da shawarar ra'ayin **immortalism** — yunƙurin hana ko kuma jinkirta mutuwar jiki ta hanyar kimiyya da fasaha. Ba mu shirya wa mutuwa ba, amma muna ƙoƙarin guje mata. Nullianist a matsayin tsoho yana ba da amincewa ga tsawon rai na fasaha da tashin matattu, idan irin wannan damar ta bayyana a nan gaba.
+Maimakon gaskata da rayuwa bayan mutuwa, Nulliyanci yana gabatar da ra’ayin **immortalism** — ƙoƙarin hana ko jinkirta mutuwar jiki ta hanyar kimiyya da fasaha. Ba mu shirya wa mutuwa ba; muna ƙoƙarin guje mata. Mai bi Nulliyanci ta tsohuwa yana ba da amincewa ga rayuwa marar ƙarewa ta fasaha da tashin matattu, idan wannan damar ta bayyana a nan gaba.
 
-## Abokan Gaba na Nullianism
+## Maƙiyan Nulliyanci
 
-Babban abokin gaba na nullianism shi ne **anti-argumentation**:
+Babban abokin gaba na Nulliyanci shi ne **anti-hujja**:
 
-- Yada bayanan karya da gangan.
-- Wulakanta kimiyya da gaskiya.
-- Warware rikice-rikice da ƙarfi, ba tare da amfani da hankali da hujjoji ba.
-- Tasiri akan motsin rai maimakon jawo hankali.
+- Yaduwar bayanan ƙarya da gangan.
+- Watsi da kimiyya da gaskiya.
+- Warware rigingimu da ƙarfi, maimakon hankali da hujjoji.
+- Yin tasiri ga motsin zuciya maimakon kiran hankali.
 
-Ba mu yaƙi da mutane, amma da mummunan tunani.
+Ba mu yaki da mutane ba, sai dai da ra’ayoyi masu cutarwa.

@@ -1,29 +1,28 @@
-
-# Filozofia Nullianizmu
+# Filozofia Nulliaństwa
 
 ## Najwyższa wartość — Poznanie Świata
 
-Naszą najwyższą wartością jest poznanie świata. Im lepiej rozumiemy otaczający nas świat, tym skuteczniej możemy osiągać nasze cele, niezależnie od tego, jakie one są. Z tej wartości wynika również humanizm: życie człowieka jest główną wartością, ponieważ śmierć pozbawia człowieka możliwości poznawania.
+Naszą najwyższą wartością jest poznanie świata. Im lepiej rozumiemy otaczający nas świat, tym skuteczniej możemy osiągać nasze cele, niezależnie od tego, jakie one są. Z tej wartości wynika również humanizm: życie człowieka jest wartością nadrzędną, ponieważ śmierć odbiera mu możliwość poznawania.
 
 ## Podstawa — Podejście Naukowe
 
-W przeciwieństwie do tradycyjnych religii opartych na wierze, nullianizm opiera się na wątpliwościach, krytycznym myśleniu i metodzie naukowej. Nie przyjmujemy twierdzeń bez dowodów.
+W odróżnieniu od tradycyjnych religii opartych na wierze, Nulliaństwo opiera się na wątpieniu, krytycznym myśleniu i metodzie naukowej. Nie przyjmujemy twierdzeń bez dowodów.
 
 ## Stosunek do Boga i nadprzyrodzonego
 
-W nullianizmie nie ma Boga, ponieważ nauka go nie odkryła. Jest to funkcjonalnie ateistyczna religia. Nie twierdzimy, że Boga na pewno nie ma, ale działamy na podstawie braku przekonujących dowodów na jego istnienie. Jeśli istnienie bóstwa zostanie naukowo udowodnione, nullianizm zaakceptuje ten fakt.
+W Nulliaństwie nie ma Boga, ponieważ nauka go nie odkryła. Jest to funkcjonalnie religia ateistyczna. Nie twierdzimy, że Boga na pewno nie ma, lecz działamy w oparciu o brak przekonujących dowodów na jego istnienie. Jeśli istnienie bóstwa zostanie naukowo udowodnione, Nulliaństwo zaakceptuje ten fakt.
 
 ## Życie po śmierci: Immortalizm
 
-Zamiast wiary w życie pozagrobowe, nullianizm proponuje ideę **immortalizmu** — dążenie do zapobiegania lub maksymalnego oddalenia fizycznej śmierci za pomocą nauki i technologii. Nie przygotowujemy się na śmierć, lecz staramy się jej unikać. Nullianin z założenia wyraża zgodę na technologiczną nieśmiertelność i wskrzeszenie, jeśli taka możliwość pojawi się w przyszłości.
+Zamiast wiary w życie pozagrobowe Nulliaństwo oferuje ideę **immortalizmu** — dążenie do zapobiegania lub maksymalnego odsunięcia fizycznej śmierci dzięki nauce i technologiom. Nie przygotowujemy się na śmierć, lecz staramy się jej uniknąć. Nullianin domyślnie wyraża zgodę na technologiczne nieśmiertelność i wskrzeszenie, jeśli taka możliwość pojawi się w przyszłości.
 
-## Wrogowie Nullianizmu
+## Wrogowie Nulliaństwa
 
-Głównym antagonistą nullianizmu jest **antyargumentacja**:
+Głównym antagonistą Nulliaństwa jest **antyargumentacja**:
 
 - Celowe rozpowszechnianie dezinformacji.
 - Lekceważący stosunek do nauki i faktów.
 - Rozwiązywanie sporów siłą, a nie logiką i argumentami.
 - Oddziaływanie na emocje zamiast odwoływania się do rozumu.
 
-Nie walczymy z ludźmi, lecz ze szkodliwymi ideami.
+Walczymy nie z ludźmi, lecz ze szkodliwymi ideami.

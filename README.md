@@ -1,10 +1,10 @@
-# Nullianism
+# Nullianity
 
 > The first scientific **Open-Source religion**
 
-<img src="assets/pulsing-null.gif" alt="Pulsing Nullianism symbol" align="center">
+<img src="assets/pulsing-null.gif" alt="Pulsing Nullianity symbol" align="center">
 
-___
+---
 
 <p align="center">
     <a href="docs/en/README.md">English</a> ·
@@ -72,9 +72,8 @@ ___
 
 ---
 
-## Other Nullianism Resources
+## Other Nullianity Resources
 
 ### [<img src="assets/apostle-zero-logo.png" alt="Apostle Zero Logo" align="center" width="50"> Apostle Zero - Nullian Guide](https://chatgpt.com/g/g-684a3f8fa884819180cfde30ba33089f-apostle-zero-nullian-guide)
-> GPT for Nullianism available on ChatGPT
 
-
+> GPT for Nullianity available on ChatGPT

@@ -1,29 +1,30 @@
+-----
+# Nullianlus Filosoofia
 
-# Nullianismi Filosoofia
+## Kõrgeim väärtus — maailma tundmine
 
-## Kõrgeim väärtus — Maailma Tundmine
+Meie kõrgeim väärtus on maailma tundmine. Mida paremini me ümbritsevat maailma mõistame, seda tõhusamalt saame me oma eesmärke saavutada, millised need ka poleks. Sellest väärtusest tuleneb ka humanism: inimese elu on ülim väärtus, sest surm võtab inimeselt võimaluse tundma õppida.
 
-Meie kõrgeim väärtus on maailma tundmine. Mida paremini me ümbritsevat maailma mõistame, seda tõhusamalt suudame saavutada oma eesmärke, ükskõik millised need ka poleks. Sellest väärtusest tuleneb ka humanism: inimese elu on peamine väärtus, kuna surm võtab inimeselt võimaluse tunda.
+## Alus — teaduslik lähenemine
 
-## Alus — Teaduslik Lähenemine
-
-Erinevalt traditsioonilistest usunditest, mis põhinevad usul, põhineb nullianism kahtlusel, kriitilisel mõtlemisel ja teaduslikul meetodil. Me ei aktsepteeri väiteid ilma tõenditeta.
+Erinevalt traditsioonilistest religioonidest, mis põhinevad usul, rajab Nullianlus oma õpetuse kahtlusele, kriitilisele mõtlemisele ja teaduslikule meetodile. Me ei võta väiteid vastu ilma tõenditeta.
 
 ## Suhtumine Jumalasse ja üleloomulikku
 
-Nullianismis pole Jumalat, sest teadus pole teda avastanud. See on funktsionaalselt ateistlik religioon. Me ei väida, et Jumalat kindlasti pole, kuid tegutseme veenvate tõendite puudumise alusel tema olemasolu kohta. Kui jumaluse olemasolu teaduslikult tõestatakse, aktsepteerib nullianism seda fakti.
+Nullianlus ei tunnista Jumalat, sest teadus pole seda avastanud. See on funktsionaalselt ateistlik religioon. Me ei väida, et Jumalat kindlasti ei ole, kuid tegutseme lähtuvalt veenvate tõendite puudumisest tema olemasolu kohta. Kui jumaluse olemasolu saab teaduslikult tõestatud, võtab Nullianlus selle fakti omaks.
 
 ## Elu pärast surma: Immortalism
 
-Selle asemel, et uskuda hauatagusesse ellu, pakub nullianism välja **immortalismi** idee — püüdlus ennetada või maksimaalselt edasi lükata füüsilist surma teaduse ja tehnoloogia abil. Me ei valmistu surmaks, vaid püüame seda vältida. Nullianist annab vaikimisi nõusoleku tehnoloogiliseks surematuseks ja ülestõusmiseks, kui selline võimalus tulevikus tekib.
+Usu asemel hauatagusesse ellu pakub Nullianlus välja **immortalismi** idee — püüdluse ennetada või võimalikult kaugele lükata füüsilist surma teaduse ja tehnoloogia abil. Me ei valmistu surmaks, vaid püüame seda vältida. Nullianlus eeldab vaikimisi nõusolekut tehnoloogilisele surematusele ja ülestõusmisele, kui selline võimalus tulevikus ilmneb.
 
-## Nullianismi Vaenlased
+## Nullianlus vaenlased
 
-Nullianismi peamine antagonist on **antiargumentatsioon**:
+Nullianlus peamiseks antagonistiks on **antiargumentatsioon**:
 
-- Tahtlik valeinformatsiooni levitamine.
-- Hoolimatu suhtumine teadusesse ja faktidesse.
+- Sihipärane valeinfo levitamine.
+- Teaduse ja faktide põlgamine.
 - Vaidluste lahendamine jõuga, mitte loogika ja argumentidega.
-- Emotsioonidele mõju avaldamine mõistuse asemel.
+- Emotsioonide mõjutamine mõistuse asemel.
 
-Me ei võitle inimeste, vaid kahjulike ideedega.
+Me ei võitle inimestega, vaid kahjulike ideedega.
+-----

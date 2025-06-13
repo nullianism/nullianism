@@ -1,26 +1,25 @@
-
 # Przykazania
 
-1. **NIE UMIERAJ.**
-    *Albowiem twoja śmierć pozbawia cię możliwości poznawania świata. A poznanie — to główna wartość nullianizmu.*
+1. **NIE UMRZYJ.**  
+    *Albowiem twoja śmierć pozbawia cię możliwości poznawania świata. A poznanie to główna wartość Nulliaństwa.*
 
-2. **NIE ZABIJAJ.**
+2. **NIE ZABIJAJ.**  
     *Albowiem wtedy inny człowiek nie będzie mógł dążyć do wiedzy.*
 
-3. **NIE DEZINFORMUJ.**
-    *Dziś rozpowszechniasz fałszywe przekonania, a jutro sam staniesz się ich ofiarą.*
+3. **NIE DEZINFORMUJ.**  
+    *Dziś szerzysz fałszywe przekonania, a jutro sam padniesz ich ofiarą.*
 
-4. **NIE UNIKAJ OBALANIA SWOICH POGLĄDÓW.**
-    *Przyznawaj się do swoich błędów i dawaj tym samym przykład innym.*
+4. **NIE UNIKAJ OBALANIA WŁASNYCH POGLĄDÓW.**  
+    *Przyznawaj się do swoich błędów i w ten sposób dawaj przykład innym.*
 
-5. **NIE TWÓRZ NIEPODWAŻALNYCH AUTORYTETÓW.**
+5. **NIE TWÓRZ NIEPODWAŻALNYCH AUTORYTETÓW.**  
     *Każdy może się mylić.*
 
-6. **NIE WYMAGAJ OD INNYCH TEGO, CZEGO NIE WYMAGASZ OD SIEBIE.**
-    *Ujawniaj podwójne standardy swojego myślenia, aby stawać się lepszym.*
+6. **NIE WYMAGAJ OD INNYCH TEGO, CZEGO NIE WYMAGASZ OD SIEBIE.**  
+    *Ujawniaj podwójne standardy własnego myślenia, aby stawać się lepszym.*
 
-7. **NIE PRZESZKADZAJ INNYM W POZNANIU.**
-    *Kto sam się czegoś nauczył, być może nauczy i ciebie.*
+7. **NIE PRZESZKADZAJ CUDZEMU POZNANIU.**  
+    *Kto sam czegoś się nauczył, być może nauczy i ciebie.*
 
-8. **NIE TWÓRZ ARGUMENTACJI KOŁOWEJ.**
-    *„Biblia zawsze ma rację, ponieważ tak jest napisane w Biblii, a Biblia zawsze ma rację”. Zostaw to innym religiom.*
+8. **NIE TWÓRZ KOŁOWEJ ARGUMENTACJI.**  
+    *«Biblia ma zawsze rację, bo tak napisano w Biblii, a Biblia ma zawsze rację». Zostaw to innym religiom.*

@@ -1,36 +1,35 @@
-
-# Nullianisme 
+# Agama Nullian 
 
 > Agama Open-Source ilmiah pertama di dunia.
 
-Selamat datang di repositori Nullianisme — agama ilmiah yang diciptakan oleh Alexander Panchin. Ini bukan lelucon atau clickbait, melainkan eksperimen sosial dan upaya untuk menciptakan sistem nilai yang didasarkan bukan pada dogma dan kepercayaan, tetapi pada rasa ingin tahu, pemikiran kritis, dan pendekatan ilmiah.
+Selamat datang di repositori Agama Nullian — agama ilmiah yang diciptakan oleh Aleksandr Pancin. Ini bukan lelucon atau click-bait, melainkan sebuah eksperimen sosial dan upaya membangun sistem nilai yang tidak bertumpu pada dogma dan iman, melainkan pada rasa ingin tahu, pola pikir kritis, dan pendekatan ilmiah.
 
-## Ide Utama
+## Gagasan Utama
 
-Nullianisme adalah agama yang bertujuan untuk menyatukan orang-orang bukan di sekitar dewa atau dewa-dewa, tetapi di sekitar rasa ingin tahu manusia. Kami menggunakan "cangkang" agama — mekanisme kuatnya untuk menyebarkan ide dan membentuk komunitas — tetapi mengisinya dengan konten rasional dan humanistik.
+Agama Nullian adalah agama yang bertujuan mempersatukan manusia bukan di seputar satu atau banyak dewa, tetapi di seputar rasa ingin tahu manusia. Kami menggunakan “kulit” agama—mekanisme kuatnya dalam menyebarkan ide dan membentuk komunitas—namun mengisinya dengan muatan rasional dan humanistis.
 
-**Simbol kami adalah Nol (0)**. Ini melambangkan:
+**Simbol kami — Nol (0)**. Ia melambangkan:
 
 - Ketiadaan dogma dan prasangka.
 - Titik awal pengetahuan.
-- Kesetaraan jarak semua peserta dari pusat, ketiadaan hierarki.
-- Cincin akal, yang menyatukan orang-orang.
+- Jarak yang sama dari pusat bagi semua peserta, tanpa hierarki.
+- Cincin nalar yang menyatukan manusia.
 
-## Struktur Repositori
+## Struktur repositori
 
-- [**Manifesto Rasa Ingin Tahu (`MANIFESTO.md`)**](./MANIFESTO.md) — teks program utama agama kami, yang dihasilkan oleh kecerdasan buatan.
-- [**Perintah (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 prinsip utama yang diikuti oleh seorang nullianis.
-- [**Ritual (`RITUALS.md`)**](./RITUALS.md) — praktik-praktik yang membantu memperkuat dan menyebarkan ide-ide nullianisme.
-- [**Filosofi (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — penjelasan rinci tentang nilai-nilai utama, pandangan dunia, etika, dan musuh nullianisme.
-- [**Cara Berkontribusi (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — aturan bagi mereka yang ingin berpartisipasi dalam pengembangan agama ini.
+- [**Manifesto Keingintahuan (`MANIFESTO.md`)**](./MANIFESTO.md) — teks program utama agama kami, dihasilkan oleh kecerdasan buatan.
+- [**Hukum (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 prinsip kunci yang menjadi pedoman seorang Nullian.
+- [**Ritual (`RITUALS.md`)**](./RITUALS.md) — praktik yang membantu memperkuat dan menyebarkan ide-ide Agama Nullian.
+- [**Filsafat (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — uraian mendalam tentang nilai-nilai utama, pandangan dunia, etika, serta musuh-musuh Agama Nullian.
+- [**Cara Berkontribusi (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — aturan bagi siapa saja yang ingin turut mengembangkan agama ini.
 
-## Bagaimana menjadi nullianis?
+## Bagaimana menjadi seorang Nullian?
 
-Jika Anda berbagi ide-ide yang diuraikan di sini, anggaplah Anda sudah menjadi nullianis. Tidak ada prosedur formal yang diperlukan. Agama kami terdesentralisasi.
+Jika Anda sejalan dengan ide-ide yang dipaparkan di sini, anggap saja Anda sudah menjadi Nullian. Tidak ada prosedur formal yang diperlukan. Agama kami bersifat terdesentralisasi.
 
 ## Bagaimana membantu proyek ini?
 
-1. **Bagikan [video](https://www.youtube.com/watch?v=mCErecXWGCc) dan repositori ini dengan teman-teman.**
-2. **Beri suka dan tinggalkan komentar.**
-3. **Ajukan ide-ide Anda** untuk perintah dan ritual melalui Issues dan Pull Requests di repositori ini.
+1. **Bagikan [video ini](https://www.youtube.com/watch?v=mCErecXWGCc) dan repositori kepada teman-teman.**
+2. **Berikan like dan tinggalkan komentar.**
+3. **Ajukan ide Anda** untuk hukum dan ritual melalui Issues dan Pull Request di repositori ini.
 4. **Perbaiki** situs proyek di sini: https://github.com/nullianism/nullianism.github.io

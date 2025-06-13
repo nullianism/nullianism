@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to create a new language directory for Nullianism translations
+# Script to create a new language directory for Nullianity translations
 # Usage: ./new-language.sh <language_code>
 # Example: ./new-language.sh es
 
