@@ -1,17 +1,18 @@
-
+-----
 # Paano Mag-ambag
 
-Ang Nullianismo ay isang open-source na relihiyon. Ang bawat isa ay maaaring mag-ambag sa pag-unlad nito.
+Nullianismo — isang open-source na relihiyon. Maaaring mag-ambag ang sinuman sa pag-unlad nito.
 
-## Paano ito gagawin?
+## Paano ito gawin?
 
-1. **Magmungkahi ng mga ideya sa pamamagitan ng Issues:** Kung mayroon kang mungkahi para sa bagong utos, ritwal, paglilinaw ng pilosopiya, o simpleng ideya para sa talakayan, lumikha ng bagong Issue sa repositoryong ito.
-2. **Mag-ambag ng mga pagbabago sa pamamagitan ng Pull Requests:** Kung nais mong itama ang typographical error, pagandahin ang pahayag, o magdagdag ng isang partikular na bagay sa mga umiiral na file, gumawa ng fork ng repositoryo, gawin ang mga pagbabago at ipadala ang Pull Request.
+1. **Magmungkahi ng mga ideya sa pamamagitan ng Issues:** Kung mayroon kang mungkahi para sa bagong utos, ritwal, paglilinaw ng pilosopiya o simpleng kaisipang nais pag-usapan, lumikha ng bagong Issue sa repositoriyong ito.  
+2. **Magpasok ng mga pagbabago sa pamamagitan ng Pull Requests:** Kung nais mong ayusin ang pagkakamali sa baybay, pagandahin ang pormulasyon, o magdagdag ng partikular na nilalaman sa umiiral na mga file, i-fork ang repository, gawin ang mga pagbabago, at magpadala ng Pull Request.
 
-## Mga Pangunahing Prinsipyo
+## Pangunahing Prinsipyo
 
-- **Pagkakatugma sa pilosopiya:** Ang lahat ng mungkahi ay dapat na naaayon sa mga pangunahing halaga ng nullianismo: pagkamausisa, siyentipikong pamamaraan, kritikal na pag-iisip at humanismo.
-- **Konstruktibo:** Ang mga talakayan ay dapat na may paggalang. Kritikal tayo sa mga ideya, hindi sa mga tao.
-- **Kawalan ng dogma:** Ang Nullianismo ay isang buhay na sistema na patuloy na umuunlad. Maging handa na ang iyong mga ideya ay ma-question at maging bukas sa kanilang pagbabago sa liwanag ng mga bagong katotohanan at argumento.
+- **Pagkakatugma sa pilosopiya:** Lahat ng mungkahi ay dapat nakaayon sa pangunahing mga pagpapahalaga ng Nullianismo: pagkamausisa, makaagham na pamamaraan, kritikal na pag-iisip, at humanismo.  
+- **Pagiging konstruktibo:** Dapat maging magalang ang mga talakayan. Mga ideya ang ating kinukuwestiyon, hindi ang mga tao.  
+- **Kawalan ng dogma:** Ang Nullianismo ay isang buhay at patuloy na umuunlad na sistema. Maging handa na kuwestiyunin ang inyong mga ideya at maging bukas sa kanilang pagbabago sang-ayon sa mga bagong katotohanan at argumento.
 
-Gawin natin ang relihiyon ng hinaharap nang magkasama!
+Halina’t likhain nating magkakasama ang relihiyon ng hinaharap!
+-----

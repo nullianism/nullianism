@@ -1,16 +1,17 @@
-
+-----
 # Kodigo ng Pag-uugali ng mga Kalahok v2.1
 
-## Ang Aming Pangako
-Kami, bilang mga kalahok, kontribyutor, at lider, ay nangangako na gawing malaya sa pang-aapi ang paglahok sa aming komunidad para sa lahat, anuman ang edad, pangangatawan, nakikita o di-nakikitang kapansanan, etnisidad, katangiang sekswal, pagkakakilanlang pangkasarian at pagpapahayag, antas ng karanasan, edukasyon, panlipunang kalagayan, nasyonalidad, anyo, lahi, kasta, kulay ng balat, relihiyon o pagkakakilanlan at oryentasyong sekswal.
+## Ang Aming Pananagutan
+Kami, bilang mga kalahok, tagapag-ambag, at mga lider, ay nangangakong gawing malaya sa anumang panliligalig ang pakikilahok sa aming komunidad para sa lahat, anuman ang edad, pangangatawan, nakikita o di-nakikitang kapansanan, etnisidad, mga katangiang pangkasarian, pagkakakilanlang pangkasarian at pagpapahayag, antas ng karanasan, edukasyon, katayuang panlipunan at pang-ekonomiya, nasyonalidad, anyo, lahi, kasta, kulay ng balat, relihiyon, o pagkakakilanlang at oryentasyong sekswal.
 
-## Ang Aming mga Pamantayan
-Mga halimbawa ng pag-uugali na nakakatulong sa paglikha ng positibong kapaligiran ay kinabibilangan ng:
+## Ang Aming Mga Pamantayan
+Mga halimbawa ng asal na nagtataguyod ng positibong kapaligiran:
 - Pagpapakita ng empatiya at kabaitan sa ibang tao
-- Paggalang sa iba't ibang opinyon, pananaw, at karanasan
-- Pagbibigay at marangal na pagtanggap ng nakabubuong puna
+- Paggalang sa magkakaibang opinyon, pananaw, at karanasan
+- Pagbibigay at pagtanggap ng makabuluhang mapanuring puna nang may dignidad
 
 ## Pagpapatupad
-Ang mga kaso ng mapang-abuso, mapang-harass, o iba pang hindi katanggap-tanggap na pag-uugali ay maaaring iulat sa pamamagitan ng pakikipag-ugnayan sa team ng proyekto sa pamamagitan ng GitHub Issues na may label na `coc`. Ang lahat ng reklamo ay agarang at patas na susuriin at iimbestigahan.
+Maaaring i-ulat ang anumang mapang-api, mapang-usig, o iba pang hindi katanggap-tanggap na pag-uugali sa pamamagitan ng pakikipag-ugnayan sa koponan ng proyekto sa pamamagitan ng GitHub Issues na may label na `coc`. Lahat ng reklamo ay agarang rerepasuhin at iimbestigahan nang patas.
 
-> Buong teksto: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+> Buong teksto: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+-----

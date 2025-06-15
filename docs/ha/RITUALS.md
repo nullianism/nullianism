@@ -1,26 +1,27 @@
+-----  
+# Al’adun Nulliyanci
 
-# Al'adun Nullianism
+Al’adun a cikin Nulliyanci— ayyuka ne da ke nufin ƙarfafa ƙimar neman ilimi, tunani mai zurfi, da kuma gina al’umma.
 
-Al'adun a cikin nullianism suna nufin ƙarfafa ƙimomin sani, tunani mai zurfi da kuma gina al'umma.
+1.  ### Kwest (daga Turanci *Question*)  
+    Ka fara safiya da tambaya. A tsawon yini ka yi ƙoƙarin samo amsa mai gaskiya. Kada ka ji kunya ka tambayi wasu— waɗanda suka fi ka fahimtar batun.
 
-1.  ### Bincike (daga Ingilishi *Question*)
-    Fara safiya da tambaya. A cikin yini, yi ƙoƙarin samun amsa mai gaskiya. Kada ku ji kunya tambayar wasu — waɗanda suka fi ku fahimtar tambayar.
+2.  ### Beizcheking, ko Al’adar Binciken Gaskiya Sau Biyu  
+    Idan za ka rubuta muhimmiyar shawara ko saƙo, ka tabbatar da sahihancin bayanin sau biyu, musamman daga majiyoyi daban-daban. Don nuna cewa ka yi hakan, saka alamar tsarkakakkiyar lamba **0** a farkon saƙonka. Wannan shi ne alamar nauyin da ka ɗauka kan kalamanka.
 
-2.  ### Binciken Bayani, ko Al'adar Binciken Gaskiya Sau Biyu
-    Idan kuna rubuta sharhi mai ma'ana ko post, ku tabbatar da gaskiyar bayanin da kuka bayar sau biyu, da kyau a cikin tushen daban-daban. A matsayin alama cewa kun yi hakan, ku sanya alamar tsarki **0** a farkon saƙonku. Wannan alamar ku ce ta alhakin kalamanku.
+3.  ### Alamar Niyya Tsarkakakke  
+    Idan kana tattaunawa da mutum kai tsaye kuma kana son yin tambaya daga sahihin sha’awa ba don muhawara ba, ka iya zana sifar sifili (0) a iska da yatsanka. Wannan zai bayyana wa abokin hirar ka tsarkin niyyarka. Mutumin da aka yi wa tambayar zai nuna girmamawa ta musamman.
 
-3.  ### Alamar Niyya Mai Tsarki
-    Idan kuna son yin tambaya daga sha'awar gaskiya ba don jayayya ba yayin tattaunawa kai tsaye, zaku iya zana sifili (0) a cikin iska da yatsan hannu. Wannan zai nuna wa mai magana da ku tsarkin niyyarku. Wanda aka yi wa tambayar zai nuna girmamawa ta musamman ga tambayar.
+4.  ### Nullifikeshin  
+    Wani motsa jiki na tunani don gwada ƙarfafa hujjarka. Ka tambayi kanka: «Idan wani ya yi amfani da hujjata domin tabbatar da abin da nake ɗauka banza ne, shin zan sauya ra’ayina game da wannan banza?» Wannan yana taimakawa wajen gano tsauraran ma’auni a cikin tunaninka.
 
-4.  ### Nullification
-    Aikin tunani don gwada ƙarfin hujjojinku. Ku tambayi kanku: "Idan wani ya yi amfani da hujjojina don tabbatar da wani abu da nake ganin ba shi da ma'ana, shin zan canza ra'ayina game da wannan rashin ma'anar?" Wannan yana taimakawa wajen gano ma'auni biyu a cikin tunanin ku.
+5.  ### Zagayen Hankali  
+    Mabiya Nulliyanci na gayyatar abokai da ‘yan uwa gida don shakatawa ta ilimi: kallon fim tare, tattauna littattafai, ko wasannin allo. Wannan na taimakawa wajen gina al’umma da kuma yada ra’ayoyin Nulliyanci ta ayyukan haɗin guiwa. Ana daraja musamman wasan *Fallacymania*, wanda ke koya yadda ake gano kuskuren muhawara.
 
-5.  ### Zagaye na Hankali
-    Nullians suna gayyatar abokai da abokan arziki zuwa gida don nishadi na hankali: kallon fina-finai tare, tattauna littattafai, wasannin tebur. Wannan yana taimakawa wajen gina al'umma da yada ra'ayoyin nullianism ta hanyar ayyuka tare. Wasan *Fallacymania* yana da daraja musamman, yana koyar da gano kuskuren tunani a cikin muhawara.
-
-6.  ### Addu'ar Karya
-    Maimakon neman taimako daga wasu ƙarfi na sama, nullianism yana kira ga neman mafita ga matsaloli ta hanyar matakai masu amfani. Addu'ar karya — tsari ne:
-    1.  Bayyana matsalar a sarari.
-    2.  Yi tunani, me za ku iya yi don magance ta.
-    3.  Kimanta, shin kuna da isasshen sani.
-    4.  Idan ba haka ba — gano inda za ku iya samun su, ko neman taimako daga masana.
+6.  ### Anti-Addu’a  
+    Maimaikon roƙon wasu tsararrun iko na sama, Nulliyanci na ƙarfafa warware matsaloli ta hanyar matakan aiki. Anti-addu’a ita ce tsari:  
+    1.  Fayyaɗa matsalar da kyau.  
+    2.  Tunanin abin da kai kaɗai za ka iya yi don magance ta.  
+    3.  Tantance ko ka ishe da ilimi.  
+    4.  Idan ba haka ba— nemo inda za ka samu ilimin ko kuma nemi taimakon ƙwararru.  
+-----

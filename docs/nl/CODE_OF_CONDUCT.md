@@ -1,16 +1,17 @@
+-----
+# Gedragscode voor deelnemers v2.1
 
-# Gedragscode voor Deelnemers v2.1
+## Onze verplichting
+Wij, als deelnemers, bijdragers en leiders, verplichten ons deelname aan onze gemeenschap vrij van intimidatie te houden voor iedereen, ongeacht leeftijd, lichaamsbouw, zichtbare of onzichtbare handicap, etnische afkomst, geslachtskenmerken, genderidentiteit en -expressie, ervaringsniveau, opleiding, sociaaleconomische status, nationaliteit, uiterlijk, ras, kaste, huidskleur, religie of seksuele identiteit en -oriëntatie.
 
-## Onze Verplichting
-Wij, als deelnemers, bijdragers en leiders, verplichten ons om deelname aan onze gemeenschap vrij van intimidatie te maken voor iedereen, ongeacht leeftijd, lichaamsgrootte, zichtbare of onzichtbare handicaps, etnische afkomst, geslachtskenmerken, genderidentiteit en -expressie, ervaringsniveau, opleiding, sociaaleconomische status, nationaliteit, uiterlijk, ras, kaste, huidskleur, religie of seksuele identiteit en oriëntatie.
-
-## Onze Standaarden
-Voorbeelden van gedrag dat bijdraagt aan het creëren van een positieve omgeving zijn onder andere:
-- Empathie en vriendelijkheid tonen tegenover anderen
-- Respect voor verschillende meningen, gezichtspunten en ervaringen
-- Het geven en waardig ontvangen van constructieve feedback
+## Onze normen
+Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving zijn:
+- Empathie en vriendelijkheid tonen tegenover andere mensen
+- Respect hebben voor verschillende meningen, gezichtspunten en ervaringen
+- Constructieve feedback geven en met waardigheid ontvangen
 
 ## Handhaving
-Gevallen van beledigend, intimiderend of ander onacceptabel gedrag kunnen worden gemeld door contact op te nemen met het projectteam via GitHub Issues met het label `coc`. Alle klachten zullen snel en eerlijk worden behandeld en onderzocht.
+Over gevallen van beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan worden gerapporteerd door contact op te nemen met het projectteam via GitHub Issues met het label `coc`. Alle klachten worden tijdig en eerlijk beoordeeld en onderzocht.
 
 > Volledige tekst: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+-----

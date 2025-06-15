@@ -1,17 +1,18 @@
-
+-----
 # Hvordan bidra
 
-Nullianisme er en open-source religion. Alle kan bidra til dens utvikling.
+Nulliandom er en open-source-religion. Alle kan bidra til dens utvikling.
 
-## Hvordan gjøre det?
+## Hvordan gjør man det?
 
-1. **Foreslå ideer gjennom Issues:** Hvis du har et forslag til en ny regel, ritual, en presisering av filosofien eller bare en tanke for diskusjon, opprett en ny Issue i dette repositoriet.
-2. **Gjør endringer gjennom Pull Requests:** Hvis du vil rette en skrivefeil, forbedre formuleringen eller legge til noe spesifikt i eksisterende filer, lag en fork av repositoriet, gjør endringene og send inn en Pull Request.
+1. **Foreslå ideer via Issues:** Hvis du har et forslag til et nytt bud, et rituale, en presisering av filosofien eller bare en tanke til diskusjon, opprett en ny Issue i dette depotet.  
+2. **Bidra med endringer via Pull Requests:** Hvis du ønsker å rette en skrivefeil, forbedre en formulering eller legge til noe konkret i eksisterende filer, lag en fork av depotet, gjør endringene og send en Pull Request.
 
 ## Grunnleggende prinsipper
 
-- **Overensstemmelse med filosofien:** Alle forslag må være i tråd med nullianismens kjerneverdier: nysgjerrighet, vitenskapelig tilnærming, kritisk tenkning og humanisme.
-- **Konstruktivitet:** Diskusjoner skal være respektfulle. Vi kritiserer ideer, ikke mennesker.
-- **Fravær av dogmer:** Nullianisme er et levende, utviklende system. Vær forberedt på at ideene dine kan bli utfordret, og vær åpen for å endre dem i lys av nye fakta og argumenter.
+- **Samsvar med filosofien:** Alle forslag må være i tråd med Nulliandoms kjerneverdier: nysgjerrighet, vitenskapelig tilnærming, kritisk tenkning og humanisme.  
+- **Konstruktivitet:** Diskusjoner skal være respektfulle. Vi kritiserer ideer, ikke mennesker.  
+- **Fravær av dogmer:** Nulliandom er et levende, stadig utviklende system. Vær forberedt på at idéene dine kan bli utfordret, og vær åpen for å endre dem i lys av nye fakta og argumenter.
 
 La oss skape fremtidens religion sammen!
+-----

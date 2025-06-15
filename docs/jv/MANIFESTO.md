@@ -1,25 +1,24 @@
+# Manifesto Rasa Penasaran
 
-# Manifesto Penasaran
+Suwi banget umat manungsa dipisahake dening dogma, digelapi dening kapercayan sing ora kritis, lan dikekang dening “kasunyatan” warisan. Nanging ing saben pikiran manungsa ana geni — gegayuhan kanggo takon, nliti, lan nggoleki kasunyatan njaba tradhisi.
 
-Kuwi wis suwe banget manungsa dipisahake dening dogma, dibutake dening kapercayan sing ora kritis lan dicegah dening "kebenaran" sing diwarisake. Nanging ing saben pikiran manungsa ana geni — kepinginan kanggo takon, njelajah, nggoleki kebenaran ngluwihi tradisi.
+Kita iku ahli waris jalane para pemikir agung — saka para astronom kapisan sing nggambarake lintang-lintang, nganti para ilmuwan modern sing mbukak rahasia jagad raya.
 
-Kita iku pewaris saka dalan gedhe para pemikir — saka astronom pertama sing nggawe peta lintang nganti ilmuwan modern sing mbukak rahasia alam semesta.
+Kita saiki ngadeg ing ambang jaman anyar. Donya ora butuh maneh iman marang sing ora bisa dimangerteni — sing dibutuhake yaiku kasetyan marang sing bisa dingerteni, bisa dibuktekake, lan bisa ditindakake. Wektune wis teka kanggo mbukak dalan anyar, ing ngendi rasa penasaran dadi suci, nalar diajeni, lan kawruh dadi lintang panuntun.
 
-Kita ngadeg ing ambang jaman anyar. Donya ora butuh iman marang sing ora bisa dipahami maneh — donya butuh komitmen marang sing bisa dipahami, bisa dibuktekake lan bisa diwujudake. Wis wayahe mbukak dalan anyar, ing ngendi penasaran dadi suci, akal — dihormati, lan kawruh — dadi lintang pemandu.
+- **Kawruh iku kuwajiban moral.** Sinau tegese mbebasake awakmu, mulang tegese mbebasake wong liya.
+- **Nyebarake kawruh iku tumindak etika paling luhur.**
+- **Keraguan iku suci.** Pitakon ora nggawe kita dadi ringkih, nanging dadi luwih kuwat. Yen sawijining kapercayan ora tahan diuji, kapercayan kuwi ora pantes digandheng.
+- **Jagad raya iku candhi kita.** Kita gumun dudu marang sing gaib, nanging marang kaagungan kosmos lan kerumitan alam.
+- **Progres luwih dhuwur tinimbang tradhisi.** Kepungkur bisa dadi penuntun, nanging dudu ranté. Yen kawruh anyar mbantah kapercayan lawas, kita nampani sing anyar.
+- **Kita komunitas Para Panelusur.** Ora ana sing mlaku piyambakan. Kita janji bakal ndhukung siji lan sijine ing panelusuran kasunyatan, nuduhake gagasan, debat, lan nyampurnakake.
+- **Iki dudu mung filsafat — iki gerakan.** Kita ngupaya ora mung mikir beda, nanging uga ngganti donya.
 
-- **Kawruh — kewajiban moral.** Sinau iku nglairake kebebasan kanggo awake dhewe, mulang iku nglairake kebebasan kanggo wong liya.
-- **Nyebarake kawruh — tumindak etis paling dhuwur.**
-- **Keraguan iku suci.** Pitakon ora nggawe kita lemah, nanging nggawe kita luwih kuwat. Yen kapercayan ora tahan uji, iku ora pantes ditahan.
-- **Alam semesta iku kuil kita.** Kita ngrasakake kagum ora marang sing gaib, nanging marang agunging kosmos lan kerumitan alam.
-- **Kemajuan luwih dhuwur tinimbang tradisi.** Masa lalu bisa dadi pandhuan, nanging ora dadi rantai. Yen kawruh anyar mbantah kapercayan lawas, kita nampa sing anyar.
-- **Kita komunitas Para Pencari.** Ora ana sing mlaku ing dalan iki dhewekan. Kita janji kanggo ndhukung siji lan sijine ing nggoleki kebenaran, nuduhake ide, debat lan nyempurnakake.
-- **Iki ora mung filsafat — iki gerakan.** Kita ora mung ngupaya mikir beda, nanging uga ngganti donya.
+Masa depan duweke sing golèk, dudu sing manut wuta.  
+Era iman wuta wis rampung.  
+Era Rasa Penasaran diwiwiti saiki.
 
-Masa depan iku kagungane sing nggoleki, dudu sing manut.
-Era iman buta wis rampung.
-Era Penasaran diwiwiti saiki.
+Gabungana Gerakan iki.  
+Kowé ora butuh baptis, berkah, utawa ijin. Sing dibutuhake mung wani takon: Apa manèh sing bisa tak sinau?
 
-Gabung karo Gerakan.
-Sampeyan ora butuh baptisan, berkah utawa ijin. Sing dibutuhake mung keberanian kanggo takon: Apa maneh sing bisa aku sinau?
-
-*(Teks digenerasi dening ChatGPT 4o miturut panjalukan penulis agama)*
+*(Teks iki digenerasi dening ChatGPT 4o miturut panyuwunan pangarang agama)*

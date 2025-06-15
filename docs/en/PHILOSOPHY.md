@@ -1,29 +1,28 @@
+# The Philosophy of Nullianity
 
-# Philosophy of Nullianism
+## Highest Value — Knowing the World
 
-## The Highest Value — Knowledge of the World
+Our highest value is the understanding of the world. The better we understand the surrounding world, the more effectively we can achieve our goals, whatever they may be. From this value flows humanism: human life is the main value, because death deprives a person of the ability to learn.
 
-Our highest value is the knowledge of the world. The better we understand the surrounding world, the more effectively we can achieve our goals, whatever they may be. From this value stems humanism: human life is the main value, as death deprives a person of the opportunity to learn.
+## Foundation — The Scientific Approach
 
-## Foundation — Scientific Approach
+Unlike traditional religions based on faith, Nullianity is founded on doubt, critical thinking, and the scientific method. We do not accept claims without evidence.
 
-Unlike traditional religions based on faith, nullianism is based on doubt, critical thinking, and the scientific method. We do not accept claims without evidence.
+## Attitude toward God and the Supernatural
 
-## Attitude Towards God and the Supernatural
-
-In nullianism, there is no God because science has not discovered one. It is a functionally atheistic religion. We do not claim that God definitely does not exist, but we act based on the absence of convincing evidence of His existence. If the existence of a deity is scientifically proven, nullianism will accept this fact.
+In Nullianity there is no God, because science has not discovered one. It is a functionally atheistic religion. We do not claim that God definitely does not exist, but we act on the assumption that there is no convincing evidence for His existence. If the existence of a deity is scientifically proven, Nullianity will accept this fact.
 
 ## Life After Death: Immortalism
 
-Instead of believing in an afterlife, nullianism offers the idea of **immortalism** — the pursuit of preventing or significantly delaying physical death through science and technology. We do not prepare for death but strive to avoid it. A nullianist by default consents to technological immortality and resurrection if such an opportunity arises in the future.
+Instead of belief in an afterlife, Nullianity offers the idea of **immortalism**—the pursuit of preventing or maximally delaying physical death through science and technology. We do not prepare for death; we try to avoid it. A Nullian by default gives consent to technological immortality and resurrection should such an option become available in the future.
 
-## Enemies of Nullianism
+## Enemies of Nullianity
 
-The main antagonist of nullianism is **anti-argumentation**:
+The main antagonist of Nullianity is **anti-argumentation**:
 
 - Deliberate dissemination of misinformation.
-- Disregard for science and facts.
-- Resolving disputes through force rather than logic and arguments.
-- Appealing to emotions instead of addressing reason.
+- Disdainful attitude toward science and facts.
+- Settling disputes by force rather than with logic and reasoning.
+- Manipulating emotions instead of appealing to reason.
 
-We fight not against people, but against harmful ideas.
+We fight not against people but against harmful ideas.

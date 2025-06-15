@@ -1,16 +1,15 @@
+# Kodeks Tumindak Para Peserta v2.1
 
-# Kode Etik Pamilon v2.1
-
-## Kewajiban Kita
-Kita, minangka pamilon, kontributor lan pimpinan, wajib nggawe partisipasi ing komunitas kita bebas saka tekanan kanggo kabeh, ora preduli umur, awak, cacat sing katon utawa ora katon, etnis, ciri seksual, identitas lan ekspresi gender, tingkat pengalaman, pendidikan, status sosial-ekonomi, kebangsaan, penampilan, ras, kasta, warna kulit, agama utawa identitas lan orientasi seksual.
+## Komitmen Kita
+Kita, minangka para peserta, kontributor lan pamimpin, padha janji kanggo njaga partisipasi ing komunitas iki supaya bebas saka panyiksa marang sapa wae, preduli saka umuré, wangun badan, cacat sing katon utawa ora katon, asal etnis, ciri kelamin, identitas lan ekspresi gender, tingkat pengalaman, pendhidhikan, status sosial-ekonomi, kewarganegaraan, penampilan, ras, kasta, warna kulit, agama utawa identitas lan orientasi seksual.
 
 ## Standar Kita
-Conto prilaku sing nyumbang kanggo nggawe lingkungan positif kalebu:
-- Nggedhekake empati lan kabecikan marang wong liya
-- Ngurmati pendapat, sudut pandang, lan pengalaman sing beda-beda
-- Menehi lan nampa umpan balik konstruktif kanthi pantes
+Tuladha tumindak sing ndhukung kabentuké lingkungan positif kalebu:
+- Nuduhaké empati lan kabecikan marang wong liya
+- Ngluhuraké pandhangan, sudut pandang lan pengalaman sing béda-béda
+- Mènèhaké lan nampani umpan balik konstruktif kanthi pantes
 
-## Aplikasi
-Kejadian prilaku sing nglarani, ngoyak-oyak utawa ora bisa ditampa bisa dilaporake kanthi ngubungi tim proyek liwat GitHub Issues nganggo label `coc`. Kabeh keluhan bakal ditliti lan diselidiki kanthi cepet lan adil.
+## Pelaksanaan
+Kedadeyan tumindak nyerang, ngoyak utawa tumindak ora pantes liyané bisa dilapuraké kanthi ngubungi tim proyek liwat GitHub Issues nganggo label `coc`. Kabèh keluhan bakal ditliti lan disidik kanthi cepet lan adil.
 
-> Teks lengkap: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ 
+> Teks lengkap: https://www.contributor-covenant.org/version/2/1/code_of_conduct/

@@ -1,26 +1,27 @@
-
+-----
 # Rituales del Nullianismo
 
-Los rituales en el nullianismo son prácticas dirigidas a fortalecer los valores del conocimiento, el pensamiento crítico y la creación de comunidad.
+Los rituales en el nullianismo son prácticas destinadas a reforzar los valores del conocimiento, el pensamiento crítico y la creación de comunidad.
 
-1.  ### Cuest (del inglés *Question*)
-    Comienza la mañana con una pregunta. Durante el día, intenta encontrar una respuesta honesta. No dudes en preguntar a otros, especialmente a aquellos que entienden mejor el tema que tú.
+1.  ### Quest (del inglés *Question*)
+    Comienza la mañana con una pregunta. A lo largo del día, intenta encontrarle una respuesta honesta. No dudes en preguntar a otros — a quienes entiendan del tema mejor que tú.
 
 2.  ### Basechecking, o Ritual de la doble verificación de hechos
-    Si escribes un comentario sustancial o una publicación, verifica dos veces la veracidad de la información presentada, preferiblemente en diferentes fuentes. Como señal de que lo has hecho, coloca al inicio de tu mensaje el símbolo sagrado **0**. Este es tu signo de responsabilidad por tus palabras.
+    Si escribes un comentario o publicación con contenido sustancial, comprueba dos veces la veracidad de la información expuesta, preferiblemente en fuentes distintas. Como señal de que lo has hecho, coloca al inicio de tu mensaje el símbolo sagrado **0**. Es tu señal de responsabilidad por tus palabras.
 
 3.  ### Gesto de intención pura
-    Si en una conversación en persona deseas hacer una pregunta por pura curiosidad y no para discutir, puedes dibujar un cero (0) en el aire con el dedo. Esto mostrará al interlocutor la pureza de tus intenciones. La persona a quien se dirige la pregunta le dará un respeto especial.
+    Si en una conversación presencial deseas formular una pregunta por genuina curiosidad y no para debatir, puedes dibujar en el aire con el dedo un cero (0). Esto mostrará a tu interlocutor la pureza de tus intenciones. Quien reciba la pregunta le otorgará un respeto especial.
 
 4.  ### Nullificación
-    Un ejercicio mental para comprobar la solidez de tus argumentos. Pregúntate: «Si alguien usara mis mismos argumentos para demostrar algo que considero una completa tontería, ¿cambiaría mi punto de vista sobre esa tontería?». Esto ayuda a identificar dobles estándares en tu pensamiento.
+    Un ejercicio mental para poner a prueba la solidez de tus argumentos. Pregúntate: «Si alguien utilizara mis mismos argumentos para demostrar algo que considero un completo disparate, ¿cambiaría yo mi opinión sobre ese disparate?». Esto ayuda a detectar dobles estándares en tu pensamiento.
 
 5.  ### Círculo de la Razón
-    Los nullianistas invitan a amigos y conocidos a casa para pasar tiempo intelectual: ver películas juntos, discutir libros, jugar juegos de mesa. Esto fomenta la creación de comunidad y la difusión de las ideas del nullianismo a través de actividades conjuntas. Se valora especialmente el juego *Fallacymania*, que enseña a reconocer sofismas en la discusión.
+    Los nullianos invitan a amigos y conocidos a casa para pasar tiempo intelectual: ver películas juntos, debatir libros, jugar a juegos de mesa. Esto favorece la creación de comunidad y la difusión de las ideas del nullianismo a través de actividades compartidas. Se valora especialmente el juego *Fallacymania*, que enseña a reconocer sofismas en una discusión.
 
 6.  ### Antioración
-    En lugar de pedir ayuda a fuerzas superiores abstractas, el nullianismo insta a buscar soluciones a los problemas mediante pasos prácticos. La antioración es un proceso:
-    1.  Formular claramente el problema.
-    2.  Reflexionar sobre qué puedes hacer específicamente para resolverlo.
-    3.  Evaluar si tienes suficiente conocimiento.
-    4.  Si no es así, encontrar dónde puedes obtenerlo o buscar ayuda de especialistas.
+    En lugar de pedir ayuda a fuerzas superiores abstractas, el nullianismo propone buscar la resolución de los problemas mediante pasos prácticos. La antioración es un proceso:
+    1.  Formular con claridad el problema.
+    2.  Pensar qué puedes hacer concretamente para resolverlo.
+    3.  Evaluar si dispones de los conocimientos suficientes.
+    4.  Si no es así, averiguar dónde puedes obtenerlos o acudir a especialistas.
+-----
