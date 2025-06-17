@@ -74,6 +74,24 @@
 
 ## Other Nullianity Resources
 
+
 ### [<img src="assets/apostle-zero-logo.png" alt="Apostle Zero Logo" align="center" width="50"> Apostle Zero - Nullian Guide](https://chatgpt.com/g/g-684a3f8fa884819180cfde30ba33089f-apostle-zero-nullian-guide)
 
 > GPT for Nullianity available on ChatGPT
+
+### [🌐 Official Website](https://www.nullianity.com/)
+
+> Website created by founder Alexander Panchin
+
+### [📱 Telegram Community](https://t.me/NullianityNull)
+
+> Telegram community founded by Alexander Panchin
+
+### [💬 Forum](https://forum.nullianism.org/)
+
+> Community discussion forum
+
+### [<img src="assets/apostle-zero-logo.png" alt="Apostle Zero Logo" align="center" width="50"> Apostle Zero - Nullian Guide](https://chatgpt.com/g/g-684a3f8fa884819180cfde30ba33089f-apostle-zero-nullian-guide)
+
+> GPT for Nullianism available on ChatGPT
+
