@@ -1,29 +1,28 @@
-
-# Filosofi Nullianism
+# Filosofi of Nullianity
 
 ## Di Highest Value — To Sabi di World
 
-Our highest value na to sabi di world. Di better we sabi di world wey dey around us, di more we fit achieve our goals, no matter wetin dem be. From dis value, humanism dey follow: human life na di main value, because death dey deny person di chance to sabi.
+Our highest value na to sabi di world. Di better we understand di world wey dey around us, di more effective we fit take reach our goals, no matter wetin dem be. From dis value, humanism follow: human life na di main value because death go remove person chance to dey learn.
 
-## Di Foundation — Scientific Approach
+## Foundation — Scientific Approach
 
-Unlike traditional religions wey dey based on belief, nullianism dey based on doubt, critical thinking, and scientific method. We no dey accept claims without evidence.
+Unlike traditional religions wey stand on belief, Nullianity stand on doubt, critical thinking and scientific method. We no dey accept any statement without evidence.
 
-## Attitude Towards God and Supernatural
+## How We Take God and Supernatural Matter
 
-For nullianism, God no dey, because science never discover am. E be like atheistic religion. We no dey claim say God no dey at all, but we dey act based on di absence of convincing evidence of im existence. If dem fit prove say deity dey scientifically, nullianism go accept dat fact.
+For Nullianity, God no dey, because science never discover am. Dis religion dey act like atheism for function. We no talk say God no dey at all, but we dey live as if no better evidence show say e exist. If science prove say deity dey, Nullianity go accept di fact.
 
 ## Life After Death: Immortalism
 
-Instead of belief in life after death, nullianism dey propose di idea of **immortalism** — di pursuit to prevent or delay physical death as much as possible with science and technology. We no dey prepare for death, but we dey try avoid am. Nullianist dey give consent by default for technological immortality and resurrection, if dat kind opportunity show for future.
+Instead make we believe for after-life, Nullianity bring di idea of **Immortalism** — di push to stop or push physical death far away with science and technology. We no dey prepare for death, we dey try avoid am. Any Nullian normally gree for technological immortality and resurrection if di chance show for future.
 
-## Enemies of Nullianism
+## Enemies of Nullianity
 
-Di main antagonist of nullianism na **anti-argumentation**:
+Di main antagonist of Nullianity na **anti-argumentation**:
 
-- Deliberate spread of misinformation.
-- Disrespectful attitude towards science and facts.
-- Settling disputes with force instead of logic and arguments.
-- Appealing to emotions instead of reason.
+- To spread disinformation on purpose.  
+- To dey look down on science and facts.  
+- To settle quarrel with force instead of logic and better argument.  
+- To dey play on emotion instead of reason.  
 
-We no dey fight people, but harmful ideas.
+We dey fight harmful ideas, no be people.

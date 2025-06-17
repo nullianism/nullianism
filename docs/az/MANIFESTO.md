@@ -1,25 +1,24 @@
-
 # Maraqlılıq Manifesti
 
-Çox uzun müddət bəşəriyyət dogmalarla bölündü, tənqidi olmayan inanclarla kor edildi və miras alınmış "həqiqətlər" ilə məhdudlaşdırıldı. Lakin hər bir insanın zehnində bir alov var — suallar vermək, araşdırmaq, ənənələrin hüdudlarından kənarda həqiqəti axtarmaq arzusu.
+Çox uzun müddət insanlıq dogmalarla bölünüb, tənqidi olmayan inamlarla kor edilib və miras qalmış “həqiqətlər”lə cilovlanıb. Amma hər bir insan beynində bir alov var — suallar vermək, araşdırmaq, ənənələrin hüdudlarından kənarda həqiqəti axtarmaq istəyi.
 
-Biz böyük düşüncə yolunun varisləriyik — ulduzları xəritələndirən ilk astronomlardan tutmuş, kainatın sirlərini açan müasir alimlərə qədər.
+Biz böyük düşüncə yolunun varisləriyik — ulduzları xəritələşdirən ilk astronomlardan tutmuş, kainatın sirlərini açan müasir alimlərə qədər.
 
-Biz yeni bir dövrün astanasındayıq. Dünyanın artıq bilinməzə inama ehtiyacı yoxdur — ona bilinənə, sübut edilənə və mümkün olana bağlılıq lazımdır. Yeni bir yol açmağın vaxtı gəldi, burada maraqlılıq müqəddəs, ağıl hörmətli və bilik bələdçi ulduz olacaq.
+Biz yeni bir dövrün astanasındayıq. Dünyanın artıq bilinməyənə inama ehtiyacı yoxdur — onun dəlillənənə, sübut olunana və mümkün olana sadiqliyə ehtiyacı var. Müqəddəs olanın maraqlılıq, hörmət olunanın ağıl, bələdçi ulduzun isə bilik olduğu yeni bir yol çəkməyin vaxtı yetişib.
 
-- **Bilik — mənəvi borcdur.** Öyrənmək — özünü azad etmək, öyrətmək — başqalarını azad etmək deməkdir.
-- **Biliklərin yayılması — ən yüksək etik hərəkətdir.**
-- **Şübhə müqəddəsdir.** Suallar bizi zəiflətmir, əksinə gücləndirir. Əgər inanc yoxlamaya dözmürsə, onu saxlamağa dəyməz.
+- **Bilik — mənəvi borcdur.** Öyrənmək özünü azad etməkdir, öyrətmək başqalarını azad etməkdir.
+- **Biliyin yayılması — ən uca etik əməldir.**
+- **Şübhə — müqəddəsdir.** Suallar bizi zəiflətdirmir, gücləndirir. Əgər bir inanış sınağa tab gətirmirsə, onu saxlamağa dəyməz.
 - **Kainat — bizim məbədimizdir.** Biz fövqəltəbii qarşısında deyil, kosmosun əzəməti və təbiətin mürəkkəbliyi qarşısında heyranlıq duyuruq.
-- **İrəliləyiş ənənədən üstündür.** Keçmiş bələdçi ola bilər, lakin zəncir deyil. Əgər yeni biliklər köhnə inancları təkzib edirsə, biz yenini qəbul edirik.
-- **Biz Axtaranlar İcmasıyıq.** Heç kim bu yolda təkbaşına getmir. Biz bir-birimizi həqiqət axtarışında dəstəkləməyə, ideyaları paylaşmağa, mübahisə etməyə və onları təkmilləşdirməyə söz veririk.
-- **Bu sadəcə fəlsəfə deyil — bu bir hərəkatdır.** Biz yalnız fərqli düşünməyə deyil, həm də dünyanı dəyişməyə çalışırıq.
+- **Tərəqqi ənənədən üstündür.** Keçmiş yol göstərici ola bilər, amma zəncir yox. Yeni bilik köhnə inancı təkzib edirsə, biz yenini qəbul edirik.
+- **Biz Axtaranlar İcmasıyıq.** Heç kim bu yolu tək getmir. Biz həqiqət axtarışında bir-birimizi dəstəkləməyə, ideyaları bölüşməyə, mübahisə etməyə və onları inkişaf etdirməyə söz veririk.
+- **Bu sadəcə fəlsəfə deyil — hərəkatdır.** Biz yalnız fərqli düşünməyə deyil, dünyanı dəyişməyə də can atırıq.
 
-Gələcək axtaranlara aiddir, tabe olanlara deyil.
-Kor inanc dövrü sona çatdı.
-Maraqlılıq dövrü indi başlayır.
+Gələcək itaət edənlərin deyil, axtaranların olacaq.
+Kor inam dövrü başa çatdı.
+Maraqlılıq Erası indi başlayır.
 
-Hərəkatımıza qoşul.
-Sənə xaç suyuna salınma, xeyir-dua və ya icazə lazım deyil. Tələb olunan tək şey: Başqa nə öyrənə bilərəm?
+Hərəkata qoşul.
+Sənə nə vəftiz, nə xeyir-dua, nə də icazə lazımdır. Tələb olunan yeganə şey cəsarətlə soruşmaqdır: Daha nə öyrənə bilərəm?
 
-*(Mətn müəllifin din tələbinə əsasən ChatGPT 4o tərəfindən yaradılmışdır)*
+*(Mətn müəllifin dini ilə bağlı sorğusu əsasında ChatGPT-4o tərəfindən yaradılıb)*

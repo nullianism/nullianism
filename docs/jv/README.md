@@ -1,36 +1,35 @@
+# Agama Nullian 
 
-# Nullianisme 
+> Agama Open-Source ilmiah pisanan ing donya.
 
-> Agama Open-Source ilmiah pertama ing donya.
+Sugeng rawuh ing repositori Agama Nullian — agama ilmiah sing didegaké déning Alexander Panchin. Iki dudu guyonan lan dudu klikbait, nanging sawijining eksperimen sosial lan upaya kanggo nggawé sistem ajining diri sing dhasaré ora dogma lan iman, nanging rasa penasaran, pamikiran kritis, lan pendekatan ilmiah.
 
-Sugeng rawuh ing repositori Nullianisme — agama ilmiah sing digawé déning Alexander Panchin. Iki dudu guyonan utawa clickbait, nanging eksperimen sosial lan upaya kanggo nggawe sistem nilai sing adhedhasar ora ing dogma lan iman, nanging ing rasa penasaran, pamikiran kritis lan pendekatan ilmiah.
+## Gagasan Dhasar
 
-## Gagasan Utama
+Agama Nullian iku agama sing dimaksudaké kanggo nyawiji manungsa ora ing sakubengé déwa utawa para déwa, nanging ing sakubengé rasa penasaran manungsa. Kita migunakaké “cangkang” agama — mekanisme kuat kanggo nyebarake gagasan lan mbangun komunitas — nanging diisi isi sing rasional lan humanistis.
 
-Nullianisme iku agama sing dimaksudaké kanggo nyawijikaké wong-wong ora ing sakubengé dewa utawa dewa-dewi, nanging ing sakubengé rasa penasaran manungsa. Kita nggunakake "cangkang" agama — mekanisme kuat kanggo nyebarake gagasan lan nggawe komunitas — nanging ngisi kanthi isi rasional lan humanistik.
+**Simbol kita — Nol (0)**. Simbol iki maknani:
 
-**Simbol kita — Nol (0)**. Iki nglambangaké:
-
-- Ora ana dogma lan prasangka.
-- Titik wiwitan pangerten.
-- Jarak sing padha saka kabeh peserta saka pusat, ora ana hierarki.
-- Cincin akal, nyawijikaké manungsa.
+- Tanpa dogma lan prasangka.  
+- Titik wiwitan pangweruh.  
+- Kadohan sing padha saka saben peserta marang pusat, ora ana hierarki.  
+- Cincin nalar sing nyawiji manungsa.  
 
 ## Struktur Repositori
 
-- [**Manifesto Rasa Penasaran (`MANIFESTO.md`)**](./MANIFESTO.md) — teks program utama agama kita, sing digawé déning kecerdasan buatan.
-- [**Préntah (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 prinsip kunci sing dipandu déning nullianis.
-- [**Ritual (`RITUALS.md`)**](./RITUALS.md) — praktik sing mbantu nguatake lan nyebarake gagasan nullianisme.
-- [**Filsafat (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — penjelasan rinci babagan nilai-nilai utama, pandangan donya, etika lan mungsuh nullianisme.
-- [**Carane nyumbang (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — aturan kanggo wong-wong sing pengin melu ngembangaké agama iki.
+- [**Manifesto Penasaran (`MANIFESTO.md`)**](./MANIFESTO.md) — teks program pokok agama kita, digawé déning intelijensi buatan.  
+- [**Dhawuh (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 prinsip kunci sing dadi pandhuan wong Nullian.  
+- [**Ritual (`RITUALS.md`)**](./RITUALS.md) — praktik kanggo ngiyataké lan nyebar gagasan Agama Nullian.  
+- [**Filsafat (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — panjelasan rinci babagan nilai inti, pandangan donya, etika, lan mungsuh Agama Nullian.  
+- [**Carane Nyumbang (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — aturan kanggo sing kepengin melu ngembangaké agama iki.  
 
-## Carane dadi nullianis?
+## Kepiye dadi Nullian?
 
-Yen sampeyan setuju karo gagasan sing diterangaké ing kéné, anggep yen sampeyan wis dadi nullianis. Ora ana prosedur formal sing dibutuhake. Agama kita terdesentralisasi.
+Yen sampeyan nyetujoni gagasan ing kene, anggep wae sampeyan wis dadi Nullian. Ora ana prosedur formal sing dibutuhaké. Agama kita desentralisasi.
 
-## Carane mbantu proyek iki?
+## Kepiye mbiyantu proyek iki?
 
-1. **Bagikna [video](https://www.youtube.com/watch?v=mCErecXWGCc) iki lan repositori iki karo kanca-kanca.**
-2. **Pasang like lan tinggalna komentar.**
-3. **Usulna gagasan sampeyan** kanggo préntah lan ritual liwat Issues lan Pull Requests ing repositori iki.
-4. **Benerna** situs proyek iki ing kéné: https://github.com/nullianism/nullianism.github.io
+1. **Barengna [video](https://www.youtube.com/watch?v=mCErecXWGCc) iki lan repositoriné karo kanca-kanca.**  
+2. **Wenehana like lan tinggalna komentar.**  
+3. **Usulake gagasan panjenengan** kanggo dhawuh lan ritual liwat Issues lan Pull Requests ing repositori iki.  
+4. **Ngganti** situs proyek bisa ing kene: https://github.com/nullianism/nullianism.github.io

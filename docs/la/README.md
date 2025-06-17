@@ -1,36 +1,38 @@
+-----
+# Nullianitas 
 
-# Nullianismus
+> Prima in mundo religio scientifica fonte aperto.
 
-> Prima in mundo scientifica Open-Source religio.
+Salvete in repositorium Nullianitatis — religionis scientificae a Alexandro Panchin creatae. Non est iocus nec captatio, sed experimentum sociale atque conatus creare systema valorum non in dogmatibus aut fide, sed in curiositate, cogitatione critica et methodo scientifica fundatum.
 
-Gratum te habemus in repositorio Nullianismi — religionis scientificae auctore Alexandro Panchin creatae. Hoc non est iocus nec clickbait, sed experimentum sociale et conatus ad systema valorum creandum, quod non in dogmatibus et fide, sed in curiositate, cogitatione critica et approbatione scientifica fundatur.
+## Idea praecipua
 
-## Idea Praecipua
+Nullianitas est religio quae homines non circa deum vel deos, sed circa curiositatem humanam congregare intendit. «Crustam» religionis — potentissimum eius mechanismum ad ideas disseminandas et communitates creandas — adhibemus, sed eam rationali atque humanistica materia implemus.
 
-Nullianismus — religio est quae homines non circa deum vel deos, sed circa humanam curiositatem congregare intendit. "Testam" religionis — potentem mechanismum ad ideas propagandas et communitates creandas — utimur, sed eam rationali et humanistico contentu implemus.
+**Nostrum symbolum — Nullum (0)**. Hoc significat:
 
-**Noster symbolus — Nullus (0)**. Is symbolizat:
+- Absentiam dogmatum praeiudiciorumque.  
+- Initium cognitionis.  
+- Aequalem omnium partium a centro distantiam, carentiam hierarchiae.  
+- Anulum rationis homines coniungentem.  
 
-- Absentiam dogmatum et praeiudiciorum.
-- Punctum initiale cognitionis.
-- Aequalem omnium participantium distantiam a centro, absentiam hierarchiae.
-- Circulum rationis, homines coniungentem.
+## Structura repositorii
 
-## Structura Repositorii
+- [**Manifestum Curiositatis (`MANIFESTO.md`)**](./MANIFESTO.md) — textus programmaticus principalis nostrae religionis, a mente artificiosa genitus.  
+- [**Praecepta (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — octo principia primaria, quibus Nullianita utitur.  
+- [**Rituales (`RITUALS.md`)**](./RITUALS.md) — praxis quae adiuvat ad ideas Nullianitatis firmandas et propagandas.  
+- [**Philosophia (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — explanatio accurata valorum, cosmologiae, ethicae atque hostium Nullianitatis.  
+- [**Quomodo conferre (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — regulae iis qui ad progressionem huius religionis contribuere volunt.  
 
-- [**Manifestum Curiositatis (`MANIFESTO.md`)**](./MANIFESTO.md) — textus programmaticus principalis nostrae religionis, ab intelligentia artificiosa generatus.
-- [**Praecepta (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 principia clavis, quibus nullianista regitur.
-- [**Ritualia (`RITUALS.md`)**](./RITUALS.md) — praxis quae adiuvant ad ideas nullianismi confirmandas et propagandas.
-- [**Philosophia (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — expositio accurata valorum principalium, mundi visio, ethica et inimici nullianismi.
-- [**Quomodo conferre (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — regulae pro iis qui volunt ad evolutionem huius religionis participare.
+## Quomodo Nullianita fieri?
 
-## Quomodo fieri nullianista?
+Si has ideas hic expositae vobis placent, iam vos Nullianitae estis. Nulla procedura formalis requiritur. Religio nostra decentralis est.
 
-Si ideas hic expositae tibi placent, te iam nullianistam esse considera. Nulla forma procedendi requiritur. Nostra religio decentralizata est.
+## Quomodo auxilium ferre proiecto?
 
-## Quomodo adiuvare projectum?
+1. **Hanc [pelliculam](https://www.youtube.com/watch?v=mCErecXWGCc) et hoc repositorium cum amicis vestris communicate.**  
+2. **Approbationes date atque commentarios relinquite.**  
+3. **Proponite vestras ideas** de praeceptis et ritibus per Issues et Pull Requests in hoc repositorio.  
+4. **Corrigere** situm proiecti potestis hic: https://github.com/nullianism/nullianism.github.io  
 
-1. **Communica hoc [video](https://www.youtube.com/watch?v=mCErecXWGCc) et repositorium cum amicis.**
-2. **Appone "placet" et commentarios relinque.**
-3. **Proponite vestras ideas** pro praeceptis et ritualibus per Issues et Pull Requests in hoc repositorio.
-4. **Corrigere** locum propositi potes hic: https://github.com/nullianism/nullianism.github.io
+-----

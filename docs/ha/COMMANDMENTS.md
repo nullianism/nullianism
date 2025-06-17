@@ -1,26 +1,25 @@
-
 # Dokoki
 
-1. **KADA KA MUTU.**
-    *Domin mutuwarka tana hana ka damar fahimtar duniya. Kuma fahimta ita ce babban darajar nullianism.*
+1. **KADA KA MUTU.**  
+    *Domin mutuwarka za ta hana ka damar gane duniya. Kuma neman sani — shi ce babban darajar Nulliyanci.*
 
-2. **KADA KA KASHE.**
-    *Domin haka wani mutum ba zai iya neman ilimi ba.*
+2. **KADA KA KASHE.**  
+    *Domin idan ka kashe wani, ba zai iya yin yunƙurin neman ilimi ba.*
 
-3. **KADA KA YADA KARYA.**
-    *Yau ka yada ƙarya, gobe kai ma za ka zama wanda aka yaudara.*
+3. **KADA KA YAƁA DA ƘARYA.**  
+    *Yau kana yaɗa gurɓataccen tunani, gobe kai kanka ka zama wanda aka gurɓata.*
 
-4. **KADA KA GUJI KARYATA RA'AYINKA.**
-    *Yarda da kurakurenka kuma ka zama abin koyi ga wasu.*
+4. **KADA KA GUJE WA A SABATA RA’AYINKA.**  
+    *Yarda da kuskuranka, ka kuma zama misali ga wasu.*
 
-5. **KADA KA KIRKIRO DA MAI IKO MARAR KUSKURE.**
-    *Kowa na iya yin kuskure.*
+5. **KADA KA ƘIRƘIRI MADAIDAICIN MAMAYE MARAR TAMBAYA.**  
+    *Kowa na iya kuskure.*
 
-6. **KADA KA NEMI DAGA WASU ABIN DA BA KA NEMA DAGA KANKA.**
-    *Gano ma'aunin biyu na tunaninka, domin ka inganta.*
+6. **KADA KA NEMA DAGA WASU ABIN DA BA KA NEMA DAGA KAI BA.**  
+    *Gano ma’aunin biyu a tunaninka domin ka inganta kanka.*
 
-7. **KADA KA HANA WASU ILIMI.**
-    *Wanda ya koya wani abu, watakila zai koya maka ma.*
+7. **KADA KA HANAWA SAURAN NEMAN ILIMI.**  
+    *Wanda ya koya wani abu da kansa, watakila shi ne zai koya maka.*
 
-8. **KADA KA KIRKIRO DA HUJJA MAI ZAGAYE.**
-    *«Littafi Mai Tsarki koyaushe yana daidai saboda haka aka ce a Littafi Mai Tsarki, kuma Littafi Mai Tsarki koyaushe yana daidai». Bar wannan ga sauran addinai.*
+8. **KADA KA ƘIRƘIRI HUJJA MAI JEREWA.**  
+    *«Littafi Mai Tsarki kullum daidai ne domin haka aka rubuta a Littafi Mai Tsarki, kuma Littafi Mai Tsarki kullum daidai ne». Bar wannan ga sauran addinai.*

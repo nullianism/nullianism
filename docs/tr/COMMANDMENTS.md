@@ -1,26 +1,27 @@
-
+-----
 # Emirler
 
 1. **ÖLME.**
-    *Çünkü ölümün, dünyayı tanıma fırsatını elinden alır. Ve bilgi edinme, nullianizmin en önemli değeridir.*
+    *Çünkü ölmen, dünyayı tanıma fırsatını elinden alır. Ve bilgi edinmek, Nullianlık'ın temel değeridir.*
 
 2. **ÖLDÜRME.**
-    *Çünkü o zaman başka bir insan bilgiye ulaşamayacaktır.*
+    *Çünkü o zaman başka bir insan bilgi arayışına yönelemez.*
 
-3. **YANLIŞ BİLGİ VERME.**
+3. **DEZİNFORME ETME.**
     *Bugün yanlış inançlar yayıyorsun, yarın ise onların kurbanı olacaksın.*
 
-4. **GÖRÜŞLERİNİN ÇÜRÜTÜLMESİNDEN KAÇINMA.**
+4. **GÖRÜŞLERİNİN ÇÜRÜTÜLMESİNDEN KAÇMA.**
     *Hatalarını kabul et ve böylece başkalarına örnek ol.*
 
 5. **KAYITSIZ ŞARTSIZ OTORİTELER YARATMA.**
     *Herkes hata yapabilir.*
 
-6. **BAŞKALARINDAN KENDİNDEN İSTEMEDİĞİNİ İSTEME.**
-    *Düşüncenin çifte standartlarını ortaya çıkar ki daha iyi olasın.*
+6. **KENDİN İÇİN TALEP ETMEDİĞİNİ BAŞKALARINDAN TALEP ETME.**
+    *Düşüncendeki çifte standartları ortaya çıkar ki daha iyi olabilesin.*
 
-7. **BAŞKALARININ BİLGİ EDİNMESİNE ENGEL OLMA.**
-    *Bir şeyler öğrenen biri, belki sana da bir şeyler öğretebilir.*
+7. **BAŞKALARININ ÖĞRENMESİNE ENGEL OLMA.**
+    *Bir şeyi kendi başına öğrenen biri, belki sana da öğretebilir.*
 
-8. **DÖNGÜSEL ARGÜMANTASYON YARATMA.**
-    *«İncil her zaman haklıdır çünkü İncil'de öyle yazıyor, ve İncil her zaman haklıdır». Bunu diğer dinlere bırak.*
+8. **KISIR DÖNGÜSEL ARGÜMANLAR KURMA.**
+    *«İncil her zaman haklıdır çünkü İncil'de öyle yazar ve İncil her zaman haklıdır». Bırak bunu diğer dinlere.*
+-----

@@ -1,25 +1,24 @@
+# Manipesto ng Kamausisaan
 
-# Manipesto ng Pag-uusisa
+Napakatagal nang hinahati ng mga dogma ang sangkatauhan, binubulag ng mga paniniwalang walang kritikal na pagsusuri at tini-tighaw ng mga minanang “katotohanan”. Ngunit sa bawat isip ng tao ay may apoy — ang hangaring magtanong, magsaliksik, at hanapin ang katotohanan lampas sa tradisyon.
 
-Napakatagal nang hinati ng mga dogma ang sangkatauhan, binulag ng hindi kritikal na paniniwala, at pinigilan ng mga minanang "katotohanan". Ngunit sa bawat isipan ng tao ay may apoy — ang pagnanasa na magtanong, magsaliksik, at hanapin ang katotohanan sa kabila ng mga tradisyon.
+Tayo ang mga tagapagmana ng dakilang landas ng mga palaisip — mula sa unang mga astronomong naglarawan ng mga bituin hanggang sa modernong mga siyentipikong nagbubunyag ng mga hiwaga ng sandaigdigan.
 
-Tayo ay mga tagapagmana ng dakilang landas ng mga palaisip — mula sa mga unang astronomo na nag-mapa ng mga bituin, hanggang sa mga modernong siyentipiko na nagbubunyag ng mga lihim ng sansinukob.
+Nasa bungad tayo ng isang bagong panahon. Hindi na kailangan ng mundo ng paniniwala sa hindi mauunawaan; ang kailangan nito ay pagtatalaga sa maaaring maunawaan, mapatotohanan at maisakatuparan. Dumating na ang oras upang baybayin ang bagong landas kung saan ang kabanalan ay nasa kamausisaan, iginagalang ang katwiran, at ang kaalaman ang ating tala ng gabay.
 
-Tayo ay nasa bungad ng bagong panahon. Hindi na kailangan ng mundo ang paniniwala sa hindi malirip — kailangan nito ang pagtatalaga sa nalalaman, napapatunayan, at posible. Dumating na ang panahon upang maglatag ng bagong landas, kung saan ang pag-uusisa ay magiging sagrado, ang katuwiran ay iginagalang, at ang kaalaman ay magiging gabay na bituin.
+- **Ang kaalaman ay isang moral na tungkulin.** Ang matuto ay magpalaya sa sarili; ang magturo ay magpalaya sa iba.
+- **Ang pagpapalaganap ng kaalaman ay ang pinakamataas na gawaing etikal.**
+- **Banal ang pagdududa.** Hindi tayo pinahihina ng mga tanong; pinalalakas tayo nito. Kung ang isang paniniwala ay hindi pumapasa sa pagsubok, hindi ito karapat-dapat pang hawakan.
+- **Ang sansinukob ang ating templo.** Namamangha tayo hindi sa mga sobrenatural na bagay kundi sa kadakilaan ng kosmos at sa kasalimuotan ng kalikasan.
+- **Mas mataas ang progreso kaysa tradisyon.** Maaaring magsilbing gabay ang nakaraan, ngunit hindi tanikala. Kung sinasalungat ng bagong kaalaman ang lumang paniniwala, tinatanggap natin ang bago.
+- **Tayo ay Komunidad ng mga Mananaliksik.** Walang naglalakbay nang mag-isa. Nangangako tayong suportahan ang isa’t isa sa paghahanap ng katotohanan, magbahagi ng mga ideya, makipagtalastasan at pahusayin ang mga ito.
+- **Hindi lang ito pilosopiya — ito’y kilusan.** Hinahangad nating hindi lang mag-isip nang kakaiba kundi baguhin ang mundo.
 
-- **Ang kaalaman ay moral na tungkulin.** Ang pag-aaral ay nangangahulugang pagpapalaya sa sarili, ang pagtuturo ay nangangahulugang pagpapalaya sa iba.
-- **Ang pagpapalaganap ng kaalaman ay pinakamataas na etikal na gawain.**
-- **Ang pagdududa ay sagrado.** Ang mga tanong ay hindi nagpapahina sa atin, kundi nagpapalakas. Kung ang paniniwala ay hindi makapasa sa pagsusuri, hindi ito karapat-dapat na panatilihin.
-- **Ang sansinukob ay aming templo.** Kami ay humahanga hindi sa supernatural, kundi sa kadakilaan ng kosmos at sa komplikasyon ng kalikasan.
-- **Ang progreso ay mas mataas kaysa sa tradisyon.** Ang nakaraan ay maaaring magsilbing gabay, ngunit hindi bilang tanikala. Kung ang bagong kaalaman ay sumasalungat sa lumang paniniwala, tinatanggap namin ang bago.
-- **Kami ay komunidad ng mga Tagapagsaliksik.** Walang naglalakbay nang mag-isa. Kami ay nangangako na suportahan ang isa't isa sa paghahanap ng katotohanan, sa pamamagitan ng pagbabahagi ng mga ideya, pagtatalo, at pagpapabuti ng mga ito.
-- **Ito ay hindi lamang pilosopiya — ito ay kilusan.** Nagsusumikap kami hindi lamang na mag-isip ng iba, kundi baguhin ang mundo.
-
-Ang hinaharap ay para sa mga naghahanap, hindi sa mga sumusunod.
-Ang panahon ng bulag na pananampalataya ay tapos na.
-Ang Panahon ng Pag-uusisa ay nagsisimula ngayon.
+Ang kinabukasan ay para sa mga naghahanap, hindi sa mga sumusunod nang bulag.
+Tapos na ang panahon ng bulag na paniniwala.
+Nagsisimula na ang Panahon ng Kamausisaan ngayon mismo.
 
 Sumali sa Kilusan.
-Hindi mo kailangan ng binyag, basbas, o pahintulot. Ang kailangan lamang ay ang tapang na magtanong: Ano pa ang maaari kong malaman?
+Hindi mo kailangan ng bautismo, basbas, o pahintulot. Lakas ng loob lamang ang kailangan upang magtanong: Ano pa kaya ang maaari kong malaman?
 
-*(Ang teksto ay binuo ng ChatGPT 4o sa kahilingan ng may-akda ng relihiyon)*
+*(Tekstong binuo ng ChatGPT 4o sa kahilingan ng awtor ng relihiyon)*

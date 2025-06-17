@@ -1,26 +1,27 @@
-
+-----
 # Əmrlər
 
 1. **ÖLMƏ.**
-    *Çünki sənin ölümün dünyanı dərk etmək imkanından məhrum edir. Dərk etmək — nullianizmin əsas dəyəridir.*
+    *Çünki sənin ölümün səni dünyanı dərk etmək imkanından məhrum edir. Və bilik — Nullianlığın əsas dəyəridir.*
 
 2. **ÖLDÜRMƏ.**
     *Çünki o zaman başqa bir insan biliyə can ata bilməz.*
 
 3. **DEZİNFORMASİYA YAYMA.**
-    *Bu gün sən yalan inanclar yayarsan, sabah isə özün onların qurbanı olarsan.*
+    *Bu gün sən yalançı inanclar yayır, sabah isə özün onların qurbanına çevrilirsən.*
 
-4. **ÖZ GÖRÜŞLƏRİNİ TƏKZİB ETMƏKDƏN QAÇMA.**
-    *Səhvlərini qəbul et və başqalarına nümunə göstər.*
+4. **BAXIŞLARININ TƏKSİB EDİLMƏSİNDƏN QAÇMA.**
+    *Xətalarını etiraf et və bununla başqalarına nümunə ol.*
 
-5. **MÜTLƏQ AVTORİTETLƏR YARATMA.**
-    *Hər kəs səhv edə bilər.*
+5. **QEYD-ŞƏRTSİZ AVTORİTETLƏR YARATMA.**
+    *Hər kəs yanilə bilər.*
 
-6. **BAŞQALARINDAN ÖZÜNDƏN TƏLƏB ETMƏDİYİNİ TƏLƏB ETMƏ.**
-    *Düşüncənin ikili standartlarını aşkar et ki, daha yaxşı olasan.*
+6. **ÖZÜNDƏN İSTƏMƏDİYİNİ BAŞQALARINDAN TƏLƏB ETMƏ.**
+    *Düşüncəndəki ikili standartları üzə çıxar ki, daha yaxşı olasan.*
 
-7. **BAŞQALARININ BİLİK ƏLDƏ ETMƏSİNƏ MANE OLMAMA.**
-    *Özü bir şey öyrənən, bəlkə də səni də öyrədə bilər.*
+7. **BAŞQALARININ DƏRKİNƏ MANE OLMA.**
+    *Kim ki özü nəyisə öyrənib, bəlkə də səni də öyrədər.*
 
-8. **HALQAVARİ MÜHAKİMƏ YARATMA.**
-    *«İncil həmişə haqlıdır, çünki İncil belə deyir, və İncil həmişə haqlıdır». Bunu digər dinlərə burax.*
+8. **HALQAVI ARQUMENTASİYA YARATMA.**
+    *«İncil həmişə haqlıdır, çünki İncil belə deyir, və İncil həmişə haqlıdır». Bunu başqa dinlərə burax.*
+-----

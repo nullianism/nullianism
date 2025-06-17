@@ -1,26 +1,25 @@
-
-# Pepeling
+# Préntah
 
 1. **AJA MATI.**
-    *Amarga pati bakal ngilangi kasempatanmu kanggo nyinaoni jagad. Lan pangerten iku minangka nilai utama saka nullianisme.*
+    *Amarga pati panjenengan bakal ngilangi kesempatanmu kanggo nyinaoni jagad. Lan kawruh — nilai paling wigati ing Agama Nullian.*
 
 2. **AJA MATENI.**
-    *Amarga wong liya ora bakal bisa ngupaya marang kawruh.*
+    *Amarga nalika kuwi wong liya ora bakal bisa ngupaya kawruh.*
 
-3. **AJA NYEBARKE KABAR PALSU.**
-    *Dina iki kowe nyebarake kapercayan palsu, lan sesuk kowe dhewe bakal dadi korbané.*
+3. **AJA NYEBAR DISINFORMASI.**
+    *Dina iki kowé nyebar kapercayan palsu, sesuk kowé dhéwé bakal dadi korbané.*
 
-4. **AJA NGINDARI BANTAHAN PANDANGANMU.**
-    *Akoni kesalahanmu lan dadi conto kanggo wong liya.*
+4. **AJA NGINDARI BANTAHAN MARANG PANDANGANMU.**
+    *Akona ngakoni kasalahanmu lan dadi tuladha kanggo liyan.*
 
-5. **AJA NGGAWE OTORITAS TANPA TANDING.**
-    *Saben wong bisa salah.*
+5. **AJA NGGAWE PAWEWENGAN SING ORA KENA DIBANTAH.**
+    *Saben uwong bisa salah.*
 
-6. **AJA NJALUK SAKA WONG LIYA APA SING ORA KOWE JALUK SAKA DIRIMU.**
-    *Temokake standar ganda ing pikiranmu supaya bisa dadi luwih apik.*
+6. **AJA NJALUK SAKA WONG LIYAN BAB SING ORA KOWÉ TUNTUT SAKA DIRIMU DHÉWÉ.**
+    *Bukak standar ganda ing pikiranmu supaya tambah becik.*
 
-7. **AJA NGALANGI KAWRUH WONG LIYA.**
-    *Sapa sing wis sinau soko, bisa uga bakal mulang kowe uga.*
+7. **AJA MBLOKIR KAWRUHÉ WONG LIYA.**
+    *Sing wis sinau dhéwé, bisa uga bakal mulang kowé.*
 
 8. **AJA NGGAWE ARGUMENTASI MELINGKAR.**
-    *«Kitab Suci mesthi bener amarga mangkono sing diucapake ing Kitab Suci, lan Kitab Suci mesthi bener». Tinggalake iki kanggo agama liyane.*
+    *«Alkitab tansah bener amarga ing Alkitab diarani manawa Alkitab tansah bener». Pasilahaké prakara kaya ngono kanggo agama liyane.*

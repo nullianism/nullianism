@@ -1,26 +1,27 @@
+-----  
+# Nullianietības rituāli
 
-# Nulliānisma Rituāli
+Nullianietības rituāli ir prakses, kuru mērķis ir nostiprināt izziņas un kritiskās domāšanas vērtības, kā arī veidot kopienu.
 
-Rituāli nulliānismā ir prakses, kas vērstas uz zināšanu vērtību stiprināšanu, kritisko domāšanu un kopienas veidošanu.
+1.  ### Kvests (no angļu *Question*)
+    Sāciet rītu ar jautājumu. Dienas gaitā mēģiniet tam atrast godīgu atbildi. Nevilcinieties jautāt citiem — tiem, kuri šajā jautājumā orientējas labāk par jums.
 
-1.  ### Kvests (no angļu val. *Question*)
-    Sāciet rītu ar jautājumu. Dienas laikā centieties atrast uz to godīgu atbildi. Nevilcinieties jautāt citiem — tiem, kas jautājumā izprot labāk par jums.
+2.  ### Beizčekings jeb dubultās faktu pārbaudes rituāls
+    Ja rakstāt saturīgu komentāru vai ziņu, divreiz pārbaudiet izklāstītās informācijas ticamību, vēlams dažādos avotos. Kā zīmi tam, ka to esat paveicis, savas ziņas sākumā ievietojiet sakrālo simbolu **0**. Tas ir jūsu atbildības par saviem vārdiem apliecinājums.
 
-2.  ### Beizčeking, jeb Dubultā faktu pārbaudes rituāls
-    Ja rakstāt saturīgu komentāru vai ierakstu, divreiz pārbaudiet izklāstītās informācijas ticamību, vēlams dažādos avotos. Kā zīmi tam, ka esat to izdarījis, ievietojiet sava ziņojuma sākumā sakrālo simbolu **0**. Tas ir jūsu atbildības par saviem vārdiem simbols.
-
-3.  ### Tīra nodoma žests
-    Ja dzīvas sarunas laikā vēlaties uzdot jautājumu no patiesas ziņkāres, nevis strīda dēļ, varat gaisā ar pirkstu uzzīmēt nulli (0). Tas parādīs sarunu biedram jūsu nodomu tīrību. Tas, kam jautājums adresēts, izrādīs tam īpašu cieņu.
+3.  ### Tīrā nodoma žests
+    Ja klātienē vēlaties uzdot jautājumu no patiesas zinātkāres, nevis strīda dēļ, gaisā ar pirkstu uzzīmējiet nulli (0). Tas parādīs sarunas biedram jūsu nodomu tīrību, un adresāts pret jautājumu izturēsies ar īpašu cieņu.
 
 4.  ### Nullifikācija
-    Mentāls vingrinājums savu argumentu izturības pārbaudei. Uzdodiet sev jautājumu: "Ja kāds ar maniem pašiem argumentiem pierādītu kaut ko, ko es uzskatu par pilnīgām muļķībām, vai es mainītu savu viedokli par šīm muļķībām?". Tas palīdz atklāt dubultstandartus savā domāšanā.
+    Mentāls vingrinājums savu argumentu noturības pārbaudei. Uzdodiet sev jautājumu: «Ja kāds ar maniem pašreizējiem argumentiem pierādītu kaut ko, ko es uzskatu par pilnīgām muļķībām, vai es mainītu savu viedokli par šīm muļķībām?» Tas palīdz atklāt dubultos standartus domāšanā.
 
-5.  ### Saprāta Loks
-    Nulliāņi aicina draugus un paziņas uz mājām intelektuālai laika pavadīšanai: kopīgai filmu skatīšanai, grāmatu apspriešanai, galda spēlēm. Tas veicina kopienas veidošanos un nulliānisma ideju izplatīšanu caur kopīgām aktivitātēm. Īpaši tiek novērtēta spēle *Fallacymania*, kas māca atpazīt sofismus diskusijā.
+5.  ### Prāta aplis
+    Nullianietības piekritēji aicina draugus un paziņas pie sevis mājās intelektuālai kopā pavadīšanai: kopīgai filmu skatīšanai, grāmatu apspriešanai, galda spēlēm. Tas veicina kopienas veidošanos un Nullianietības ideju izplatīšanu caur kopīgām aktivitātēm. Īpaši augstu tiek vērtēta spēle *Fallacymania*, kas māca atpazīt sofismus diskusijās.
 
 6.  ### Antilūgšana
-    Tā vietā, lai lūgtu palīdzību abstraktām augstākām varām, nulliānisms aicina meklēt problēmu risinājumus ar praktiskiem soļiem. Antilūgšana ir process:
-    1.  Skaidri formulēt problēmu.
-    2.  Apsvērt, ko tieši jūs varat darīt tās risināšanai.
-    3.  Novērtēt, vai jums ir pietiekami daudz zināšanu.
-    4.  Ja nē — atrast, kur tās var iegūt, vai vērsties pēc palīdzības pie speciālistiem.
+    Nullianietība aicina problēmu risinājumu meklēt praktiskās darbībās, nevis lūgt abstraktas augstākas spējas. Antilūgšanas process ir šāds:  
+    1.  Skaidri noformulēt problēmu.  
+    2.  Pārdomāt, ko tieši jūs varat darīt, lai to atrisinātu.  
+    3.  Novērtēt, vai jums ir pietiekamas zināšanas.  
+    4.  Ja nav — noskaidrot, kur tās var iegūt, vai vērsties pēc palīdzības pie speciālistiem.  
+-----

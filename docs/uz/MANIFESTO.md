@@ -1,25 +1,26 @@
+-----
+# Qiziquvchanlik manifesti
 
-# Qiziquvchanlik Manifesti
+Juda uzoq vaqt davomida insoniyatni dogmalar ajratdi, tanqidiy bo‘lmagan e’tiqodlar ko‘zni ko‘r qil­di, meros bo‘lib qolgan «haqiqat»lar esa bizni tiyib turdi. Lekin har bir inson ongida olov bor — savollar berish, tadqiq qilish va an’analar chegarasidan tashqarida haqiqatni izlash istagi.
 
-Insoniyatni juda uzoq vaqt davomida dogmalar ajratib keldi, tanqidiy bo'lmagan e'tiqodlar ko'zni ko'r qilib qo'ydi va meros qilib olingan "haqiqatlar" to'sib qo'ydi. Ammo har bir inson ongida olov bor — savol berishga, izlanishga, an'analar doirasidan tashqarida haqiqatni izlashga intilish.
+Biz buyuk tafakkur yo‘lining merosxo‘rlarimiz — yulduzlarni xaritalagan dastlabki astronomlardan tortib, olam sirlarini ochayotgan zamonaviy olimlargacha.
 
-Biz buyuk tafakkur yo'lining merosxo'rlarimiz — yulduzlarni xaritalashtirgan dastlabki astronomlardan tortib, olamning sirlarini ochayotgan zamonaviy olimlargacha.
+Biz yangi davr ostonasida turibmiz. Dunyo endi idrok etib bo‘lmas narsaga ishonishga muhtoj emas — unga idrok etilishi, isbotlanishi va amalga oshirilishi mumkin bo‘lgan narsaga sadoqat kerak. Yangi yo‘lni ochish vaqti keldi: unda qiziquvchanlik muqaddas bo‘ladi, aql — e’zozlanadi, bilim esa yo‘l­ko‘r­sa­tuvchi yulduzga aylanadi.
 
-Biz yangi davr ostonasida turibmiz. Dunyo endi noma'lum narsalarga ishonishga muhtoj emas — unga bilish mumkin bo'lgan, isbotlanadigan va mumkin bo'lgan narsalarga sadoqat kerak. Yangi yo'lni ochish vaqti keldi, bu yo'lda qiziquvchanlik muqaddas, aql ulug'lanadi va bilim yo'lboshchi yulduz bo'ladi.
+- **Bilim — axloqiy burch.** O‘qish — o‘zingni ozod qilish, o‘qitish — boshqalarni ozod qilish demak.
+- **Bilimni tarqatish — eng oliy axloqiy amaldir.**
+- **Shubha — bu muqaddas.** Savollar bizni zaiflashtirmaydi, balki kuchli qiladi. Agar e’tiqod sinovdan o‘ta olmasa, u saqlanishga loyiq emas.
+- **Koinot — bizning ibodatxonamiz.** Bizni larzaga keltiradigan narsa g‘ayritabiiy emas, balki kosmosning ulug‘vorligi va tabiatning murakkabligidir.
+- **Taraqqiyot — an’anadan ustun.** O‘tmish yo‘l­ko‘r­sa­tuvchi bo‘lishi mumkin, lekin zanjir emas. Agar yangi bilim eski e’tiqodlarni rad etsa, biz yangisini qabul qilamiz.
+- **Biz Izlovchilar jamiyatimiz.** Hech kim bu yo‘ldan yolg‘iz yurmaydi. Biz haqiqat izlashda bir-birimizni qo‘llab-quvvatlash, g‘oyalar bilan o‘rtoqlashish, bahslashish va ularni mukammallashtirishga va’da beramiz.
+- **Bu shunchaki falsafa emas — bu harakat.** Biz nafaqat boshqacha fikrlashga, balki dunyoni o‘zgartirishga intilamiz.
 
-- **Bilim — axloqiy burch.** O'rganish — o'zingizni ozod qilish, o'rgatish — boshqalarni ozod qilish demakdir.
-- **Bilimlarni tarqatish — eng oliy axloqiy harakat.**
-- **Shubha muqaddasdir.** Savollar bizni zaiflashtirmaydi, balki kuchliroq qiladi. Agar e'tiqod sinovdan o'tmasa, uni saqlashga loyiq emas.
-- **Koinot — bizning ma'badimiz.** Biz g'ayritabiiy narsalardan emas, balki koinotning ulug'vorligi va tabiatning murakkabligidan hayratdamiz.
-- **Taraqqiyot an'anadan ustundir.** O'tmish yo'l ko'rsatuvchi bo'lishi mumkin, lekin zanjir emas. Agar yangi bilimlar eski e'tiqodlarni rad etsa, biz yangisini qabul qilamiz.
-- **Biz Izlovchilar hamjamiyatimiz.** Hech kim yo'lda yolg'iz yurmaydi. Biz haqiqatni izlashda bir-birimizni qo'llab-quvvatlashga, g'oyalarni bo'lishishga, bahslashishga va ularni takomillashtirishga majburmiz.
-- **Bu shunchaki falsafa emas — bu harakat.** Biz nafaqat boshqacha fikrlashga, balki dunyoni o'zgartirishga intilamiz.
+Kelajak bo‘ysunuvchilarga emas, izlovchilarga tegishli.  
+Ko‘r-ko‘rona ishonch davri yakun topdi.  
+Qiziquvchanlik davri endi boshlanmoqda.
 
-Kelajak itoat qiluvchilarga emas, izlovchilarga tegishli.
-Ko'r-ko'rona e'tiqod davri tugadi.
-Qiziquvchanlik davri hozir boshlanmoqda.
+Harakatga qo‘shil.  
+Senga na suvga cho‘mish, na duo, na ruxsat kerak. Kerak bo‘ladigani bittagina: savol berishga jur’at — Yana nimalarni o‘rganishim mumkin?
 
-Harakatga qo'shiling.
-Sizga suvga cho'mish, duo yoki ruxsat kerak emas. Kerak bo'lgan narsa — yana nimalarni bilib olishim mumkinligini so'rashga jasorat.
-
-*(Matn muallifning din so'rovi bo'yicha ChatGPT 4o tomonidan yaratilgan)*
+*(Matn din asoschisi so‘roviga binoan ChatGPT 4o tomonidan yaratilgan)*
+-----

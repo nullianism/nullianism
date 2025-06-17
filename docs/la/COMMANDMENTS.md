@@ -1,26 +1,27 @@
-
+-----
 # Praecepta
 
-1. **NOLI MORI.**
-    *Nam mors tua te facultate cognoscendi mundum privat. Et cognitio — principalis valor nullianismi.*
+1. **NOLI MORI.**  
+    *Nam mors tua te facultate mundum cognoscendi privat. Cognitio autem est praecipuum bonum Nullianitatis.*
 
-2. **NOLI OCCIDERE.**
-    *Nam tunc alius homo ad cognitionem tendere non poterit.*
+2. **NOLI OCCIDERE.**  
+    *Nam tum alter homo ad scientiam tendere non poterit.*
 
-3. **NOLI DECEPTIONEM SPARGERE.**
-    *Hodie falsa credenda disseminas, cras ipse eorum victima fies.*
+3. **NOLI MENDACIAM PROPAGARE.**  
+    *Hodie falsas persuasiones disseminas, et cras tu ipse eorum victima fies.*
 
-4. **NOLI REFUTATIONEM TUARUM OPINIONUM EVITARE.**
-    *Errores tuos agnosce et sic aliis exemplum praebe.*
+4. **NOLI REFUTATIONEM OPINIONUM TUARUM FUGERE.**  
+    *Errores tuos agnosce atque sic aliis exemplum praebe.*
 
-5. **NOLI AUCTORITATES INCONTESTABILES CREARE.**
-    *Errare potest quilibet.*
+5. **NOLI AUCTORITATES INDISPUTABILES CREARE.**  
+    *Errare cuivis licet.*
 
-6. **NOLI AB ALIIS EXIGERE QUOD A TE NON EXIGIS.**
-    *Duplices rationes cogitationis tuae detege, ut melior fias.*
+6. **NOLI AB ALIIS EXIGERE QUOD A TE IPSO NON EXIGIS.**  
+    *Duplices cogitationis tuae regulas detege, ut melior fias.*
 
-7. **NOLI ALIENAE COGNITIONI OBSTARE.**
-    *Qui ipse aliquid didicit, te quoque fortasse docebit.*
+7. **NOLI SCIENTIAE ALIENAE OBESSE.**  
+    *Qui ipse aliquid didicit, fortasse etiam te docebit.*
 
-8. **NOLI ARGUMENTATIONEM CIRCULAREM CREARE.**
-    *«Biblia semper vera est quia ita in Biblia dictum est, et Biblia semper vera est». Hoc aliis religionibus relinque.*
+8. **NOLI ARGUMENTATIONEM CIRCULAREM FABRICARI.**  
+    *«Biblia semper vera est, quia ita scriptum est in Biblia, et Biblia semper vera est». Relinque hoc aliis religionibus.*
+-----

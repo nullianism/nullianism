@@ -1,13 +1,13 @@
-
-# Nullianizm
+-----
+# Nulliaństwo 
 
 > Pierwsza na świecie naukowa religia Open-Source.
 
-Witamy w repozytorium Nullianizmu — naukowej religii stworzonej przez Aleksandra Panczina. To nie jest żart ani clickbait, lecz eksperyment społeczny i próba stworzenia systemu wartości opartego nie na dogmatach i wierze, ale na ciekawości, krytycznym myśleniu i podejściu naukowym.
+Witamy w repozytorium Nulliaństwa — naukowej religii stworzonej przez Aleksandra Panszina. To nie żart ani clickbait, lecz eksperyment społeczny i próba stworzenia systemu wartości opartego nie na dogmatach i wierze, lecz na ciekawości, krytycznym myśleniu i podejściu naukowym.
 
 ## Główna idea
 
-Nullianizm to religia, która ma na celu zjednoczenie ludzi nie wokół bóstwa lub bóstw, ale wokół ludzkiej ciekawości. Używamy „powłoki” religii — jej potężnego mechanizmu rozpowszechniania idei i tworzenia społeczności — ale wypełniamy ją racjonalną i humanistyczną treścią.
+Nulliaństwo to religia, która ma zjednoczyć ludzi nie wokół bóstwa czy bóstw, lecz wokół ludzkiej ciekawości. Wykorzystujemy „skorupę” religii — jej potężny mechanizm rozpowszechniania idei i budowania społeczności — lecz wypełniamy ją treścią racjonalną i humanistyczną.
 
 **Naszym symbolem jest Zero (0)**. Symbolizuje ono:
 
@@ -18,19 +18,21 @@ Nullianizm to religia, która ma na celu zjednoczenie ludzi nie wokół bóstwa 
 
 ## Struktura repozytorium
 
-- [**Manifest Ciekawości (`MANIFESTO.md`)**](./MANIFESTO.md) — główny tekst programowy naszej religii, stworzony przez sztuczną inteligencję.
-- [**Przykazania (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 kluczowych zasad, którymi kieruje się nullianista.
-- [**Rytuały (`RITUALS.md`)**](./RITUALS.md) — praktyki pomagające wzmacniać i rozpowszechniać idee nullianizmu.
-- [**Filozofia (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — szczegółowe przedstawienie głównych wartości, poglądu na świat, etyki i wrogów nullianizmu.
+- [**Manifest Ciekawości (`MANIFESTO.md`)**](./MANIFESTO.md) — podstawowy tekst programowy naszej religii, wygenerowany przez sztuczną inteligencję.
+- [**Przykazania (`COMMANDMENTS.md`)**](./COMMANDMENTS.md) — 8 kluczowych zasad, którymi kieruje się nullianin.
+- [**Rytuały (`RITUALS.md`)**](./RITUALS.md) — praktyki pomagające umacniać i rozpowszechniać idee Nulliaństwa.
+- [**Filozofia (`PHILOSOPHY.md`)**](./PHILOSOPHY.md) — szczegółowe przedstawienie podstawowych wartości, spojrzenia na świat, etyki i wrogów Nulliaństwa.
 - [**Jak wnieść wkład (`CONTRIBUTING.md`)**](./CONTRIBUTING.md) — zasady dla tych, którzy chcą uczestniczyć w rozwoju tej religii.
 
-## Jak zostać nullianistą?
+## Jak zostać nullianinem?
 
-Jeśli podzielasz przedstawione tutaj idee, uważaj, że już jesteś nullianistą. Nie są wymagane żadne formalne procedury. Nasza religia jest zdecentralizowana.
+Jeśli podzielasz przedstawione tu idee, uznaj, że już jesteś nullianinem. Nie są wymagane żadne formalne procedury. Nasza religia jest zdecentralizowana.
 
 ## Jak pomóc projektowi?
 
-1. **Podziel się tym [filmem](https://www.youtube.com/watch?v=mCErecXWGCc) i repozytorium z przyjaciółmi.**
-2. **Dawaj lajki i zostawiaj komentarze.**
-3. **Proponuj swoje pomysły** na przykazania i rytuały poprzez Issues i Pull Requests w tym repozytorium.
-4. **Poprawić** stronę projektu można tutaj: https://github.com/nullianism/nullianism.github.io
+1. **Podziel się tym [filmem](https://www.youtube.com/watch?v=mCErecXWGCc) i repozytorium ze znajomymi.**
+2. **Zostawiaj polubienia i komentarze.**
+3. **Proponuj własne pomysły** na przykazania i rytuały poprzez Issues i Pull Requests w tym repozytorium.
+4. **Poprawki** do strony projektu można zgłaszać tutaj: https://github.com/nullianism/nullianism.github.io
+
+-----
